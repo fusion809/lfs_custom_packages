@@ -68,6 +68,10 @@
 /usr/lib/gstreamer-1.0/libgstgoom2k1.so
 /usr/lib/gstreamer-1.0/libgstadaptivedemux2.so
 /usr/share/gstreamer-1.0/presets
+/usr/share/gstreamer-1.0/presets/GstIirEqualizer10Bands.prs
+/usr/share/gstreamer-1.0/presets/GstVP8Enc.prs
+/usr/share/gstreamer-1.0/presets/GstIirEqualizer3Bands.prs
+/usr/share/gstreamer-1.0/presets/GstQTMux.prs
 /usr/share/locale/zh_HK/LC_MESSAGES
 /usr/share/locale/zh_HK/LC_MESSAGES/gst-plugins-good-1.0.mo
 /usr/share/locale/en_GB/LC_MESSAGES

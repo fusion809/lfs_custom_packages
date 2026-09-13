@@ -7,4 +7,5 @@
 /usr/share/man/man1/hyfetch.1
 /usr/share/bash-completion/completions
 /usr/share/bash-completion/completions/hyfetch
+/usr/bin
 /usr/bin/hyfetch

@@ -5,12 +5,11 @@
 /usr/lib/libgs.so.10
 /usr/share/doc
 /usr/share/doc/ghostscript-10.08.0
-/usr/share/doc/ghostscript-10.08.0/COPYING
-/usr/share/doc/ghostscript-10.08.0/Ghostscript.pdf
-/usr/share/doc/ghostscript-10.08.0/GS9_Color_Management.pdf
-/usr/share/doc/ghostscript-10.08.0/News.html
-/usr/share/ghostscript
-/usr/share/ghostscript/10.08.0
+/usr/share/doc/ghostscript-10.08.0/10.08.0
+/usr/share/doc/ghostscript-10.08.0/10.08.0/COPYING
+/usr/share/doc/ghostscript-10.08.0/10.08.0/Ghostscript.pdf
+/usr/share/doc/ghostscript-10.08.0/10.08.0/GS9_Color_Management.pdf
+/usr/share/doc/ghostscript-10.08.0/10.08.0/News.html
 /usr/share/ghostscript/10.08.0/lib
 /usr/share/ghostscript/10.08.0/lib/gs_m.xpm
 /usr/share/ghostscript/10.08.0/lib/gs_ksb_e.ps
@@ -184,7 +183,6 @@
 /usr/share/ghostscript/10.08.0/iccprofiles/srgb.icc
 /usr/share/ghostscript/10.08.0/iccprofiles/gray_to_k.icc
 /usr/share/ghostscript/10.08.0/iccprofiles/esrgb.icc
-/usr/share/ghostscript/10.08.0/Resource
 /usr/share/ghostscript/10.08.0/Resource/Encoding
 /usr/share/ghostscript/10.08.0/Resource/Encoding/NotDefEncoding
 /usr/share/ghostscript/10.08.0/Resource/Encoding/Wingdings
@@ -488,7 +486,6 @@
 /usr/share/ghostscript/10.08.0/Resource/Decoding/FCO_Dingbats
 /usr/share/ghostscript/10.08.0/Resource/Decoding/FCO_Wingdings
 /usr/share/ghostscript/10.08.0/Resource/Decoding/FCO_Symbol
-/usr/share/ghostscript/10.08.0/examples
 /usr/share/ghostscript/10.08.0/examples/alphabet.ps
 /usr/share/ghostscript/10.08.0/examples/text_graph_image_cmyk_rgb.pdf
 /usr/share/ghostscript/10.08.0/examples/vasarely.ps
@@ -505,7 +502,6 @@
 /usr/share/ghostscript/10.08.0/examples/grayalph.ps
 /usr/share/ghostscript/10.08.0/examples/golfer.eps
 /usr/share/ghostscript/10.08.0/examples/annots.pdf
-/usr/share/ghostscript/10.08.0/examples/cjk
 /usr/share/ghostscript/10.08.0/examples/cjk/iso2022v.ps
 /usr/share/ghostscript/10.08.0/examples/cjk/gscjk_ak.ps
 /usr/share/ghostscript/10.08.0/examples/cjk/gscjk_ac.ps

@@ -2,6 +2,13 @@
 /usr/lib
 /usr/lib/libgl2ps.a
 /usr/lib/libgl2ps.so.1.4.2
-/usr/share/doc
-/usr/share/doc/gl2ps
-/usr/share/doc/gl2ps/gl2ps.pdf
+/usr/share/doc/gl2ps/COPYING.LGPL
+/usr/share/doc/gl2ps/gl2psTestSimple.c
+/usr/share/doc/gl2ps/COPYING.GL2PS
+/usr/share/doc/gl2ps/gl2psTest.c
+/usr/share/doc/gl2ps/README.txt
+/usr/include/gl2ps.h
+/lib/libgl2ps.a
+/lib/libgl2ps.so.1.4.2
+/lib/libgl2ps.so.1
+/lib/libgl2ps.so

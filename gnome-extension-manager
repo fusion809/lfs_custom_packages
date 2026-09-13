@@ -86,6 +86,8 @@
 /usr/share/icons/hicolor
 /usr/share/icons/hicolor/icon-theme.cache
 /usr/share/icons/hicolor/scalable/apps
+/usr/share/icons/hicolor/scalable/apps/com.mattjakeman.ExtensionManager.svg
 /usr/share/icons/hicolor/symbolic/apps
+/usr/share/icons/hicolor/symbolic/apps/com.mattjakeman.ExtensionManager-symbolic.svg
 /usr/bin
 /usr/bin/extension-manager

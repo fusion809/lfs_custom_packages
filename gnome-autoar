@@ -13,7 +13,13 @@
 /usr/share/vala/vapi/gnome-autoar-0.deps
 /usr/share/vala/vapi/gnome-autoar-0.vapi
 /usr/include/gnome-autoar-0/gnome-autoar
+/usr/include/gnome-autoar-0/gnome-autoar/autoar-misc.h
+/usr/include/gnome-autoar-0/gnome-autoar/autoar-compressor.h
+/usr/include/gnome-autoar-0/gnome-autoar/autoar-mime-types.h
+/usr/include/gnome-autoar-0/gnome-autoar/gnome-autoar.h
+/usr/include/gnome-autoar-0/gnome-autoar/autoar-format-filter.h
 /usr/include/gnome-autoar-0/gnome-autoar/autoar-enum-types.h
+/usr/include/gnome-autoar-0/gnome-autoar/autoar-extractor.h
 /lib/girepository-1.0
 /lib/pkgconfig
 /lib/libgnome-autoar-0.so.0
