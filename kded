@@ -4,7 +4,7 @@
 /usr/lib/cmake/KF6KDED
 /usr/lib/cmake/KF6KDED/KF6KDEDConfig.cmake
 /usr/lib/cmake/KF6KDED/KF6KDEDConfigVersion.cmake
-/usr/share/applications
+/usr/share/applications/org.kde.kded6.desktop
 /usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/org.kde.kded6.xml
 /usr/share/dbus-1/services
@@ -40,4 +40,3 @@
 /lib/systemd/user/plasma-kded6.service
 /lib/cmake/KF6KDED/KF6KDEDConfig.cmake
 /lib/cmake/KF6KDED/KF6KDEDConfigVersion.cmake
-/usr/share/applications/org.kde.kded6.desktop

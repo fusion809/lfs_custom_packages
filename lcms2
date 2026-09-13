@@ -6,6 +6,8 @@
 /usr/lib/pkgconfig/lcms2.pc
 /usr/lib/liblcms2.so.2.0.19
 /usr/include
+/usr/include/lcms2.h
+/usr/include/lcms2_plugin.h
 /lib/pkgconfig
 /lib/liblcms2.so.2
 /lib/liblcms2.so

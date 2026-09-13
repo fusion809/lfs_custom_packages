@@ -2,6 +2,8 @@
 /usr/lib
 /usr/lib/libKF6DBusAddons.so.6.30.0
 /usr/lib/cmake/KF6DBusAddons
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsMacros.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6dbus.service.in
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfigVersion.cmake
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets.cmake
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfig.cmake
@@ -138,14 +140,14 @@
 /usr/include/KF6/KDBusAddons/KUpdateLaunchEnvironmentJob
 /usr/include/KF6/KDBusAddons/kdbusaddons_export.h
 /usr/include/KF6/KDBusAddons/kdbusaddons_version.h
+/usr/include/KF6/KDBusAddons/kdbusservice.h
+/usr/include/KF6/KDBusAddons/kupdatelaunchenvironmentjob.h
 /usr/include/KF6/KDBusAddons/KDEDModule
+/usr/include/KF6/KDBusAddons/kdedmodule.h
 /bin/kquitapp6
 /lib/libKF6DBusAddons.so.6.30.0
 /lib/libKF6DBusAddons.so.6
 /lib/libKF6DBusAddons.so
-/usr/include/KF6/KDBusAddons/kdbusservice.h
-/usr/include/KF6/KDBusAddons/kdedmodule.h
-/usr/include/KF6/KDBusAddons/kupdatelaunchenvironmentjob.h
 /lib/cmake/KF6DBusAddons/KF6DBusAddonsConfig.cmake
 /lib/cmake/KF6DBusAddons/KF6DBusAddonsConfigVersion.cmake
 /lib/cmake/KF6DBusAddons/KF6DBusAddonsMacros.cmake

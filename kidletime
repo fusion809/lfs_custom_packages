@@ -16,12 +16,12 @@
 /usr/include/KF6/KIdleTime
 /usr/include/KF6/KIdleTime/KIdleTime
 /usr/include/KF6/KIdleTime/kidletime_version.h
+/usr/include/KF6/KIdleTime/kidletime.h
 /usr/include/KF6/KIdleTime/kidletime_export.h
+/usr/include/KF6/KIdleTime/private/kabstractidletimepoller_p.h
 /lib/plugins/kf6/org.kde.kidletime.platforms/KF6IdleTimeXcbPlugin1.so
 /lib/plugins/kf6/org.kde.kidletime.platforms/KF6IdleTimeXcbPlugin0.so
 /lib/plugins/kf6/org.kde.kidletime.platforms/KF6IdleTimeWaylandPlugin.so
-/usr/include/KF6/KIdleTime/kidletime.h
-/usr/include/KF6/KIdleTime/private/kabstractidletimepoller_p.h
 /lib/libKF6IdleTime.so.6.30.0
 /lib/libKF6IdleTime.so.6
 /lib/libKF6IdleTime.so

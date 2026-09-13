@@ -1,8 +1,6 @@
 6.7.5
-/usr/share/knotifications6
+/usr/share/knotifications6/kwrited.notifyrc
 /usr/bin
 /usr/bin/kwrited
-/etc/xdg/autostart
-/bin/kwrited
 /etc/xdg/autostart/kwrited-autostart.desktop
-/usr/share/knotifications6/kwrited.notifyrc
+/bin/kwrited

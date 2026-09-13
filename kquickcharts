@@ -11,7 +11,13 @@
 /usr/lib/qml/org/kde/quickcharts/controls/kde-qmlmodule.version
 /usr/lib/qml/org/kde/quickcharts/controls/libQuickChartsControlsplugin.so
 /usr/lib/qml/org/kde/quickcharts/controls/QuickChartsControls.qmltypes
+/usr/lib/qml/org/kde/quickcharts/controls/Theme.qml
+/usr/lib/qml/org/kde/quickcharts/controls/Legend.qml
 /usr/lib/qml/org/kde/quickcharts/controls/qmldir
+/usr/lib/qml/org/kde/quickcharts/controls/KirigamiTheme.qml
+/usr/lib/qml/org/kde/quickcharts/controls/PieChartControl.qml
+/usr/lib/qml/org/kde/quickcharts/controls/LegendDelegate.qml
+/usr/lib/qml/org/kde/quickcharts/controls/LineChartControl.qml
 /usr/lib/cmake/KF6QuickCharts
 /usr/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets-release.cmake
 /usr/lib/cmake/KF6QuickCharts/KF6QuickChartsConfig.cmake

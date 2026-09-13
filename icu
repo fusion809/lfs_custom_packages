@@ -6,12 +6,13 @@
 /usr/sbin/escapesrc
 /usr/sbin/gencmn
 /usr/sbin/genccode
+/usr/lib
 /usr/lib/libicudata.so
 /usr/lib/libicui18n.so.78
 /usr/lib/libicutest.so.78
-/usr/lib/graphviz
 /usr/lib/libicui18n.so
 /usr/lib/libicui18n.so.78.3
+/usr/lib/pkgconfig
 /usr/lib/pkgconfig/icu-io.pc
 /usr/lib/pkgconfig/icu-i18n.pc
 /usr/lib/pkgconfig/icu-uc.pc
@@ -35,7 +36,6 @@
 /usr/lib/libicuuc.so
 /usr/lib/libicutest.so.78.3
 /usr/lib/libicuio.so
-/usr/share/icu
 /usr/share/icu/78.3
 /usr/share/icu/78.3/install-sh
 /usr/share/icu/78.3/config
@@ -59,6 +59,7 @@
 /usr/share/man/man8/gencmn.8
 /usr/share/man/man8/gensprep.8
 /usr/share/man/man8/genccode.8
+/usr/bin
 /usr/bin/gendict
 /usr/bin/icu-config
 /usr/bin/genrb

@@ -8,10 +8,14 @@
 /usr/lib/libKDSoapWSDiscoveryClient.so.0.4.0
 /usr/include/KDSoapWSDiscoveryClient
 /usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient_export.h
+/usr/include/KDSoapWSDiscoveryClient/wsdiscoverytargetservice.h
 /usr/include/KDSoapWSDiscoveryClient/kdsoap_wsdiscovery_client_version.h
 /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryProbeJob
 /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryTargetService
+/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryprobejob.h
 /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryClient
+/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient.h
+/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryserviceaggregator.h
 /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryServiceAggregator
 /lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfig.cmake
 /lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfigVersion.cmake
@@ -20,7 +24,3 @@
 /lib/libKDSoapWSDiscoveryClient.so.0.4.0
 /lib/libKDSoapWSDiscoveryClient.so.0
 /lib/libKDSoapWSDiscoveryClient.so
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryprobejob.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoverytargetservice.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryserviceaggregator.h

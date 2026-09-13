@@ -296,14 +296,9 @@
 /usr/lib/libMagickWand-7.Q16HDRI.so
 /usr/lib/libMagickCore-7.Q16HDRI.so.10.0.3
 /usr/lib/libMagickWand-7.Q16HDRI.so.10.0.3
-/usr/lib/perl5/5.44/site_perl/auto/Image/Magick
-/usr/lib/perl5/5.44/site_perl/auto/Image/Magick/Magick.so
-/usr/lib/perl5/5.44/site_perl/auto/Image/Magick/Q16HDRI
-/usr/lib/perl5/5.44/site_perl/auto/Image/Magick/Q16HDRI/Q16HDRI.so
 /usr/lib/perl5/5.44/site_perl/auto/Image/Magick/.packlist
 /usr/lib/perl5/5.44/core_perl/perllocal.pod
 /usr/lib/libMagickWand-7.Q16HDRI.la
-/usr/share/doc
 /usr/share/doc/imagemagick-7.1.2-31
 /usr/share/doc/imagemagick-7.1.2-31/LICENSE
 /usr/share/doc/imagemagick-7.1.2-31/index.html

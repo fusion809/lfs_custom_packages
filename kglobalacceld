@@ -1,6 +1,5 @@
 6.7.5
 /usr/lib
-/usr/lib/libKGlobalAccelD.so.0
 /usr/lib/plugins/org.kde.kglobalacceld.platforms
 /usr/lib/plugins/org.kde.kglobalacceld.platforms/KGlobalAccelDXcb.so
 /usr/lib/systemd/user
@@ -17,14 +16,14 @@
 /usr/libexec/kglobalacceld
 /usr/include/KGlobalAccelD
 /usr/include/KGlobalAccelD/kglobalacceld_export.h
+/usr/include/KGlobalAccelD/shortcutkeystate.h
+/usr/include/KGlobalAccelD/kglobalacceld.h
+/usr/include/KGlobalAccelD/kglobalaccel_interface.h
 /etc/xdg/autostart
 /etc/xdg/autostart/kglobalacceld.desktop
 /lib/plugins/org.kde.kglobalacceld.platforms/KGlobalAccelDXcb.so
 /lib/libKGlobalAccelD.so.6.7.5
 /lib/libKGlobalAccelD.so.0
-/usr/include/KGlobalAccelD/shortcutkeystate.h
-/usr/include/KGlobalAccelD/kglobalacceld.h
-/usr/include/KGlobalAccelD/kglobalaccel_interface.h
 /lib/systemd/user/plasma-kglobalaccel.service
 /lib/cmake/KGlobalAccelD/KGlobalAccelDConfig.cmake
 /lib/cmake/KGlobalAccelD/KGlobalAccelDConfigVersion.cmake

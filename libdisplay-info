@@ -8,6 +8,16 @@
 /usr/bin
 /usr/bin/di-edid-decode
 /usr/include/libdisplay-info
+/usr/include/libdisplay-info/displayid.h
+/usr/include/libdisplay-info/dmt.h
+/usr/include/libdisplay-info/cvt.h
+/usr/include/libdisplay-info/gtf.h
+/usr/include/libdisplay-info/edid.h
+/usr/include/libdisplay-info/cta-vic.h
+/usr/include/libdisplay-info/cta.h
+/usr/include/libdisplay-info/hdmi-vic.h
+/usr/include/libdisplay-info/displayid2.h
+/usr/include/libdisplay-info/info.h
 /lib/pkgconfig
 /lib/libdisplay-info.so.4
 /lib/libdisplay-info.so
