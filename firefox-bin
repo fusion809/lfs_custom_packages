@@ -1,5 +1,4 @@
 155.0.1
-/usr/lib/firefox
 /usr/lib/firefox/platform.ini
 /usr/lib/firefox/libmozavutil.so
 /usr/lib/firefox/libmozgtk.so
@@ -9,7 +8,6 @@
 /usr/lib/firefox/precomplete
 /usr/lib/firefox/libsmime3.so
 /usr/lib/firefox/libmozwayland.so
-/usr/lib/firefox/distribution
 /usr/lib/firefox/distribution/distribution.ini
 /usr/lib/firefox/libplc4.so
 /usr/lib/firefox/liblgpllibs.so
@@ -18,7 +16,6 @@
 /usr/lib/firefox/libmozsqlite3.so
 /usr/lib/firefox/libnssutil3.so
 /usr/lib/firefox/dependentlibs.list
-/usr/lib/firefox/defaults/pref
 /usr/lib/firefox/defaults/pref/channel-prefs.js
 /usr/lib/firefox/libnss3.so
 /usr/lib/firefox/firefox-bin
@@ -30,7 +27,6 @@
 /usr/lib/firefox/firefox-bin.sig
 /usr/lib/firefox/libmozinference.so
 /usr/lib/firefox/updater
-/usr/lib/firefox/fonts
 /usr/lib/firefox/fonts/TwemojiMozilla.ttf
 /usr/lib/firefox/omni.ja
 /usr/lib/firefox/libxul.so
@@ -48,7 +44,6 @@
 /usr/lib/firefox/browser/chrome/icons/default/default48.png
 /usr/lib/firefox/browser/omni.ja
 /usr/lib/firefox/firefox
-/usr/lib/firefox/icons
 /usr/lib/firefox/icons/updater.png
 /usr/lib/firefox/update-settings.ini
 /usr/lib/firefox/libmozsandbox.so

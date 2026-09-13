@@ -87,7 +87,6 @@
 /usr/share/man/man1/gawkbug.1
 /usr/share/man/man1/pm-gawk.1
 /usr/share/man/man3
-/usr/share/man/man3/filefuncs.3am
 /usr/share/man/man3/fnmatch.3am
 /usr/share/man/man3/fork.3am
 /usr/share/man/man3/inplace.3am
@@ -99,6 +98,7 @@
 /usr/share/man/man3/revtwoway.3am
 /usr/share/man/man3/rwarray.3am
 /usr/share/man/man3/time.3am
+/usr/share/man/man3/filefuncs.3am
 /usr/share/info
 /usr/share/info/gawk_process-flow.png
 /usr/share/info/gawk_statist.jpg

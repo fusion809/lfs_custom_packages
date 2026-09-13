@@ -1,9 +1,9 @@
 1.0.5
-/usr/share/fonts/X11/OTF
-/usr/share/fonts/X11/OTF/GohaTibebZemen.otf
-/usr/share/fonts/X11/OTF/fonts.dir
-/usr/share/fonts/X11/OTF/fonts.scale
 /usr/share/fonts/X11/TTF
+/usr/share/fonts/X11/TTF/fonts.scale
 /usr/share/fonts/X11/TTF/GohaTibebZemen.ttf
 /usr/share/fonts/X11/TTF/fonts.dir
-/usr/share/fonts/X11/TTF/fonts.scale
+/usr/share/fonts/X11/OTF
+/usr/share/fonts/X11/OTF/fonts.scale
+/usr/share/fonts/X11/OTF/fonts.dir
+/usr/share/fonts/X11/OTF/GohaTibebZemen.otf

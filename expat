@@ -5,14 +5,12 @@
 /usr/lib/pkgconfig/expat.pc
 /usr/lib/libexpat.la
 /usr/lib/libexpat.so
-/usr/lib/cmake
 /usr/lib/cmake/expat-2.8.4
 /usr/lib/cmake/expat-2.8.4/expat.cmake
 /usr/lib/cmake/expat-2.8.4/expat-config.cmake
 /usr/lib/cmake/expat-2.8.4/expat-config-version.cmake
 /usr/lib/cmake/expat-2.8.4/expat-noconfig.cmake
 /usr/lib/libexpat.so.1.12.4
-/usr/share/doc
 /usr/share/doc/expat-2.8.4
 /usr/share/doc/expat-2.8.4/style.css
 /usr/share/doc/expat-2.8.4/AUTHORS

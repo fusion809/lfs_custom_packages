@@ -9,7 +9,6 @@
 /usr/lib/libfuse3.so.4
 /usr/lib/libfuse3.so.3.18.3
 /usr/lib/libfuse3.so
-/usr/share/doc
 /usr/share/doc/fuse-3.18.3
 /usr/share/doc/fuse-3.18.3/clipboard.js
 /usr/share/doc/fuse-3.18.3/test_2hello_8c_source.html
@@ -155,11 +154,19 @@
 /usr/share/doc/fuse-3.18.3/release__unlink__race_8c_source.html
 /usr/share/doc/fuse-3.18.3/structfuse__ring__pool.html
 /usr/share/man/man1
+/usr/share/man/man1/fusermount3.1
 /usr/share/man/man8
+/usr/share/man/man8/mount.fuse3.8
 /usr/bin
 /usr/bin/fusermount3
 /usr/include/fuse3
+/usr/include/fuse3/fuse_lowlevel.h
 /usr/include/fuse3/libfuse_config.h
+/usr/include/fuse3/cuse_lowlevel.h
+/usr/include/fuse3/fuse_log.h
+/usr/include/fuse3/fuse_opt.h
+/usr/include/fuse3/fuse.h
+/usr/include/fuse3/fuse_common.h
 /etc
 /etc/fuse.conf
 /etc/init.d
