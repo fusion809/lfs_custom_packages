@@ -1,4 +1,4 @@
-50.0
+51.0
 /usr/lib/pkcs11
 /usr/lib/pkcs11/gnome-keyring-pkcs11.so
 /usr/lib/security
@@ -47,6 +47,8 @@
 /usr/share/locale/gd/LC_MESSAGES/gnome-keyring.mo
 /usr/share/locale/hr/LC_MESSAGES
 /usr/share/locale/hr/LC_MESSAGES/gnome-keyring.mo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/gnome-keyring.mo
 /usr/share/locale/da/LC_MESSAGES
 /usr/share/locale/da/LC_MESSAGES/gnome-keyring.mo
 /usr/share/locale/sq/LC_MESSAGES
@@ -210,8 +212,6 @@
 /usr/share/glib-2.0/schemas
 /usr/share/glib-2.0/schemas/org.gnome.crypto.cache.gschema.xml
 /usr/share/glib-2.0/schemas/gschemas.compiled
-/usr/share/GConf/gsettings
-/usr/share/GConf/gsettings/org.gnome.crypto.cache.convert
 /usr/share/man/man1
 /usr/share/man/man1/gnome-keyring-3.1
 /usr/share/man/man1/gnome-keyring.1
