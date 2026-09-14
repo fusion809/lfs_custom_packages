@@ -12,5 +12,12 @@
 /usr/bin
 /usr/bin/notify-send
 /usr/include/libnotify
+/usr/include/libnotify/notification-hints.h
 /usr/include/libnotify/notify-features.h
 /usr/include/libnotify/notify-enum-types.h
+/usr/include/libnotify/notification.h
+/usr/include/libnotify/notify.h
+/lib/girepository-1.0
+/lib/pkgconfig
+/lib/libnotify.so.4
+/lib/libnotify.so
