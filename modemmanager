@@ -324,3 +324,10 @@
 /usr/share/polkit-1
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.freedesktop.ModemManager1.policy
+/lib/girepository-1.0
+/lib/ModemManager
+/lib/systemd/system
+/lib/pkgconfig
+/lib/udev/rules.d
+/lib/libmm-glib.so.0
+/lib/libmm-glib.so
