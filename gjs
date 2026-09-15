@@ -1,4 +1,4 @@
-1.89.2
+1.90.0
 /usr/lib
 /usr/lib/libgjs.so.0.0.0
 /usr/lib/pkgconfig

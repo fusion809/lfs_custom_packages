@@ -1,4 +1,4 @@
-50.4
+51.0
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.gnome.controlcenter.remote-session-helper.policy
 /usr/share/polkit-1/actions/org.gnome.controlcenter.system.policy
@@ -14,6 +14,8 @@
 /usr/share/locale/nds/LC_MESSAGES
 /usr/share/locale/nds/LC_MESSAGES/gnome-control-center-2.0-timezones.mo
 /usr/share/locale/nds/LC_MESSAGES/gnome-control-center-2.0.mo
+/usr/share/locale/mi/LC_MESSAGES
+/usr/share/locale/mi/LC_MESSAGES/gnome-control-center-2.0.mo
 /usr/share/locale/nso/LC_MESSAGES
 /usr/share/locale/nso/LC_MESSAGES/gnome-control-center-2.0.mo
 /usr/share/locale/ms/LC_MESSAGES
@@ -228,6 +230,8 @@
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/gnome-control-center-2.0-timezones.mo
 /usr/share/locale/ml/LC_MESSAGES/gnome-control-center-2.0.mo
+/usr/share/locale/sat/LC_MESSAGES
+/usr/share/locale/sat/LC_MESSAGES/gnome-control-center-2.0.mo
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/gnome-control-center-2.0.mo
 /usr/share/locale/kk/LC_MESSAGES

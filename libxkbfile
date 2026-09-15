@@ -6,6 +6,12 @@
 /usr/lib/libxkbfile.so.1.0.2
 /usr/lib/libxkbfile.so.1
 /usr/include/X11/extensions
+/usr/include/X11/extensions/XKBbells.h
+/usr/include/X11/extensions/XKMformat.h
+/usr/include/X11/extensions/XKBrules.h
+/usr/include/X11/extensions/XKM.h
+/usr/include/X11/extensions/XKBconfig.h
+/usr/include/X11/extensions/XKBfile.h
 /etc
 /etc/ld.so.cache
 /lib/pkgconfig

@@ -33,18 +33,14 @@
 /usr/lib/libformw.so.6
 /usr/lib/libncurses.so
 /usr/share
-/usr/share/doc
-/usr/share/doc/ncurses-6.6
 /usr/share/doc/ncurses-6.6/hackguide.doc
 /usr/share/doc/ncurses-6.6/ncurses-intro.doc
-/usr/share/doc/ncurses-6.6/html
 /usr/share/doc/ncurses-6.6/html/ncurses-intro.html
 /usr/share/doc/ncurses-6.6/html/NCURSES-Programming-HOWTO.html
 /usr/share/doc/ncurses-6.6/html/announce.html
 /usr/share/doc/ncurses-6.6/html/hackguide.html
 /usr/share/doc/ncurses-6.6/html/index.html
 /usr/share/doc/ncurses-6.6/html/Ada95.html
-/usr/share/doc/ncurses-6.6/html/man
 /usr/share/doc/ncurses-6.6/html/man/form_field_info.3x.html
 /usr/share/doc/ncurses-6.6/html/man/curs_trace.3x.html
 /usr/share/doc/ncurses-6.6/html/man/form_field_userptr.3x.html
@@ -182,7 +178,6 @@
 /usr/share/doc/ncurses-6.6/html/man/curs_window.3x.html
 /usr/share/doc/ncurses-6.6/html/man/menu_post.3x.html
 /usr/share/doc/ncurses-6.6/html/man/curs_outopts.3x.html
-/usr/share/doc/ncurses-6.6/html/ada
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-trace__adb.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-forms-field_types-enumeration-ada__ads.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-putwin__ads.htm
@@ -237,7 +232,6 @@
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-text_io-enumeration_io__ads.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-menus__ads.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-forms-field_types-regexp__adb.htm
-/usr/share/doc/ncurses-6.6/html/ada/funcs
 /usr/share/doc/ncurses-6.6/html/ada/funcs/S.htm
 /usr/share/doc/ncurses-6.6/html/ada/funcs/G.htm
 /usr/share/doc/ncurses-6.6/html/ada/funcs/R.htm
@@ -276,7 +270,6 @@
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-text_io-aux__ads.htm
 /usr/share/doc/ncurses-6.6/html/ada/funcs.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-forms__ads.htm
-/usr/share/doc/ncurses-6.6/html/ada/files
 /usr/share/doc/ncurses-6.6/html/ada/files/T.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-forms-field_user_data__adb.htm
 /usr/share/doc/ncurses-6.6/html/ada/terminal_interface-curses-terminfo__ads.htm

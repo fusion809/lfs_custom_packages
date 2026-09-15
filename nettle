@@ -9,6 +9,13 @@
 /usr/lib/libnettle.so.9.0
 /usr/lib/libnettle.so
 /usr/lib/libhogweed.so.7.0
+/usr/share/doc
+/usr/share/doc/nettle-4.0
+/usr/share/doc/nettle-4.0/nettle.html
+/usr/share/doc/nettle-4.0/nettle.pdf
+/usr/share/info
+/usr/share/info/dir
+/usr/share/info/nettle.info
 /usr/bin
 /usr/bin/sexp-conv
 /usr/bin/nettle-hash

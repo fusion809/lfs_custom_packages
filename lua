@@ -5,7 +5,6 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/lua.pc
 /usr/lib/liblua.so
-/usr/share/doc/lua-5.5.1
 /usr/share/doc/lua-5.5.1/lua.css
 /usr/share/doc/lua-5.5.1/OSIApproved.png
 /usr/share/doc/lua-5.5.1/manual.css

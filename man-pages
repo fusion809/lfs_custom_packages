@@ -1,5 +1,4 @@
 6.19
-/usr/share/man
 /usr/share/man/man2const
 /usr/share/man/man2const/TIOCSCTTY.2const
 /usr/share/man/man2const/TIOCCBRK.2const
@@ -1267,7 +1266,6 @@
 /usr/share/man/man5/tunables.conf.5
 /usr/share/man/man3
 /usr/share/man/man3/getspnam.3
-/usr/share/man/man3/intro.3
 /usr/share/man/man3/a64l.3
 /usr/share/man/man3/abort.3
 /usr/share/man/man3/abs.3
@@ -2993,6 +2991,7 @@
 /usr/share/man/man3/yn.3
 /usr/share/man/man3/ynf.3
 /usr/share/man/man3/ynl.3
+/usr/share/man/man3/intro.3
 /usr/share/man/man3type
 /usr/share/man/man3type/sockaddr_un.3type
 /usr/share/man/man3type/intN_t.3type
@@ -3146,12 +3145,3 @@
 /usr/share/man/man4/loop.4
 /usr/share/man/man4/hpsa.4
 /usr/share/man/man4/mem.4
-/usr/bin
-/usr/bin/grepc
-/usr/bin/mansect
-/usr/bin/pdfman
-/usr/bin/diffman-git
-/usr/bin/mansectf
-/usr/bin/sortman
-/usr/bin/grepc_mk
-/usr/bin/grepc_c

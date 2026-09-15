@@ -1,4 +1,4 @@
-50.1
+51.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/gnome-session-monitor.service
 /usr/lib/systemd/user/gnome-session@gnome.target.d
@@ -200,6 +200,8 @@
 /usr/share/locale/ug/LC_MESSAGES/gnome-session.mo
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/gnome-session.mo
+/usr/share/locale/sat/LC_MESSAGES
+/usr/share/locale/sat/LC_MESSAGES/gnome-session.mo
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/gnome-session.mo
 /usr/share/locale/kk/LC_MESSAGES

@@ -1,16 +1,13 @@
 0.3.34
 /usr/lib
-/usr/lib/libopenblas.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/openblas.pc
-/usr/lib/cmake
 /usr/lib/cmake/OpenBLAS
 /usr/lib/cmake/OpenBLAS/OpenBLASTargets.cmake
 /usr/lib/cmake/OpenBLAS/OpenBLASConfigVersion.cmake
 /usr/lib/cmake/OpenBLAS/OpenBLASConfig.cmake
 /usr/lib/cmake/OpenBLAS/OpenBLASTargets-noconfig.cmake
 /usr/lib/libopenblas.so.0.3
-/usr/lib/libopenblas.so.0
 /usr/include/openblas
 /usr/include/openblas/lapacke_mangling.h
 /usr/include/openblas/lapacke_config.h

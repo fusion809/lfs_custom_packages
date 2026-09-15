@@ -1,4 +1,4 @@
-51.0
+51.0.1
 /usr/lib
 /usr/lib/libnautilus-extension.so.4
 /usr/lib/libnautilus-extension.so
@@ -267,6 +267,8 @@
 /usr/share/dbus-1/services
 /usr/share/dbus-1/services/org.freedesktop.FileManager1.service
 /usr/share/dbus-1/services/org.gnome.Nautilus.service
+/usr/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com/schemas
+/usr/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com/schemas/gschemas.compiled
 /usr/share/gnome-shell/search-providers
 /usr/share/gnome-shell/search-providers/org.gnome.Nautilus.search-provider.ini
 /usr/share/nautilus/ontology

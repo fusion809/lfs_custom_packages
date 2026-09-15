@@ -1,7 +1,7 @@
 1.2.4
-/usr/bin
-/usr/bin/mkfontdir
-/usr/bin/mkfontscale
 /usr/share/man/man1
 /usr/share/man/man1/mkfontdir.1
 /usr/share/man/man1/mkfontscale.1
+/usr/bin
+/usr/bin/mkfontscale
+/usr/bin/mkfontdir
