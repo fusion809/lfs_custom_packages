@@ -1266,7 +1266,6 @@
 /usr/share/man/man5/tunables.conf.5
 /usr/share/man/man3
 /usr/share/man/man3/getspnam.3
-/usr/share/man/man3/a64l.3
 /usr/share/man/man3/abort.3
 /usr/share/man/man3/abs.3
 /usr/share/man/man3/acos.3
@@ -2991,6 +2990,7 @@
 /usr/share/man/man3/yn.3
 /usr/share/man/man3/ynf.3
 /usr/share/man/man3/ynl.3
+/usr/share/man/man3/a64l.3
 /usr/share/man/man3/intro.3
 /usr/share/man/man3type
 /usr/share/man/man3type/sockaddr_un.3type

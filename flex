@@ -4,7 +4,6 @@
 /usr/lib/libfl.so.2
 /usr/lib/libfl.so.2.0.0
 /usr/lib/libfl.so
-/usr/share/doc
 /usr/share/doc/flex-2.6.4
 /usr/share/doc/flex-2.6.4/COPYING
 /usr/share/doc/flex-2.6.4/AUTHORS
@@ -68,5 +67,6 @@
 /usr/bin
 /usr/bin/flex++
 /usr/bin/flex
+/usr/bin/lex
 /usr/include
 /usr/include/FlexLexer.h

@@ -4,8 +4,6 @@
 /usr/lib/libprrte.so.3.0.14
 /usr/lib/libprrte.la
 /usr/lib/libprrte.so
-/usr/share/doc
-/usr/share/doc/prrte
 /usr/share/doc/prrte/html
 /usr/share/doc/prrte/html/install.html
 /usr/share/doc/prrte/html/_sources
@@ -151,7 +149,6 @@
 /usr/share/doc/prrte/html/_static/searchtools.js
 /usr/share/doc/prrte/html/_static/minus.png
 /usr/share/doc/prrte/html/_static/doctools.js
-/usr/share/doc/prrte/html/_static/fonts
 /usr/share/doc/prrte/html/_static/fonts/RobotoSlab
 /usr/share/doc/prrte/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf
 /usr/share/doc/prrte/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2

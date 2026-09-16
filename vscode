@@ -1,4 +1,4 @@
-1.137.0
+1.138.0
 /usr/share
 /usr/share/mime/packages/code-workspace.xml
 /usr/share/applications/code.desktop
@@ -1035,9 +1035,6 @@
 /usr/share/code/resources/app/extensions/theme-red/themes/Red-color-theme.json
 /usr/share/code/resources/app/extensions/markdown-language-features
 /usr/share/code/resources/app/extensions/markdown-language-features/package.json
-/usr/share/code/resources/app/extensions/markdown-language-features/scripts
-/usr/share/code/resources/app/extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts
-/usr/share/code/resources/app/extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts
 /usr/share/code/resources/app/extensions/markdown-language-features/dist
 /usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain.js
 /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js
@@ -2828,15 +2825,6 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/definitions/code-review.agent.yaml
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-html.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/index.js
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/package.json
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/index.js
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/sync-worker.js
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/codegen-cli.js
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-css.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/ripgrep
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/ripgrep/bin
@@ -2848,6 +2836,8 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/customize-cloud-agent/SKILL.md
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/github-pr-media
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/github-pr-media/SKILL.md
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/copilotRequestHandler.d.ts
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/index.d.ts
@@ -2860,6 +2850,7 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/types.d.ts
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/index.js
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/sessionFsProvider.d.ts
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/docs
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/docs/factory-patterns.md
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/docs/extensions.md
@@ -2876,7 +2867,6 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-php.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-bash.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/sdk
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/sdk/index.d.ts
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/sdk/index.js
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-python.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tgrep
@@ -2893,11 +2883,16 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/assets
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/assets/copilot.png
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/assets/copilot.svg
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/assets/copilot.ico
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/assets/copilot_win.png
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/github-pr-media
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-cpp.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/app.js
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-json.wasm
@@ -2908,6 +2903,9 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/schemas
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/schemas/session-events.schema.json
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/schemas/api.schema.json
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/banner.json.gz
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/app-install-nudge.json.gz
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-ruby.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-tsx.wasm
 /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/tree-sitter-c_sharp.wasm
@@ -3051,11 +3049,4 @@
 /usr/share/bash-completion/completions/code
 /usr/bin
 /usr/bin/code
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/banner.json.gz
-/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/app-install-nudge.json.gz
+/usr/share/code/resources/app/extensions/javascript/syntaxes/Regular
