@@ -1,12 +1,3 @@
 1.36
-/usr/lib/perl5/5.44/site_perl
-/usr/lib/perl5/5.44/site_perl/auto
-/usr/lib/perl5/5.44/site_perl/auto/Class
-/usr/lib/perl5/5.44/site_perl/auto/Class/Inspector
 /usr/lib/perl5/5.44/site_perl/auto/Class/Inspector/.packlist
-/usr/lib/perl5/5.44/site_perl/Class
-/usr/lib/perl5/5.44/site_perl/Class/Inspector
 /usr/lib/perl5/5.44/core_perl/perllocal.pod
-/usr/share/man/man3
-/usr/share/man/man3/Class::Inspector::Functions.3
-/usr/share/man/man3/Class::Inspector.3

@@ -1,4 +1,4 @@
-2.2.0
+2.2.1
 /usr/lib
 /usr/lib/libglycin-2.so
 /usr/lib/libglycin-gtk4-2.so.0
@@ -36,7 +36,9 @@
 /usr/libexec/glycin-loaders/2+/glycin-jxl
 /usr/libexec/glycin-loaders/2+/glycin-heif
 /usr/include/glycin-2
+/usr/include/glycin-2/glycin.h
 /usr/include/glycin-gtk4-2
+/usr/include/glycin-gtk4-2/glycin-gtk4.h
 /lib/girepository-1.0
 /lib/pkgconfig
 /lib/libglycin-2.so

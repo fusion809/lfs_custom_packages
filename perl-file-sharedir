@@ -1,16 +1,3 @@
 1.118
-/usr/lib/perl5/5.44/site_perl
-/usr/lib/perl5/5.44/site_perl/auto
-/usr/lib/perl5/5.44/site_perl/auto/share
-/usr/lib/perl5/5.44/site_perl/auto/share/dist
-/usr/lib/perl5/5.44/site_perl/auto/share/dist/File-ShareDir
-/usr/lib/perl5/5.44/site_perl/auto/share/dist/File-ShareDir/subdir
-/usr/lib/perl5/5.44/site_perl/auto/share/module
-/usr/lib/perl5/5.44/site_perl/auto/share/module/File-ShareDir
-/usr/lib/perl5/5.44/site_perl/auto/File
-/usr/lib/perl5/5.44/site_perl/auto/File/ShareDir
 /usr/lib/perl5/5.44/site_perl/auto/File/ShareDir/.packlist
-/usr/lib/perl5/5.44/site_perl/File
 /usr/lib/perl5/5.44/core_perl/perllocal.pod
-/usr/share/man/man3
-/usr/share/man/man3/File::ShareDir.3

@@ -22,8 +22,9 @@
 /usr/lib/ostree
 /usr/lib/ostree/ostree-remount
 /usr/lib/ostree/ostree-prepare-root
-/usr/share/doc
-/usr/share/doc/libostree-2026.4
+/usr/share/doc/libostree-2026.4/COPYING
+/usr/share/doc/libostree-2026.4/TODO
+/usr/share/doc/libostree-2026.4/README.md
 /usr/share/gir-1.0
 /usr/share/gir-1.0/OSTree-1.0.gir
 /usr/share/ostree/trusted.gpg.d

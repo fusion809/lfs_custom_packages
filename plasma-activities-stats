@@ -1,6 +1,5 @@
 6.7.5
 /usr/lib
-/usr/lib/libPlasmaActivitiesStats.so.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/PlasmaActivitiesStats.pc
 /usr/lib/libPlasmaActivitiesStats.so.6.7.5
@@ -15,7 +14,13 @@
 /usr/include/PlasmaActivitiesStats
 /usr/include/PlasmaActivitiesStats/plasmaactivitiesstats_version.h
 /usr/include/PlasmaActivitiesStats/plasmaactivitiesstats
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultset.h
 /usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/plasmaactivitiesstats_export.h
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/cleaning.h
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultmodel.h
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultwatcher.h
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/terms.h
+/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/query.h
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats/Query
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats/Terms
@@ -26,12 +31,6 @@
 /lib/libPlasmaActivitiesStats.so.6.7.5
 /lib/libPlasmaActivitiesStats.so.1
 /lib/libPlasmaActivitiesStats.so
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/query.h
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/terms.h
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultset.h
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultwatcher.h
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/resultmodel.h
-/usr/include/PlasmaActivitiesStats/plasmaactivitiesstats/cleaning.h
 /lib/pkgconfig/PlasmaActivitiesStats.pc
 /lib/cmake/PlasmaActivitiesStats/PlasmaActivitiesStatsLibraryTargets.cmake
 /lib/cmake/PlasmaActivitiesStats/PlasmaActivitiesStatsLibraryTargets-release.cmake

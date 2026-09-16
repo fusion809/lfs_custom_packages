@@ -25,7 +25,6 @@
 /usr/lib/libpcre2-16.la
 /usr/lib/libpcre2-posix.la
 /usr/lib/libpcre2-8.so.0
-/usr/share/doc
 /usr/share/doc/pcre2
 /usr/share/doc/pcre2/COPYING
 /usr/share/doc/pcre2/pcre2test.txt

@@ -9,6 +9,7 @@
 /usr/lib/pkgconfig/p11-kit-1.pc
 /usr/lib/systemd/user
 /usr/lib/systemd/user/p11-kit-server.service
+/usr/lib/systemd/user/p11-kit-server.socket
 /usr/lib/libp11-kit.so.0
 /usr/lib/libp11-kit.so.0.4.11
 /usr/share/locale/ms/LC_MESSAGES
@@ -154,8 +155,13 @@
 /usr/share/locale/or/LC_MESSAGES
 /usr/share/locale/or/LC_MESSAGES/p11-kit.mo
 /usr/share/zsh/site-functions
+/usr/share/zsh/site-functions/_p11-kit
+/usr/share/zsh/site-functions/_trust
 /usr/share/p11-kit/modules
+/usr/share/p11-kit/modules/p11-kit-trust.module
 /usr/share/bash-completion/completions
+/usr/share/bash-completion/completions/trust
+/usr/share/bash-completion/completions/p11-kit
 /usr/bin
 /usr/bin/trust
 /usr/bin/p11-kit
@@ -165,7 +171,15 @@
 /usr/libexec/p11-kit/trust-extract-compat
 /usr/libexec/p11-kit/p11-kit-server
 /usr/include/p11-kit-1/p11-kit
+/usr/include/p11-kit-1/p11-kit/iter.h
+/usr/include/p11-kit-1/p11-kit/deprecated.h
+/usr/include/p11-kit-1/p11-kit/pin.h
+/usr/include/p11-kit-1/p11-kit/pkcs11x.h
 /usr/include/p11-kit-1/p11-kit/version.h
+/usr/include/p11-kit-1/p11-kit/uri.h
+/usr/include/p11-kit-1/p11-kit/remote.h
+/usr/include/p11-kit-1/p11-kit/p11-kit.h
+/usr/include/p11-kit-1/p11-kit/pkcs11.h
 /etc/pkcs11
 /etc/pkcs11/pkcs11.conf.example
 /lib/pkcs11
