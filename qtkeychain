@@ -1,6 +1,5 @@
 0.17.0
 /opt/qt6/lib
-/opt/qt6/lib/libqt6keychain.so.1
 /opt/qt6/lib/libqt6keychain.so.0.17.0
 /opt/qt6/lib/cmake/Qt6Keychain
 /opt/qt6/lib/cmake/Qt6Keychain/Qt6KeychainLibraryDepends-release.cmake
