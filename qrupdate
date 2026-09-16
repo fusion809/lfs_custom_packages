@@ -3,14 +3,12 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/qrupdate.pc
 /usr/lib/libqrupdate.so.1.2.0
-/usr/lib/libqrupdate.so.1
 /usr/lib/cmake/qrupdate
 /usr/lib/cmake/qrupdate/qrupdateConfigVersion.cmake
 /usr/lib/cmake/qrupdate/qrupdateTargets-release.cmake
 /usr/lib/cmake/qrupdate/qrupdateTargets.cmake
 /usr/lib/cmake/qrupdate/qrupdate-config.cmake
 /usr/lib/libqrupdate.a
-/usr/include
 /usr/include/qrupdate
 /usr/include/qrupdate/qrupdate_error.mod
 /usr/include/qrupdate/qrupdate.mod
