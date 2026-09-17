@@ -1039,3 +1039,4 @@
 /usr/include
 /usr/include/sqlite3.h
 /usr/include/sqlite3ext.h
+/etc/pam.d

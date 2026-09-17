@@ -1417,8 +1417,6 @@
 /usr/bin
 /usr/bin/oxygen-settings6
 /usr/bin/oxygen-demo6
-/etc/pam.d
-/etc/pam.d/su
 /lib/liboxygenstyle6.so.6.7.5
 /lib/liboxygenstyle6.so.6
 /lib/liboxygenstyleconfig6.so.6.7.5

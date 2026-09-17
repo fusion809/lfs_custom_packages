@@ -263,7 +263,6 @@
 /etc/pam.d/system-auth
 /etc/pam.d/other
 /etc/pam.d/system-account
-/etc/pam.d/su
 /etc/pam.d/system-password
 /lib/security
 /lib/security/pam_filter
