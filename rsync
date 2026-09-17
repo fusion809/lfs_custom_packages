@@ -1,12 +1,9 @@
 3.5.0
-/usr
-/usr/bin
-/usr/bin/rsync
-/usr/bin/rsync-ssl
-/usr/share
-/usr/share/man
 /usr/share/man/man1
-/usr/share/man/man1/rsync.1
 /usr/share/man/man1/rsync-ssl.1
+/usr/share/man/man1/rsync.1
 /usr/share/man/man5
 /usr/share/man/man5/rsyncd.conf.5
+/usr/bin
+/usr/bin/rsync-ssl
+/usr/bin/rsync

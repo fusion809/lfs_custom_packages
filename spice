@@ -5,6 +5,10 @@
 /usr/lib/libspice-server.so.1
 /usr/lib/libspice-server.so
 /usr/lib/libspice-server.so.1.15.0
+/usr/share/doc/spice-0.16.0/COPYING
+/usr/share/doc/spice-0.16.0/AUTHORS
+/usr/share/doc/spice-0.16.0/CHANGELOG.md
+/usr/share/doc/spice-0.16.0/README
 /usr/include/spice-server
 /usr/include/spice-server/spice-qxl.h
 /usr/include/spice-server/spice-input.h

@@ -1,6 +1,6 @@
-9.2.1112
+9.2.1116
 /usr/share/doc
-/usr/share/doc/vim-9.2.1112
+/usr/share/doc/vim-9.2.1116
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -843,6 +843,7 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -1131,6 +1132,7 @@
 /usr/share/vim/vim92/ftplugin/jinja.vim
 /usr/share/vim/vim92/ftplugin/m3build.vim
 /usr/share/vim/vim92/ftplugin/asciidoc.vim
+/usr/share/vim/vim92/ftplugin/nasm.vim
 /usr/share/vim/vim92/ftplugin/racket.vim
 /usr/share/vim/vim92/ftplugin/occam.vim
 /usr/share/vim/vim92/ftplugin/fortran.vim
@@ -2619,5 +2621,3 @@
 /usr/bin/xxd
 /usr/bin/vimtutor
 /usr/bin/gvimtutor
-/opt
-/opt/rustc

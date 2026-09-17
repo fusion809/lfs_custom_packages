@@ -1,4 +1,4 @@
-2.61.0
+2.62.0
 /usr/lib
 /usr/lib/libatk-bridge-2.0.so
 /usr/lib/libatspi.so
@@ -6,13 +6,12 @@
 /usr/lib/pkgconfig/atspi-2.pc
 /usr/lib/pkgconfig/atk.pc
 /usr/lib/pkgconfig/atk-bridge-2.0.pc
-/usr/lib/libatk-1.0.so.0.26109.1
 /usr/lib/libatk-bridge-2.0.so.0.0.0
 /usr/lib/libatk-1.0.so.0
 /usr/lib/libatspi.so.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/at-spi-dbus-bus.service
-/usr/lib/gnome-settings-daemon-3.0
+/usr/lib/libatk-1.0.so.0.26209.1
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules/at-spi2-atk.desktop
 /usr/lib/libatspi.so.0.0.1

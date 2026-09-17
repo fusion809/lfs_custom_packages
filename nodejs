@@ -1,4 +1,4 @@
-26.8.2
+26.9.0
 /usr/lib/node_modules/npm
 /usr/lib/node_modules/npm/package.json
 /usr/lib/node_modules/npm/index.js
@@ -2339,9 +2339,10 @@
 /usr/lib/node_modules/npm/man/man5/install.5
 /usr/lib/node_modules/npm/man/man5/package-json.5
 /usr/lib/node_modules/npm/README.md
+/usr/share/doc
+/usr/share/doc/node-26.9.0
 /usr/share/doc/node
 /usr/share/doc/node/gdbinit
-/usr/share/doc/node/node
 /usr/share/doc/node/lldb_commands.py
 /usr/share/man/man1
 /usr/share/man/man1/node.1

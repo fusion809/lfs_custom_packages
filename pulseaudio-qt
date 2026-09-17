@@ -1,8 +1,9 @@
-1.8.1
+1.9.0
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6PulseAudioQt.pc
-/usr/lib/libKF6PulseAudioQt.so.1.8.1
+/usr/lib/libKF6PulseAudioQt.so.1.9.0
+/usr/lib/libKF6PulseAudioQt.so.5
 /usr/lib/cmake/KF6PulseAudioQt
 /usr/lib/cmake/KF6PulseAudioQt/KF6PulseAudioQtConfigVersion.cmake
 /usr/lib/cmake/KF6PulseAudioQt/KF6PulseAudioQtConfig.cmake
@@ -50,10 +51,12 @@
 /usr/include/KF6/KF6PulseAudioQt/PulseAudioQt/Profile
 /usr/include/KF6/KF6PulseAudioQt/PulseAudioQt/models.h
 /usr/include/KF6/pulseaudioqt_version.h
+/usr/metatypes
+/usr/metatypes/qt6kf6pulseaudioqt_metatypes.json
 /lib/cmake/KF6PulseAudioQt/KF6PulseAudioQtConfig.cmake
 /lib/cmake/KF6PulseAudioQt/KF6PulseAudioQtConfigVersion.cmake
 /lib/pkgconfig/KF6PulseAudioQt.pc
-/lib/libKF6PulseAudioQt.so.1.8.1
+/lib/libKF6PulseAudioQt.so.1.9.0
 /lib/libKF6PulseAudioQt.so.5
 /lib/libKF6PulseAudioQt.so
 /lib/cmake/KF6PulseAudioQt/KF6PulseAudioQtTargets.cmake

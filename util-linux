@@ -77,7 +77,6 @@
 /usr/lib/libsmartcols.so
 /usr/lib/libuuid.la
 /usr/lib/libmount.la
-/usr/share/doc
 /usr/share/doc/util-linux-2.42.3
 /usr/share/doc/util-linux-2.42.3/getopt-example.tcsh
 /usr/share/doc/util-linux-2.42.3/getopt-example.bash

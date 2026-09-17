@@ -1,7 +1,7 @@
 2.12
-/usr/bin
-/usr/bin/unifdef
-/usr/bin/unifdefall
 /usr/share/man/man1
 /usr/share/man/man1/unifdef.1
 /usr/share/man/man1/unifdefall.1
+/usr/bin
+/usr/bin/unifdefall
+/usr/bin/unifdef

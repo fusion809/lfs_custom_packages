@@ -5,12 +5,9 @@
 /usr/lib/pkgconfig/sqlite3.pc
 /usr/lib/libsqlite3.so.0
 /usr/lib/libsqlite3.so
-/usr/share/doc
-/usr/share/doc/sqlite-3.53.4
 /usr/share/doc/sqlite-3.53.4/lts.html
 /usr/share/doc/sqlite-3.53.4/34to35.html
 /usr/share/doc/sqlite-3.53.4/base64.html
-/usr/share/doc/sqlite-3.53.4/session
 /usr/share/doc/sqlite-3.53.4/session/sqlite3changeset_new.html
 /usr/share/doc/sqlite-3.53.4/session/sqlite3rebaser_rebase.html
 /usr/share/doc/sqlite-3.53.4/session/sqlite3changegroup_change_blob.html
@@ -94,7 +91,6 @@
 /usr/share/doc/sqlite-3.53.4/syntax.html
 /usr/share/doc/sqlite-3.53.4/doc_pagelink_crossref.html
 /usr/share/doc/sqlite-3.53.4/dbhash.html
-/usr/share/doc/sqlite-3.53.4/releaselog
 /usr/share/doc/sqlite-3.53.4/releaselog/3_3_12.html
 /usr/share/doc/sqlite-3.53.4/releaselog/3_6_3.html
 /usr/share/doc/sqlite-3.53.4/releaselog/3_10_0.html
@@ -358,7 +354,6 @@
 /usr/share/doc/sqlite-3.53.4/releaselog/3_2_8.html
 /usr/share/doc/sqlite-3.53.4/releaselog/3_41_2.html
 /usr/share/doc/sqlite-3.53.4/releaselog/3_25_2.html
-/usr/share/doc/sqlite-3.53.4/search.d
 /usr/share/doc/sqlite-3.53.4/search.d/search.db
 /usr/share/doc/sqlite-3.53.4/search.d/admin
 /usr/share/doc/sqlite-3.53.4/staleexpridx.html
@@ -389,7 +384,6 @@
 /usr/share/doc/sqlite-3.53.4/limits.html
 /usr/share/doc/sqlite-3.53.4/keyword_index.html
 /usr/share/doc/sqlite-3.53.4/lang_analyze.html
-/usr/share/doc/sqlite-3.53.4/images
 /usr/share/doc/sqlite-3.53.4/images/fts5_formula1.png
 /usr/share/doc/sqlite-3.53.4/images/indirect1b1.gif
 /usr/share/doc/sqlite-3.53.4/images/apple-touch-icon.png
@@ -405,7 +399,6 @@
 /usr/share/doc/sqlite-3.53.4/images/sw.png
 /usr/share/doc/sqlite-3.53.4/images/faster-write-unsafe.jpg
 /usr/share/doc/sqlite-3.53.4/images/src_logo.gif
-/usr/share/doc/sqlite-3.53.4/images/fileformat
 /usr/share/doc/sqlite-3.53.4/images/fileformat/indextree.gif
 /usr/share/doc/sqlite-3.53.4/images/fileformat/freelistpage.gif
 /usr/share/doc/sqlite-3.53.4/images/fileformat/fileio_diagrams.odg
@@ -434,7 +427,6 @@
 /usr/share/doc/sqlite-3.53.4/images/fileformat/journal_format.gif
 /usr/share/doc/sqlite-3.53.4/images/table-ex1b2.gif
 /usr/share/doc/sqlite-3.53.4/images/fts3_interior_node.svg
-/usr/share/doc/sqlite-3.53.4/images/books
 /usr/share/doc/sqlite-3.53.4/images/books/haldar2.jpg
 /usr/share/doc/sqlite-3.53.4/images/books/nishizawa2.jpg
 /usr/share/doc/sqlite-3.53.4/images/books/sanderson2018.jpg
@@ -450,7 +442,6 @@
 /usr/share/doc/sqlite-3.53.4/images/books/aditya.jpg
 /usr/share/doc/sqlite-3.53.4/images/fts3_leaf_node.png
 /usr/share/doc/sqlite-3.53.4/images/faster-read-sql.jpg
-/usr/share/doc/sqlite-3.53.4/images/ac
 /usr/share/doc/sqlite-3.53.4/images/ac/rollback-3.gif
 /usr/share/doc/sqlite-3.53.4/images/ac/commit-0.gif
 /usr/share/doc/sqlite-3.53.4/images/ac/commit-7.gif
@@ -496,7 +487,6 @@
 /usr/share/doc/sqlite-3.53.4/images/ne.png
 /usr/share/doc/sqlite-3.53.4/images/SQLite.gif
 /usr/share/doc/sqlite-3.53.4/images/harmony.gif
-/usr/share/doc/sqlite-3.53.4/images/qp
 /usr/share/doc/sqlite-3.53.4/images/qp/fqp1.gif
 /usr/share/doc/sqlite-3.53.4/images/qp/obfruitidx4.gif
 /usr/share/doc/sqlite-3.53.4/images/qp/obfruitnoidx.gif
@@ -539,7 +529,6 @@
 /usr/share/doc/sqlite-3.53.4/images/sqlite370_banner.svg
 /usr/share/doc/sqlite-3.53.4/images/fts3_interior_node.png
 /usr/share/doc/sqlite-3.53.4/images/shane1.jpg
-/usr/share/doc/sqlite-3.53.4/images/foreignlogos
 /usr/share/doc/sqlite-3.53.4/images/foreignlogos/rpm_logo.png
 /usr/share/doc/sqlite-3.53.4/images/foreignlogos/bentley.gif
 /usr/share/doc/sqlite-3.53.4/images/foreignlogos/sunmicro.gif
@@ -667,7 +656,6 @@
 /usr/share/doc/sqlite-3.53.4/appfileformat.html
 /usr/share/doc/sqlite-3.53.4/dbstat.html
 /usr/share/doc/sqlite-3.53.4/inmemorydb.html
-/usr/share/doc/sqlite-3.53.4/c3ref
 /usr/share/doc/sqlite-3.53.4/c3ref/cancel_auto_extension.html
 /usr/share/doc/sqlite-3.53.4/c3ref/io_methods.html
 /usr/share/doc/sqlite-3.53.4/c3ref/db_name.html
@@ -946,7 +934,6 @@
 /usr/share/doc/sqlite-3.53.4/doc_keyword_crossref.html
 /usr/share/doc/sqlite-3.53.4/formatchng.html
 /usr/share/doc/sqlite-3.53.4/mostdeployed.html
-/usr/share/doc/sqlite-3.53.4/syntax
 /usr/share/doc/sqlite-3.53.4/syntax/release-stmt.html
 /usr/share/doc/sqlite-3.53.4/syntax/update-stmt.html
 /usr/share/doc/sqlite-3.53.4/syntax/over-clause.html

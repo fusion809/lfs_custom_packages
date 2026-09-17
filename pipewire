@@ -1,5 +1,6 @@
-1.6.8
+1.6.9
 /usr/lib
+/usr/lib/libpipewire-0.3.so.0.1609.0
 /usr/lib/gstreamer-1.0
 /usr/lib/gstreamer-1.0/libgstpipewire.so
 /usr/lib/libpipewire-0.3.so.0
@@ -43,13 +44,13 @@
 /usr/lib/pipewire-0.3/libpipewire-module-rtp-session.so
 /usr/lib/pipewire-0.3/jack
 /usr/lib/pipewire-0.3/jack/libjackserver.so
-/usr/lib/pipewire-0.3/jack/libjack.so.0.3.1608
-/usr/lib/pipewire-0.3/jack/libjacknet.so.0.3.1608
+/usr/lib/pipewire-0.3/jack/libjackserver.so.0.3.1609
 /usr/lib/pipewire-0.3/jack/libjack.so
-/usr/lib/pipewire-0.3/jack/libjackserver.so.0.3.1608
+/usr/lib/pipewire-0.3/jack/libjacknet.so.0.3.1609
 /usr/lib/pipewire-0.3/jack/libjacknet.so.0
 /usr/lib/pipewire-0.3/jack/libjacknet.so
 /usr/lib/pipewire-0.3/jack/libjack.so.0
+/usr/lib/pipewire-0.3/jack/libjack.so.0.3.1609
 /usr/lib/pipewire-0.3/jack/libjackserver.so.0
 /usr/lib/pipewire-0.3/libpipewire-module-echo-cancel.so
 /usr/lib/pipewire-0.3/libpipewire-module-fallback-sink.so
@@ -70,7 +71,6 @@
 /usr/lib/systemd/user/filter-chain.service
 /usr/lib/systemd/user/pipewire.socket
 /usr/lib/libpipewire-0.3.so
-/usr/lib/libpipewire-0.3.so.0.1608.0
 /usr/lib/spa-0.2
 /usr/lib/spa-0.2/bluez5
 /usr/lib/spa-0.2/bluez5/libspa-codec-bluez5-opus.so
@@ -116,7 +116,6 @@
 /usr/lib/alsa-lib
 /usr/lib/alsa-lib/libasound_module_pcm_pipewire.so
 /usr/lib/alsa-lib/libasound_module_ctl_pipewire.so
-/usr/share
 /usr/share/pipewire
 /usr/share/pipewire/client.conf
 /usr/share/pipewire/filter-chain.conf
@@ -260,7 +259,6 @@
 /usr/share/alsa/alsa.conf.d
 /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf
 /usr/share/alsa/alsa.conf.d/50-pipewire.conf
-/usr/share/spa-0.2
 /usr/share/spa-0.2/bluez5
 /usr/share/spa-0.2/bluez5/bluez-hardware.conf
 /usr/share/alsa-card-profile/mixer/paths

@@ -1,7 +1,7 @@
 2.1.6
-/usr/bin
-/usr/bin/traceroute
-/usr/bin/traceroute6
 /usr/share/man/man8
-/usr/share/man/man8/traceroute.8
 /usr/share/man/man8/traceroute6.8
+/usr/share/man/man8/traceroute.8
+/usr/bin
+/usr/bin/traceroute6
+/usr/bin/traceroute

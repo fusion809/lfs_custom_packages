@@ -1,5 +1,4 @@
 1.9.17p2
-/usr/sbin
 /usr/sbin/visudo
 /usr/sbin/sudo_sendlog
 /usr/sbin/sudo_logsrvd
@@ -133,3 +132,4 @@
 /usr/bin/sudoedit
 /usr/include/sudo_plugin.h
 /etc/sudoers.dist
+/etc/sudoers.d

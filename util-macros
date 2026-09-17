@@ -1,7 +1,7 @@
 1.20.2
-/usr/share/aclocal
-/usr/share/aclocal/xorg-macros.m4
 /usr/share/pkgconfig
 /usr/share/pkgconfig/xorg-macros.pc
+/usr/share/aclocal
+/usr/share/aclocal/xorg-macros.m4
 /usr/share/util-macros
 /usr/share/util-macros/INSTALL
