@@ -1,12 +1,6 @@
 3.27.1
-/usr/lib
-/usr/lib/libstartup-notification-1.so.0.0.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/valgrind.pc
-/usr/lib/pkgconfig/libstartup-notification-1.0.pc
-/usr/lib/libstartup-notification-1.so
-/usr/lib/libstartup-notification-1.so.0
-/usr/lib/libstartup-notification-1.la
 /usr/lib/valgrind
 /usr/lib/valgrind/libvex-amd64-linux.a
 /usr/lib/valgrind/libgcc-sup-amd64-linux.a
@@ -14,8 +8,6 @@
 /usr/lib/valgrind/libvexmultiarch-amd64-linux.a
 /usr/lib/valgrind/libcoregrind-amd64-linux.a
 /usr/lib/valgrind/libreplacemalloc_toolpreload-amd64-linux.a
-/usr/share/doc/startup-notification-0.12
-/usr/share/doc/startup-notification-0.12/startup-notification.txt
 /usr/share/doc/valgrind-3.27.1/valgrind_manual.pdf
 /usr/share/doc/valgrind-3.27.1/html/manual-core.html
 /usr/share/doc/valgrind-3.27.1/html/faq.html
@@ -225,13 +217,6 @@
 /usr/libexec/valgrind/64bit-core.xml
 /usr/libexec/valgrind/i386-linux-valgrind.xml
 /usr/libexec/valgrind/power-fpu-valgrind-s1.xml
-/usr/include/startup-notification-1.0/libsn
-/usr/include/startup-notification-1.0/libsn/sn-util.h
-/usr/include/startup-notification-1.0/libsn/sn.h
-/usr/include/startup-notification-1.0/libsn/sn-common.h
-/usr/include/startup-notification-1.0/libsn/sn-launcher.h
-/usr/include/startup-notification-1.0/libsn/sn-monitor.h
-/usr/include/startup-notification-1.0/libsn/sn-launchee.h
 /usr/include/valgrind
 /usr/include/valgrind/dhat.h
 /usr/include/valgrind/pub_tool_wordfm.h
