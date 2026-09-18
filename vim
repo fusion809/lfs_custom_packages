@@ -1,6 +1,15 @@
-9.2.1116
+9.2.1119
+/usr/lib
+/usr/lib/libstartup-notification-1.so.0.0.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libstartup-notification-1.0.pc
+/usr/lib/libstartup-notification-1.so
+/usr/lib/libstartup-notification-1.so.0
+/usr/lib/libstartup-notification-1.la
 /usr/share/doc
-/usr/share/doc/vim-9.2.1116
+/usr/share/doc/startup-notification-0.12
+/usr/share/doc/startup-notification-0.12/startup-notification.txt
+/usr/share/doc/vim-9.2.1119
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -843,7 +852,6 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
-/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -2621,3 +2629,10 @@
 /usr/bin/xxd
 /usr/bin/vimtutor
 /usr/bin/gvimtutor
+/usr/include/startup-notification-1.0/libsn
+/usr/include/startup-notification-1.0/libsn/sn-util.h
+/usr/include/startup-notification-1.0/libsn/sn.h
+/usr/include/startup-notification-1.0/libsn/sn-common.h
+/usr/include/startup-notification-1.0/libsn/sn-launcher.h
+/usr/include/startup-notification-1.0/libsn/sn-monitor.h
+/usr/include/startup-notification-1.0/libsn/sn-launchee.h
