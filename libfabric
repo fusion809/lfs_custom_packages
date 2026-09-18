@@ -1,10 +1,10 @@
-2.6.0
+2.7.0
 /usr/lib
 /usr/lib/libfabric.so.1
 /usr/lib/libfabric.la
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libfabric.pc
-/usr/lib/libfabric.so.1.32.0
+/usr/lib/libfabric.so.1.33.0
 /usr/lib/libfabric.a
 /usr/lib/libfabric.so
 /usr/share/man/man7
@@ -180,6 +180,7 @@
 /usr/share/man/man3/fi_writedata.3
 /usr/share/man/man3/fi_writemsg.3
 /usr/share/man/man3/fi_writev.3
+/usr/share/man/man3/fi_xpu.3
 /usr/bin
 /usr/bin/fi_pingpong
 /usr/bin/fi_strerror
@@ -187,6 +188,7 @@
 /usr/bin/fi_info
 /usr/include/rdma
 /usr/include/rdma/fi_profile.h
+/usr/include/rdma/fi_xpu_device.h
 /usr/include/rdma/providers
 /usr/include/rdma/providers/fi_peer.h
 /usr/include/rdma/providers/fi_prov.h
@@ -201,5 +203,6 @@
 /usr/include/rdma/fi_trigger.h
 /usr/include/rdma/fi_cm.h
 /usr/include/rdma/fabric.h
+/usr/include/rdma/fi_xpu.h
 /usr/include/rdma/fi_errno.h
 /usr/include/rdma/fi_tagged.h
