@@ -1,5 +1,6 @@
-2.89.4
+2.90.0
 /usr/lib
+/usr/lib/libglib-2.0.so.0.9000.0
 /usr/lib/gio/modules
 /usr/lib/libgirepository-2.0.so.0
 /usr/lib/libglib-2.0.so
@@ -16,8 +17,6 @@
 /usr/lib/pkgconfig/gobject-introspection-1.0.pc
 /usr/lib/pkgconfig/gobject-introspection-no-export-1.0.pc
 /usr/lib/libglib-2.0.so.0
-/usr/lib/libgmodule-2.0.so.0.8904.0
-/usr/lib/libgobject-2.0.so.0.8904.0
 /usr/lib/libgmodule-2.0.so
 /usr/lib/libgio-2.0.so.0
 /usr/lib/gobject-introspection/giscanner
@@ -120,11 +119,14 @@
 /usr/lib/gobject-introspection/giscanner/docwriter.py
 /usr/lib/gobject-introspection/giscanner/_version.py
 /usr/lib/gobject-introspection/giscanner/annotationmain.py
-/usr/lib/libglib-2.0.so.0.8904.0
+/usr/lib/libgio-2.0.so.0.9000.0
+/usr/lib/libgmodule-2.0.so.0.9000.0
 /usr/lib/libgobject-2.0.so.0
+/usr/lib/libgirepository-2.0.so.0.9000.0
+/usr/lib/libgobject-2.0.so.0.9000.0
 /usr/lib/libgirepository-1.0.so
 /usr/lib/libgobject-2.0.so
-/usr/lib/libgthread-2.0.so.0.8904.0
+/usr/lib/libgthread-2.0.so.0.9000.0
 /usr/lib/libgirepository-1.0.so.1
 /usr/lib/glib-2.0/include
 /usr/lib/glib-2.0/include/glibconfig.h
@@ -154,9 +156,7 @@
 /usr/lib/libgthread-2.0.so
 /usr/lib/libgirepository-1.0.so.1.0.0
 /usr/lib/libgirepository-2.0.so
-/usr/lib/libgirepository-2.0.so.0.8904.0
 /usr/lib/libgthread-2.0.so.0
-/usr/lib/libgio-2.0.so.0.8904.0
 /usr/lib/libgmodule-2.0.so.0
 /usr/share/gir-1.0
 /usr/share/gir-1.0/xfixes-4.0.gir
@@ -182,8 +182,8 @@
 /usr/share/gir-1.0/GLib-2.0.gir
 /usr/share/gir-1.0/DBusGLib-1.0.gir
 /usr/share/gdb/auto-load/usr/lib
-/usr/share/gdb/auto-load/usr/lib/libgobject-2.0.so.0.8904.0-gdb.py
-/usr/share/gdb/auto-load/usr/lib/libglib-2.0.so.0.8904.0-gdb.py
+/usr/share/gdb/auto-load/usr/lib/libgobject-2.0.so.0.9000.0-gdb.py
+/usr/share/gdb/auto-load/usr/lib/libglib-2.0.so.0.9000.0-gdb.py
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/glib20.mo
 /usr/share/locale/nds/LC_MESSAGES
