@@ -1,12 +1,12 @@
 1.5.0
-/usr/include/xorg
-/usr/include/xorg/libinput-properties.h
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xorg-libinput.pc
 /usr/lib/xorg/modules/input
 /usr/lib/xorg/modules/input/libinput_drv.la
 /usr/lib/xorg/modules/input/libinput_drv.so
-/usr/share/X11/xorg.conf.d
-/usr/share/X11/xorg.conf.d/40-libinput.conf
 /usr/share/man/man4
 /usr/share/man/man4/libinput.4
+/usr/share/X11/xorg.conf.d
+/usr/share/X11/xorg.conf.d/40-libinput.conf
+/usr/include/xorg
+/usr/include/xorg/libinput-properties.h

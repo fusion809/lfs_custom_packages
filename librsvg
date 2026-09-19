@@ -1,11 +1,11 @@
-2.63.0
+2.63.2
 /usr/lib
+/usr/lib/librsvg-2.so.2.63.1
 /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders.cache
 /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders
 /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader_svg.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/librsvg-2.0.pc
-/usr/lib/librsvg-2.so.2.63.0
 /usr/lib/librsvg-2.so.2
 /usr/lib/librsvg-2.so
 /usr/lib/girepository-1.0

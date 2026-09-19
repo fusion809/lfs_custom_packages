@@ -1,8 +1,17 @@
 16cf9d3fcccff525574364bf6ddc676352f49e92
 /usr/share/fish/vendor_completions.d
+/usr/share/fish/vendor_completions.d/wl-copy.fish
+/usr/share/fish/vendor_completions.d/wl-paste.fish
 /usr/share/zsh/site-functions
+/usr/share/zsh/site-functions/_wl-paste
+/usr/share/zsh/site-functions/_wl-copy
 /usr/share/man/man1
+/usr/share/man/man1/wl-copy.1
+/usr/share/man/man1/wl-clipboard.1
+/usr/share/man/man1/wl-paste.1
 /usr/share/bash-completion/completions
+/usr/share/bash-completion/completions/wl-paste
+/usr/share/bash-completion/completions/wl-copy
 /usr/bin
 /usr/bin/wl-paste
 /usr/bin/wl-copy

@@ -1,11 +1,11 @@
 0.3.10
-/usr/include/xcb
-/usr/include/xcb/xcb_renderutil.h
 /usr/lib
-/usr/lib/libxcb-render-util.a
-/usr/lib/libxcb-render-util.la
-/usr/lib/libxcb-render-util.so
-/usr/lib/libxcb-render-util.so.0
 /usr/lib/libxcb-render-util.so.0.0.0
+/usr/lib/libxcb-render-util.la
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xcb-renderutil.pc
+/usr/lib/libxcb-render-util.so
+/usr/lib/libxcb-render-util.a
+/usr/lib/libxcb-render-util.so.0
+/usr/include/xcb
+/usr/include/xcb/xcb_renderutil.h

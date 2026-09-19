@@ -1,4 +1,6 @@
 1.1.4
+/usr/share/xml/docbook/xml-dtd-4.5
+/usr/share/xml/docbook/xml-dtd-4.5/catalog.xml
 /usr/share/man/man1
 /usr/share/man/man1/xsetroot.1
 /usr/bin

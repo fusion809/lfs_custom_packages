@@ -1,8 +1,8 @@
 1.0.7
+/usr/share/man/man1
+/usr/share/man/man1/xmessage.1
+/usr/bin
+/usr/bin/xmessage
 /etc/X11/app-defaults
 /etc/X11/app-defaults/Xmessage
 /etc/X11/app-defaults/Xmessage-color
-/usr/bin
-/usr/bin/xmessage
-/usr/share/man/man1
-/usr/share/man/man1/xmessage.1
