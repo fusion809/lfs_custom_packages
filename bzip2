@@ -4,6 +4,12 @@
 /usr/lib/libbz2.so.1.0
 /usr/lib/libbz2.so.1
 /usr/lib/libbz2.so.1.0.8
+/usr/share/doc
+/usr/share/doc/bzip2-1.0.8
+/usr/share/doc/bzip2-1.0.8/manual.ps
+/usr/share/doc/bzip2-1.0.8/manual.pdf
+/usr/share/doc/bzip2-1.0.8/manual.html
+/usr/share/doc/bzip2-1.0.8/bzip2.txt
 /usr/share/man/man1/bzip2.1
 /usr/share/man/man1/bzegrep.1
 /usr/share/man/man1/bzfgrep.1
