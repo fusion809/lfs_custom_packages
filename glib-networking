@@ -1,4 +1,4 @@
-2.80.1
+2.90.0
 /usr/lib/gio/modules
 /usr/lib/gio/modules/libgiognomeproxy.so
 /usr/lib/gio/modules/libgiognutls.so
@@ -21,6 +21,10 @@
 /usr/share/locale/en_CA/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/glib-networking.mo
+/usr/share/locale/kw/LC_MESSAGES
+/usr/share/locale/kw/LC_MESSAGES/glib-networking.mo
+/usr/share/locale/uz/LC_MESSAGES
+/usr/share/locale/uz/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/it/LC_MESSAGES
@@ -29,6 +33,8 @@
 /usr/share/locale/gd/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/hr/LC_MESSAGES
 /usr/share/locale/hr/LC_MESSAGES/glib-networking.mo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/da/LC_MESSAGES
 /usr/share/locale/da/LC_MESSAGES/glib-networking.mo
 /usr/share/locale/an/LC_MESSAGES
