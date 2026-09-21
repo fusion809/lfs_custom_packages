@@ -1,4 +1,4 @@
-2.42.3
+2.42.4
 /usr/sbin
 /usr/sbin/resizepart
 /usr/sbin/fsck.cramfs
@@ -77,9 +77,10 @@
 /usr/lib/libsmartcols.so
 /usr/lib/libuuid.la
 /usr/lib/libmount.la
-/usr/share/doc/util-linux-2.42.3
-/usr/share/doc/util-linux-2.42.3/getopt-example.tcsh
-/usr/share/doc/util-linux-2.42.3/getopt-example.bash
+/usr/share/doc
+/usr/share/doc/util-linux-2.42.4
+/usr/share/doc/util-linux-2.42.4/getopt-example.tcsh
+/usr/share/doc/util-linux-2.42.4/getopt-example.bash
 /usr/share/locale/et/LC_MESSAGES
 /usr/share/locale/et/LC_MESSAGES/util-linux.mo
 /usr/share/locale/ro/LC_MESSAGES
