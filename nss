@@ -1,4 +1,4 @@
-3.129
+3.130
 /usr/lib
 /usr/lib/libfreeblpriv3.so
 /usr/lib/libsmime3.so
@@ -22,6 +22,7 @@
 /usr/bin/nss-config
 /usr/bin/pk12util
 /usr/bin/certutil
+/usr/include/nss
 /usr/include/nss/nssrwlkt.h
 /usr/include/nss/ml_dsat.h
 /usr/include/nss/cmst.h
@@ -225,6 +226,7 @@
 /usr/include/nss/sslexp.h
 /usr/include/nss/nssb64.h
 /usr/include/nss/key.h
+/usr/include/nss/pk11hpkei.h
 /usr/include/nss/secport.h
 /usr/include/nss/secasn1t.h
 /usr/include/nss/pkix_pl_certpolicyinfo.h
