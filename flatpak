@@ -1,8 +1,8 @@
-1.18.2
+1.18.3
 /usr/lib
 /usr/lib/tmpfiles.d
 /usr/lib/tmpfiles.d/flatpak.conf
-/usr/lib/libflatpak.so.0.11802.0
+/usr/lib/libflatpak.so.0.11803.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/flatpak.pc
 /usr/lib/systemd/user-environment-generators
@@ -21,8 +21,10 @@
 /usr/lib/sysusers.d
 /usr/lib/sysusers.d/flatpak.conf
 /usr/lib/libflatpak.so.0
-/usr/share/doc/flatpak-1.18.2/COPYING
-/usr/share/doc/flatpak-1.18.2/NEWS
+/usr/share/doc
+/usr/share/doc/flatpak-1.18.3
+/usr/share/doc/flatpak-1.18.3/COPYING
+/usr/share/doc/flatpak-1.18.3/NEWS
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.freedesktop.Flatpak.policy
 /usr/share/polkit-1/rules.d
