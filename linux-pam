@@ -1,6 +1,7 @@
-1.7.2
+1.7.3
 /usr/sbin
 /usr/sbin/faillock
+/usr/sbin/unix_update
 /usr/sbin/unix_chkpwd
 /usr/sbin/pwhistory_helper
 /usr/sbin/pam_namespace_helper
@@ -17,6 +18,7 @@
 /usr/lib/security/pam_time.so
 /usr/lib/security/pam_nologin.so
 /usr/lib/security/pam_umask.so
+/usr/lib/security/pam_selinux.so
 /usr/lib/security/pam_mail.so
 /usr/lib/security/pam_shells.so
 /usr/lib/security/pam_faillock.so
@@ -25,6 +27,7 @@
 /usr/lib/security/pam_filter.so
 /usr/lib/security/pam_issue.so
 /usr/lib/security/pam_rootok.so
+/usr/lib/security/pam_sepermit.so
 /usr/lib/security/pam_timestamp.so
 /usr/lib/security/pam_succeed_if.so
 /usr/lib/security/pam_group.so
@@ -66,10 +69,11 @@
 /usr/lib/libpamc.so
 /usr/lib/libpam.so.0
 /usr/lib/libpam_misc.so
-/usr/share/doc/Linux-PAM-1.7.2
-/usr/share/doc/Linux-PAM-1.7.2/draft-morgan-pam-current.txt
-/usr/share/doc/Linux-PAM-1.7.2/rfc86.0.txt
-/usr/share/doc/Linux-PAM-1.7.2/index.html
+/usr/share/doc
+/usr/share/doc/Linux-PAM-1.7.3
+/usr/share/doc/Linux-PAM-1.7.3/draft-morgan-pam-current.txt
+/usr/share/doc/Linux-PAM-1.7.3/rfc86.0.txt
+/usr/share/doc/Linux-PAM-1.7.3/index.html
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/Linux-PAM.mo
 /usr/share/locale/ms/LC_MESSAGES
@@ -136,6 +140,8 @@
 /usr/share/locale/eo/LC_MESSAGES/Linux-PAM.mo
 /usr/share/locale/el/LC_MESSAGES
 /usr/share/locale/el/LC_MESSAGES/Linux-PAM.mo
+/usr/share/locale/kab/LC_MESSAGES
+/usr/share/locale/kab/LC_MESSAGES/Linux-PAM.mo
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/Linux-PAM.mo
 /usr/share/locale/hi/LC_MESSAGES
@@ -246,6 +252,7 @@
 /usr/share/pam/security/limits.conf
 /usr/share/pam/security/namespace.conf
 /usr/share/pam/security/pwhistory.conf
+/usr/share/pam/security/sepermit.conf
 /usr/include/security
 /usr/include/security/_pam_macros.h
 /usr/include/security/pam_modules.h
@@ -263,6 +270,7 @@
 /etc/pam.d/system-auth
 /etc/pam.d/other
 /etc/pam.d/system-account
+/etc/pam.d/su
 /etc/pam.d/system-password
 /lib/security
 /lib/security/pam_filter
