@@ -1,4 +1,5 @@
-1.22.0
+1.23.0
+/usr/share/plasma-wayland-protocols
 /usr/share/plasma-wayland-protocols/remote-access.xml
 /usr/share/plasma-wayland-protocols/server-decoration.xml
 /usr/share/plasma-wayland-protocols/zkde-screencast-unstable-v1.xml

@@ -1,8 +1,8 @@
-1.14.1
+1.14.2
 /usr/lib
-/usr/lib/libKirigamiAddonsStatefulApp.so.1.14.1
-/usr/lib/libKirigamiAddonsComponents.so.1.14.1
-/usr/lib/libKirigamiApp.so.1.14.1
+/usr/lib/libKirigamiAddonsComponents.so.1.14.2
+/usr/lib/libKirigamiApp.so.1.14.2
+/usr/lib/libKirigamiAddonsStatefulApp.so.1.14.2
 /usr/lib/libKirigamiAddonsComponents.so.6
 /usr/lib/libKirigamiAddonsStatefulApp.so.6
 /usr/lib/qml/org/kde/kirigamiaddons/onboarding
@@ -159,6 +159,7 @@
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardBackground.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardUnits.qml
+/usr/lib/qml/org/kde/kirigamiaddons/formcard/private/ContentItemLoader.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormChoiceDelegateLayout.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormDelegateLayout.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormInfoGrid.qml
@@ -376,10 +377,10 @@
 /usr/include/KirigamiAddons/Components/NameUtils
 /usr/include/KirigamiAddons/Components/kirigamiaddonscomponents_export.h
 /usr/include/KirigamiAddons/Components/nameutils.h
-/lib/libKirigamiApp.so.1.14.1
+/lib/libKirigamiApp.so.1.14.2
 /lib/libKirigamiApp.so.6
 /lib/libKirigamiApp.so
-/lib/libKirigamiAddonsComponents.so.1.14.1
+/lib/libKirigamiAddonsComponents.so.1.14.2
 /lib/libKirigamiAddonsComponents.so.6
 /lib/libKirigamiAddonsComponents.so
 /lib/qml/org/kde/kirigamiaddons/labs/components/libcomponentslabsplugin.so
@@ -485,6 +486,7 @@
 /lib/qml/org/kde/kirigamiaddons/formcard/FormDelegateCollapsible.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormColorDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormIconDelegate.qml
+/lib/qml/org/kde/kirigamiaddons/formcard/private/ContentItemLoader.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardBackground.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormChoiceDelegateLayout.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormDelegateLayout.qml
@@ -536,7 +538,7 @@
 /lib/qml/org/kde/kirigamiaddons/actions/ActionMenuPopup.qml
 /lib/qml/org/kde/kirigamiaddons/actions/ActionMenuBar.qml
 /lib/qml/org/kde/kirigamiaddons/actions/kde-qmlmodule.version
-/lib/libKirigamiAddonsStatefulApp.so.1.14.1
+/lib/libKirigamiAddonsStatefulApp.so.1.14.2
 /lib/libKirigamiAddonsStatefulApp.so.6
 /lib/libKirigamiAddonsStatefulApp.so
 /lib/qml/org/kde/kirigamiaddons/statefulapp/private/libstatefulappprivateplugin.so

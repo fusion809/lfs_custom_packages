@@ -1,6 +1,6 @@
-9.2.1125
+9.2.1129
 /usr/share/doc
-/usr/share/doc/vim-9.2.1125
+/usr/share/doc/vim-9.2.1129
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -843,6 +843,7 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -1282,6 +1283,7 @@
 /usr/share/vim/vim92/ftplugin/liquid.vim
 /usr/share/vim/vim92/ftplugin/nsis.vim
 /usr/share/vim/vim92/ftplugin/chatito.vim
+/usr/share/vim/vim92/ftplugin/icalendar.vim
 /usr/share/vim/vim92/ftplugin/stylus.vim
 /usr/share/vim/vim92/ftplugin/scheme.vim
 /usr/share/vim/vim92/ftplugin/sshconfig.vim
@@ -1706,6 +1708,7 @@
 /usr/share/vim/vim92/colors/slate.vim
 /usr/share/vim/vim92/colors/habamax.vim
 /usr/share/vim/vim92/filetype.vim
+/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/ora.vim
 /usr/share/vim/vim92/syntax/xhtml.vim
 /usr/share/vim/vim92/syntax/usserverlog.vim
@@ -2491,6 +2494,7 @@
 /usr/share/vim/vim92/syntax/lite.vim
 /usr/share/vim/vim92/syntax/nsis.vim
 /usr/share/vim/vim92/syntax/chatito.vim
+/usr/share/vim/vim92/syntax/icalendar.vim
 /usr/share/vim/vim92/syntax/elf.vim
 /usr/share/vim/vim92/syntax/stylus.vim
 /usr/share/vim/vim92/syntax/scheme.vim
