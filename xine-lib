@@ -185,9 +185,6 @@
 /usr/share/locale/pt_BR/LC_MESSAGES/libxine2.mo
 /usr/share/aclocal
 /usr/share/aclocal/xine.m4
-/usr/share/xml/docbook/xml-dtd-4.5
-/usr/share/xml/docbook/xml-dtd-4.5/catalog.xml.bak
-/usr/share/xml/docbook/xml-dtd-4.5/catalog.xml
 /usr/share/man/man1
 /usr/share/man/man1/xine-list-1.2.1
 /usr/share/man/man1/xine-config.1
