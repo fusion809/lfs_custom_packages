@@ -5,7 +5,9 @@
 /usr/lib/pkgconfig/openssl.pc
 /usr/lib/pkgconfig/libcrypto.pc
 /usr/lib/pkgconfig/libssl.pc
+/usr/lib/libcrypto.so.3
 /usr/lib/libcrypto.so.4
+/usr/lib/libssl.so.3
 /usr/lib/libssl.so.4
 /usr/lib/cmake/OpenSSL/OpenSSLConfigVersion.cmake
 /usr/lib/cmake/OpenSSL/OpenSSLConfig.cmake

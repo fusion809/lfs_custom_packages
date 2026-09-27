@@ -1,4 +1,4 @@
-1.36.1
+1.37.0
 /usr/lib/cmake/GtkDoc
 /usr/lib/cmake/GtkDoc/GtkDocScanGObjWrapper.cmake
 /usr/lib/cmake/GtkDoc/GtkDocConfigVersion.cmake
@@ -41,6 +41,7 @@
 /usr/share/pkgconfig/gtk-doc.pc
 /usr/share/aclocal
 /usr/share/aclocal/gtk-doc.m4
+/usr/share/help
 /usr/share/help/en_GB/gtk-doc-manual
 /usr/share/help/en_GB/gtk-doc-manual/index.docbook
 /usr/share/help/en_GB/gtk-doc-manual/fdl-appendix.xml
@@ -53,6 +54,10 @@
 /usr/share/help/fr/gtk-doc-manual
 /usr/share/help/fr/gtk-doc-manual/index.docbook
 /usr/share/help/fr/gtk-doc-manual/fdl-appendix.xml
+/usr/share/help/nn
+/usr/share/help/nn/gtk-doc-manual
+/usr/share/help/nn/gtk-doc-manual/index.docbook
+/usr/share/help/nn/gtk-doc-manual/fdl-appendix.xml
 /usr/share/help/eu/gtk-doc-manual
 /usr/share/help/eu/gtk-doc-manual/index.docbook
 /usr/share/help/eu/gtk-doc-manual/fdl-appendix.xml
