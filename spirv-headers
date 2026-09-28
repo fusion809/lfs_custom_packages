@@ -1,4 +1,4 @@
-1.4.357.0
+1.4.363.0
 /usr/share/pkgconfig
 /usr/share/pkgconfig/SPIRV-Headers.pc
 /usr/share/cmake/SPIRV-Headers
@@ -51,6 +51,10 @@
 /usr/include/spirv/unified1/spirv.cs
 /usr/include/spirv/unified1/extinst.tosa.001000.1.grammar.json
 /usr/include/spirv/unified1/TOSA.001000.1.h
+/usr/include/spirv/unified1/org
+/usr/include/spirv/unified1/org/khronos
+/usr/include/spirv/unified1/org/khronos/spv
+/usr/include/spirv/unified1/org/khronos/spv/Spv.java
 /usr/include/spirv/unified1/extinst.nonsemantic.graph.debuginfo.grammar.json
 /usr/include/spirv/unified1/NonSemanticVkspReflection.h
 /usr/include/spirv/unified1/spirv.lua

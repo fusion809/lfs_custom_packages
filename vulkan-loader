@@ -1,13 +1,14 @@
-1.4.357.0
+1.4.363.0
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/vulkan.pc
+/usr/lib/libvulkan.so.1.4.363
 /usr/lib/cmake/VulkanLoader
 /usr/lib/cmake/VulkanLoader/VulkanLoaderConfig-release.cmake
 /usr/lib/cmake/VulkanLoader/VulkanLoaderConfig.cmake
 /usr/lib/cmake/VulkanLoader/VulkanLoaderConfigVersion.cmake
-/usr/lib/libvulkan.so.1.4.357
-/lib/libvulkan.so.1.4.357
+/usr/lib/libvulkan.so.1
+/lib/libvulkan.so.1.4.363
 /lib/libvulkan.so.1
 /lib/libvulkan.so
 /lib/cmake/VulkanLoader/VulkanLoaderConfig.cmake
