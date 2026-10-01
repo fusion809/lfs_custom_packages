@@ -1,9 +1,9 @@
-3.6.6
+3.8.0
 /usr/lib
 /usr/lib/libsoup-3.0.so.0
+/usr/lib/libsoup-3.0.so.0.8.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libsoup-3.0.pc
-/usr/lib/libsoup-3.0.so.0.7.4
 /usr/lib/libsoup-3.0.so
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/Soup-3.0.typelib
@@ -40,6 +40,7 @@
 /usr/share/doc/libsoup-3.0/method.Message.get_tls_peer_certificate_errors.html
 /usr/share/doc/libsoup-3.0/vfunc.HSTSEnforcer.is_persistent.html
 /usr/share/doc/libsoup-3.0/property.Auth.is-authenticated.html
+/usr/share/doc/libsoup-3.0/vfunc.WebsocketExtension.process_incoming_message_with_limit.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-Regular.woff
 /usr/share/doc/libsoup-3.0/RedHatDisplay-BoldItalic.woff2
 /usr/share/doc/libsoup-3.0/vfunc.AuthDomain.check_password.html
@@ -83,6 +84,7 @@
 /usr/share/doc/libsoup-3.0/method.CookieJar.add_cookie_full.html
 /usr/share/doc/libsoup-3.0/opensearch.xml
 /usr/share/doc/libsoup-3.0/method.Message.add_status_code_handler.html
+/usr/share/doc/libsoup-3.0/method.Message.set_compression_dictionary_hash.html
 /usr/share/doc/libsoup-3.0/method.MessageMetrics.get_request_body_bytes_sent.html
 /usr/share/doc/libsoup-3.0/method.CookieJar.is_persistent.html
 /usr/share/doc/libsoup-3.0/vfunc.Auth.get_protection_space.html
@@ -108,6 +110,7 @@
 /usr/share/doc/libsoup-3.0/method.MessageBody.unref.html
 /usr/share/doc/libsoup-3.0/method.MessageBody.get_chunk.html
 /usr/share/doc/libsoup-3.0/method.ServerMessage.get_request_headers.html
+/usr/share/doc/libsoup-3.0/func.DEPRECATED_IN_3_8_FOR.html
 /usr/share/doc/libsoup-3.0/property.Auth.authority.html
 /usr/share/doc/libsoup-3.0/property.Session.tls-database.html
 /usr/share/doc/libsoup-3.0/method.Cookie.set_domain.html
@@ -122,6 +125,7 @@
 /usr/share/doc/libsoup-3.0/method.Session.get_user_agent.html
 /usr/share/doc/libsoup-3.0/class.AuthDomainBasic.html
 /usr/share/doc/libsoup-3.0/property.AuthDomain.filter-data.html
+/usr/share/doc/libsoup-3.0/func.header_contains_case_sensitive.html
 /usr/share/doc/libsoup-3.0/property.Cache.cache-dir.html
 /usr/share/doc/libsoup-3.0/const.MINOR_VERSION.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-Black.woff
@@ -145,17 +149,20 @@
 /usr/share/doc/libsoup-3.0/vfunc.Auth.authenticate.html
 /usr/share/doc/libsoup-3.0/signal.ServerMessage.connected.html
 /usr/share/doc/libsoup-3.0/func.header_parse_quality_list.html
+/usr/share/doc/libsoup-3.0/error.CookieJarError.html
 /usr/share/doc/libsoup-3.0/property.CookieJarDB.filename.html
 /usr/share/doc/libsoup-3.0/method.WebsocketConnection.get_keepalive_pong_timeout.html
 /usr/share/doc/libsoup-3.0/method.Session.send_and_splice_finish.html
 /usr/share/doc/libsoup-3.0/enum.DateFormat.html
 /usr/share/doc/libsoup-3.0/method.Cookie.set_secure.html
 /usr/share/doc/libsoup-3.0/method.Logger.set_printer.html
+/usr/share/doc/libsoup-3.0/method.CookieJarDB.set_max_size.html
 /usr/share/doc/libsoup-3.0/ctor.Cookie.new.html
 /usr/share/doc/libsoup-3.0/func.headers_parse_request.html
 /usr/share/doc/libsoup-3.0/method.Message.set_flags.html
 /usr/share/doc/libsoup-3.0/method.Cookie.copy.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-BoldItalic.woff
+/usr/share/doc/libsoup-3.0/type_func.CookieJarError.quark.html
 /usr/share/doc/libsoup-3.0/favicon-192x192.png
 /usr/share/doc/libsoup-3.0/property.ServerMessage.tls-peer-certificate-errors.html
 /usr/share/doc/libsoup-3.0/ctor.Auth.new.html
@@ -223,6 +230,7 @@
 /usr/share/doc/libsoup-3.0/property.CookieJarText.filename.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.set_content_type.html
 /usr/share/doc/libsoup-3.0/class.AuthDomainDigest.html
+/usr/share/doc/libsoup-3.0/signal.Message.request-compression-dictionary.html
 /usr/share/doc/libsoup-3.0/method.CookieJar.get_cookies.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-Regular.woff2
 /usr/share/doc/libsoup-3.0/signal.ServerMessage.got-body.html
@@ -277,6 +285,7 @@
 /usr/share/doc/libsoup-3.0/property.WebsocketConnection.keepalive-pong-timeout.html
 /usr/share/doc/libsoup-3.0/method.HSTSPolicy.is_session_policy.html
 /usr/share/doc/libsoup-3.0/method.Server.get_tls_database.html
+/usr/share/doc/libsoup-3.0/method.CompressionDictionaryRequest.set_dictionary.html
 /usr/share/doc/libsoup-3.0/const.FORM_MIME_TYPE_URLENCODED.html
 /usr/share/doc/libsoup-3.0/method.Message.tls_client_certificate_password_request_complete.html
 /usr/share/doc/libsoup-3.0/func.form_encode_datalist.html
@@ -303,6 +312,7 @@
 /usr/share/doc/libsoup-3.0/method.Message.add_flags.html
 /usr/share/doc/libsoup-3.0/method.Server.add_websocket_extension.html
 /usr/share/doc/libsoup-3.0/property.Session.proxy-resolver.html
+/usr/share/doc/libsoup-3.0/method.CompressionDictionaryRequest.cancel.html
 /usr/share/doc/libsoup-3.0/method.MessageMetrics.get_dns_start.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.get_list.html
 /usr/share/doc/libsoup-3.0/ctor.Message.new_from_uri.html
@@ -354,6 +364,7 @@
 /usr/share/doc/libsoup-3.0/func.DEPRECATED_IN_3_4_FOR.html
 /usr/share/doc/libsoup-3.0/method.Message.get_priority.html
 /usr/share/doc/libsoup-3.0/method.Message.get_tls_peer_certificate.html
+/usr/share/doc/libsoup-3.0/method.Message.get_compression_dictionary_id.html
 /usr/share/doc/libsoup-3.0/struct.MessageBody.html
 /usr/share/doc/libsoup-3.0/signal.Message.got-informational.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.set_content_range.html
@@ -377,6 +388,7 @@
 /usr/share/doc/libsoup-3.0/ctor.Message.new_options_ping.html
 /usr/share/doc/libsoup-3.0/method.Session.get_max_conns_per_host.html
 /usr/share/doc/libsoup-3.0/class.Cache.html
+/usr/share/doc/libsoup-3.0/method.Message.set_compression_dictionary_id.html
 /usr/share/doc/libsoup-3.0/class.CookieJarText.html
 /usr/share/doc/libsoup-3.0/func.get_major_version.html
 /usr/share/doc/libsoup-3.0/signal.ServerMessage.wrote-body-data.html
@@ -399,6 +411,7 @@
 /usr/share/doc/libsoup-3.0/func.header_parse_param_list_strict.html
 /usr/share/doc/libsoup-3.0/class.AuthDigest.html
 /usr/share/doc/libsoup-3.0/ctor.Server.new.html
+/usr/share/doc/libsoup-3.0/method.WebsocketConnection.get_max_total_message_size.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.set_encoding.html
 /usr/share/doc/libsoup-3.0/class.WebsocketConnection.html
 /usr/share/doc/libsoup-3.0/class.AuthBasic.html
@@ -414,10 +427,12 @@
 /usr/share/doc/libsoup-3.0/method.WebsocketConnection.get_close_code.html
 /usr/share/doc/libsoup-3.0/const.HTTP_URI_FLAGS.html
 /usr/share/doc/libsoup-3.0/flags.Cacheability.html
+/usr/share/doc/libsoup-3.0/method.Message.get_compression_dictionary_hash.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-Black.woff2
 /usr/share/doc/libsoup-3.0/method.Auth.get_protection_space.html
 /usr/share/doc/libsoup-3.0/class.HSTSEnforcer.html
 /usr/share/doc/libsoup-3.0/RedHatDisplay-Bold.woff
+/usr/share/doc/libsoup-3.0/property.WebsocketConnection.max-total-message-size.html
 /usr/share/doc/libsoup-3.0/enum.Encoding.html
 /usr/share/doc/libsoup-3.0/vfunc.Server.request_aborted.html
 /usr/share/doc/libsoup-3.0/method.ServerMessage.steal_connection.html
@@ -467,9 +482,11 @@
 /usr/share/doc/libsoup-3.0/struct.MessageHeadersIter.html
 /usr/share/doc/libsoup-3.0/vfunc.WebsocketExtension.process_incoming_message.html
 /usr/share/doc/libsoup-3.0/vfunc.Session.request_queued.html
+/usr/share/doc/libsoup-3.0/ctor.CookieJarDB.new_with_error.html
 /usr/share/doc/libsoup-3.0/method.Session.send_and_read.html
 /usr/share/doc/libsoup-3.0/RedHatText-BoldItalic.woff2
 /usr/share/doc/libsoup-3.0/method.Multipart.get_part.html
+/usr/share/doc/libsoup-3.0/method.WebsocketConnection.set_max_total_message_size.html
 /usr/share/doc/libsoup-3.0/method.MultipartInputStream.next_part_finish.html
 /usr/share/doc/libsoup-3.0/vfunc.CookieJar.changed.html
 /usr/share/doc/libsoup-3.0/method.Cookie.get_http_only.html
@@ -494,6 +511,7 @@
 /usr/share/doc/libsoup-3.0/ctor.Cache.new.html
 /usr/share/doc/libsoup-3.0/fonts.css
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.clean_connection_headers.html
+/usr/share/doc/libsoup-3.0/property.CompressionDictionaryRequest.dictionary.html
 /usr/share/doc/libsoup-3.0/flags.MessageFlags.html
 /usr/share/doc/libsoup-3.0/method.Logger.set_response_filter.html
 /usr/share/doc/libsoup-3.0/flags.ServerListenOptions.html
@@ -513,6 +531,7 @@
 /usr/share/doc/libsoup-3.0/method.Message.set_request_body_from_bytes.html
 /usr/share/doc/libsoup-3.0/method.ServerMessage.get_uri.html
 /usr/share/doc/libsoup-3.0/ctor.Message.new.html
+/usr/share/doc/libsoup-3.0/property.CookieJarDB.max-size.html
 /usr/share/doc/libsoup-3.0/method.Message.set_priority.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.set_ranges.html
 /usr/share/doc/libsoup-3.0/method.MessageHeaders.replace.html
@@ -557,6 +576,7 @@
 /usr/share/doc/libsoup-3.0/method.MessageBody.get_accumulate.html
 /usr/share/doc/libsoup-3.0/method.WebsocketConnection.get_keepalive_interval.html
 /usr/share/doc/libsoup-3.0/property.Server.tls-certificate.html
+/usr/share/doc/libsoup-3.0/method.CookieJarDB.get_max_size.html
 /usr/share/doc/libsoup-3.0/method.Auth.update.html
 /usr/share/doc/libsoup-3.0/signal.Server.request-aborted.html
 /usr/share/doc/libsoup-3.0/method.Session.abort.html
@@ -568,6 +588,7 @@
 /usr/share/doc/libsoup-3.0/vfunc.WebsocketExtension.configure.html
 /usr/share/doc/libsoup-3.0/ctor.Logger.new.html
 /usr/share/doc/libsoup-3.0/method.Session.set_tls_interaction.html
+/usr/share/doc/libsoup-3.0/class.CompressionDictionaryRequest.html
 /usr/share/doc/libsoup-3.0/method.Server.add_early_handler.html
 /usr/share/doc/libsoup-3.0/method.WebsocketConnection.send_text.html
 /usr/share/doc/libsoup-3.0/enum.HTTPVersion.html
@@ -605,6 +626,7 @@
 /usr/share/doc/libsoup-3.0/client-basic.html
 /usr/share/doc/libsoup-3.0/property.Message.http-version.html
 /usr/share/doc/libsoup-3.0/signal.Server.request-finished.html
+/usr/share/doc/libsoup-3.0/property.CompressionDictionaryRequest.cancelled.html
 /usr/share/doc/libsoup-3.0/property.Session.tls-interaction.html
 /usr/share/doc/libsoup-3.0/method.Multipart.to_message.html
 /usr/share/doc/libsoup-3.0/method.MessageBody.wrote_chunk.html
@@ -614,6 +636,7 @@
 /usr/share/doc/libsoup-3.0/func.cookies_from_request.html
 /usr/share/doc/libsoup-3.0/class.WebsocketExtensionDeflate.html
 /usr/share/doc/libsoup-3.0/method.Message.set_request_body.html
+/usr/share/doc/libsoup-3.0/method.WebsocketExtension.process_incoming_message_with_limit.html
 /usr/share/doc/libsoup-3.0/type_func.Cookie.parse.html
 /usr/share/doc/libsoup-3.0/method.Session.set_proxy_resolver.html
 /usr/share/doc/libsoup-3.0/signal.Message.hsts-enforced.html
@@ -850,6 +873,7 @@
 /usr/include/libsoup-3.0/libsoup/soup-hsts-enforcer.h
 /usr/include/libsoup-3.0/libsoup/soup-message-headers.h
 /usr/include/libsoup-3.0/libsoup/soup-message-body.h
+/usr/include/libsoup-3.0/libsoup/soup-compression-dictionary-request.h
 /usr/include/libsoup-3.0/libsoup/soup-types.h
 /usr/include/libsoup-3.0/libsoup/soup-auth-domain-basic.h
 /usr/include/libsoup-3.0/libsoup/soup-enum-types.h
