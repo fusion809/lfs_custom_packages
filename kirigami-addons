@@ -1,8 +1,8 @@
-1.14.2
+1.15.0
 /usr/lib
-/usr/lib/libKirigamiAddonsComponents.so.1.14.2
-/usr/lib/libKirigamiApp.so.1.14.2
-/usr/lib/libKirigamiAddonsStatefulApp.so.1.14.2
+/usr/lib/libKirigamiAddonsComponents.so.1.15.0
+/usr/lib/libKirigamiApp.so.1.15.0
+/usr/lib/libKirigamiAddonsStatefulApp.so.1.15.0
 /usr/lib/libKirigamiAddonsComponents.so.6
 /usr/lib/libKirigamiAddonsStatefulApp.so.6
 /usr/lib/qml/org/kde/kirigamiaddons/onboarding
@@ -158,9 +158,11 @@
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormDelegateCollapsible.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardBackground.qml
+/usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormInlineMessage.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardUnits.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/ContentItemLoader.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormChoiceDelegateLayout.qml
+/usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormPathCompletion.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormDelegateLayout.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/private/FormInfoGrid.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormSectionText.qml
@@ -171,6 +173,7 @@
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormFileDelegate.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/libformcardplugin.so
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormSpinBoxDelegate.qml
+/usr/lib/qml/org/kde/kirigamiaddons/formcard/FormSliderDelegate.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormDateTimeDelegate.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormGridContainer.qml
 /usr/lib/qml/org/kde/kirigamiaddons/formcard/FormTextDelegate.qml
@@ -377,10 +380,10 @@
 /usr/include/KirigamiAddons/Components/NameUtils
 /usr/include/KirigamiAddons/Components/kirigamiaddonscomponents_export.h
 /usr/include/KirigamiAddons/Components/nameutils.h
-/lib/libKirigamiApp.so.1.14.2
+/lib/libKirigamiApp.so.1.15.0
 /lib/libKirigamiApp.so.6
 /lib/libKirigamiApp.so
-/lib/libKirigamiAddonsComponents.so.1.14.2
+/lib/libKirigamiAddonsComponents.so.1.15.0
 /lib/libKirigamiAddonsComponents.so.6
 /lib/libKirigamiAddonsComponents.so
 /lib/qml/org/kde/kirigamiaddons/labs/components/libcomponentslabsplugin.so
@@ -478,6 +481,7 @@
 /lib/qml/org/kde/kirigamiaddons/formcard/FormRadioDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormRadioSelectorDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormSectionText.qml
+/lib/qml/org/kde/kirigamiaddons/formcard/FormSliderDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormSpinBoxDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormSwitchDelegate.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/FormTextAreaDelegate.qml
@@ -491,6 +495,8 @@
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormChoiceDelegateLayout.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormDelegateLayout.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormInfoGrid.qml
+/lib/qml/org/kde/kirigamiaddons/formcard/private/FormInlineMessage.qml
+/lib/qml/org/kde/kirigamiaddons/formcard/private/FormPathCompletion.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/private/FormCardUnits.qml
 /lib/qml/org/kde/kirigamiaddons/formcard/kde-qmlmodule.version
 /lib/qml/org/kde/kirigamiaddons/delegates/libdelegatesplugin.so
@@ -538,7 +544,7 @@
 /lib/qml/org/kde/kirigamiaddons/actions/ActionMenuPopup.qml
 /lib/qml/org/kde/kirigamiaddons/actions/ActionMenuBar.qml
 /lib/qml/org/kde/kirigamiaddons/actions/kde-qmlmodule.version
-/lib/libKirigamiAddonsStatefulApp.so.1.14.2
+/lib/libKirigamiAddonsStatefulApp.so.1.15.0
 /lib/libKirigamiAddonsStatefulApp.so.6
 /lib/libKirigamiAddonsStatefulApp.so
 /lib/qml/org/kde/kirigamiaddons/statefulapp/private/libstatefulappprivateplugin.so
