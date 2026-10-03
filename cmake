@@ -1,9 +1,14 @@
-4.4.3
-/usr/share/doc/cmake-4.4.3/cmsys/Copyright.txt
-/usr/share/doc/cmake-4.4.3/cmcppdap/NOTICE
-/usr/share/doc/cmake-4.4.3/CONTRIBUTORS.rst
-/usr/share/doc/cmake-4.4.3/LICENSE.rst
-/usr/share/doc/cmake-4.4.3/cmlibrhash/COPYING
+4.4.4
+/usr/share/doc
+/usr/share/doc/cmake-4.4.4
+/usr/share/doc/cmake-4.4.4/cmsys
+/usr/share/doc/cmake-4.4.4/cmsys/Copyright.txt
+/usr/share/doc/cmake-4.4.4/cmcppdap
+/usr/share/doc/cmake-4.4.4/cmcppdap/NOTICE
+/usr/share/doc/cmake-4.4.4/CONTRIBUTORS.rst
+/usr/share/doc/cmake-4.4.4/LICENSE.rst
+/usr/share/doc/cmake-4.4.4/cmlibrhash
+/usr/share/doc/cmake-4.4.4/cmlibrhash/COPYING
 /usr/share/vim/vimfiles/indent
 /usr/share/vim/vimfiles/indent/cmake.vim
 /usr/share/vim/vimfiles/syntax
@@ -2640,8 +2645,6 @@
 /usr/share/cmake-4.4/Modules/FindX11.cmake
 /usr/share/cmake-4.4/Modules/GoogleTest
 /usr/share/cmake-4.4/Modules/GoogleTest/ParseTestList.cmake
-/usr/share/cmake-4.4/Modules/GoogleTest/LaunchTest.cmake
-/usr/share/cmake-4.4/Modules/GoogleTest/DiscoverTests.cmake
 /usr/share/cmake-4.4/Modules/CMakeParseImplicitLinkInfo.cmake
 /usr/share/cmake-4.4/Modules/FindBoost.cmake
 /usr/share/cmake-4.4/Modules/CheckCompilerFlag.cmake
@@ -2719,6 +2722,7 @@
 /usr/share/cmake-4.4/Modules/Platform/Linux-XL-C.cmake
 /usr/share/cmake-4.4/Modules/Platform/Windows-Clang-OBJC.cmake
 /usr/share/cmake-4.4/Modules/Platform/iOS-Determine-CXX.cmake
+/usr/share/cmake-4.4/Modules/Platform/AIX-IBMFlang-Fortran.cmake
 /usr/share/cmake-4.4/Modules/Platform/Emscripten-Determine-C.cmake
 /usr/share/cmake-4.4/Modules/Platform/Emscripten-Clang-CXX.cmake
 /usr/share/cmake-4.4/Modules/Platform/WindowsStore-MSVC-CXX.cmake
@@ -3352,7 +3356,6 @@
 /usr/share/cmake-4.4/Modules/Platform/OS2-OpenWatcom-CXX.cmake
 /usr/share/cmake-4.4/Modules/Platform/ARTOS-GNU-C.cmake
 /usr/share/cmake-4.4/Modules/Platform/Windows-Apple-Swift.cmake
-/usr/share/cmake-4.4/Modules/Platform/AIX-IBMLLVMFlang-Fortran.cmake
 /usr/share/cmake-4.4/Modules/Platform/Apple-Intel-C.cmake
 /usr/share/cmake-4.4/Modules/Platform/AIX-XLClang-CXX.cmake
 /usr/share/cmake-4.4/Modules/Platform/MirBSD-GNU.cmake
@@ -3885,7 +3888,6 @@
 /usr/share/cmake-4.4/Modules/Compiler/LCC-Fortran.cmake
 /usr/share/cmake-4.4/Modules/Compiler/OrangeC-ASM.cmake
 /usr/share/cmake-4.4/Modules/Compiler/NAG-Fortran.cmake
-/usr/share/cmake-4.4/Modules/Compiler/IBMLLVMFlang-Fortran.cmake
 /usr/share/cmake-4.4/Modules/Compiler/GNU-CXX-CXXImportStd.cmake
 /usr/share/cmake-4.4/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake
 /usr/share/cmake-4.4/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake
@@ -4012,6 +4014,7 @@
 /usr/share/cmake-4.4/Modules/Compiler/ARMCC-DetermineCompiler.cmake
 /usr/share/cmake-4.4/Modules/Compiler/TIClang-C.cmake
 /usr/share/cmake-4.4/Modules/Compiler/FujitsuClang-CXX.cmake
+/usr/share/cmake-4.4/Modules/Compiler/IBMFlang-Fortran.cmake
 /usr/share/cmake-4.4/Modules/Compiler/HP-ASM.cmake
 /usr/share/cmake-4.4/Modules/Compiler/ARMCC-CXX.cmake
 /usr/share/cmake-4.4/Modules/Compiler/Diab-FindBinUtils.cmake
@@ -4208,8 +4211,11 @@
 /usr/share/cmake-4.4/Modules/CMakeAddFortranSubdirectory/build_mingw.cmake.in
 /usr/share/cmake-4.4/Modules/CMakeAddFortranSubdirectory/config_mingw.cmake.in
 /usr/share/cmake-4.4/Modules/CMakeFindKate.cmake
+/usr/share/emacs/site-lisp
 /usr/share/emacs/site-lisp/cmake-mode.el
+/usr/share/aclocal
 /usr/share/aclocal/cmake.m4
+/usr/share/bash-completion/completions
 /usr/share/bash-completion/completions/cpack
 /usr/share/bash-completion/completions/cmake
 /usr/share/bash-completion/completions/ctest
@@ -4218,6 +4224,8 @@
 /usr/bin/cpack
 /usr/bin/cmake
 /usr/bin/ctest
+/boot/grub
+/boot/grub/grub.cfg
 /usr/share/cmake-4.4/Help/generator/Borland
 /usr/share/cmake-4.4/Help/generator/Eclipse
 /usr/share/cmake-4.4/Help/generator/Green

@@ -1,8 +1,8 @@
-2.32.72
+2.32.74
 /usr/lib
+/usr/lib/libSDL2-2.0.so.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/sdl2-compat.pc
-/usr/lib/libSDL2-2.0.so.0.3200.72
 /usr/lib/libSDL2main.a
 /usr/lib/cmake/SDL2
 /usr/lib/cmake/SDL2/SDL2mainTargets-release.cmake
@@ -15,6 +15,7 @@
 /usr/lib/cmake/SDL2/SDL2Targets.cmake
 /usr/lib/cmake/SDL2/SDL2_testTargets-release.cmake
 /usr/lib/cmake/SDL2/SDL2Config.cmake
+/usr/lib/libSDL2-2.0.so.0.3200.74
 /usr/share/aclocal/sdl2.m4
 /usr/share/licenses/sdl2-compat/LICENSE.txt
 /usr/bin
@@ -112,7 +113,7 @@
 /usr/include/SDL2/SDL_hints.h
 /usr/include/SDL2/SDL_mouse.h
 /usr/include/SDL2/SDL_hidapi.h
-/lib/libSDL2-2.0.so.0.3200.72
+/lib/libSDL2-2.0.so.0.3200.74
 /lib/libSDL2-2.0.so.0
 /lib/libSDL2-2.0.so
 /lib/cmake/SDL2/SDL2Targets.cmake

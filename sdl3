@@ -1,14 +1,15 @@
-3.4.16
+3.4.18
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/sdl3.pc
+/usr/lib/libSDL3.so.0
 /usr/lib/cmake/SDL3
 /usr/lib/cmake/SDL3/SDL3headersTargets.cmake
 /usr/lib/cmake/SDL3/SDL3sharedTargets-release.cmake
 /usr/lib/cmake/SDL3/SDL3ConfigVersion.cmake
 /usr/lib/cmake/SDL3/SDL3Config.cmake
 /usr/lib/cmake/SDL3/SDL3sharedTargets.cmake
-/usr/lib/libSDL3.so.0.4.16
+/usr/lib/libSDL3.so.0.4.18
 /usr/share/licenses/SDL3/LICENSE.txt
 /usr/include/SDL3
 /usr/include/SDL3/SDL_platform_defines.h
@@ -87,7 +88,7 @@
 /usr/include/SDL3/SDL_main_impl.h
 /usr/include/SDL3/SDL_hidapi.h
 /lib/pkgconfig/sdl3.pc
-/lib/libSDL3.so.0.4.16
+/lib/libSDL3.so.0.4.18
 /lib/libSDL3.so.0
 /lib/libSDL3.so
 /lib/cmake/SDL3/SDL3headersTargets.cmake
