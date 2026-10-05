@@ -1,8 +1,10 @@
-1.2.0
+1.3.0
 /usr/lib
 /usr/lib/pkgconfig
+/usr/lib/pkgconfig/qrupdate-static.pc
 /usr/lib/pkgconfig/qrupdate.pc
-/usr/lib/libqrupdate.so.1.2.0
+/usr/lib/libqrupdate.so.1.3.0
+/usr/lib/libqrupdate.so.1
 /usr/lib/cmake/qrupdate
 /usr/lib/cmake/qrupdate/qrupdateConfigVersion.cmake
 /usr/lib/cmake/qrupdate/qrupdateTargets-release.cmake
@@ -10,10 +12,16 @@
 /usr/lib/cmake/qrupdate/qrupdate-config.cmake
 /usr/lib/libqrupdate.a
 /usr/include/qrupdate
+/usr/include/qrupdate/qrupdate_error.h
+/usr/include/qrupdate/qrupdate_export.h
 /usr/include/qrupdate/qrupdate_error.mod
+/usr/include/qrupdate/qrupdate_config.h
+/usr/include/qrupdate/qrupdate_fortran_types.h
+/usr/include/qrupdate/qrupdate_fortran_mangle.h
+/usr/include/qrupdate/qrupdate.h
 /usr/include/qrupdate/qrupdate.mod
 /usr/include/qrupdate/qrupdate_blas.mod
-/lib/libqrupdate.so.1.2.0
+/lib/libqrupdate.so.1.3.0
 /lib/libqrupdate.so.1
 /lib/libqrupdate.so
 /lib/libqrupdate.a
@@ -22,3 +30,4 @@
 /lib/cmake/qrupdate/qrupdate-config.cmake
 /lib/cmake/qrupdate/qrupdateConfigVersion.cmake
 /lib/pkgconfig/qrupdate.pc
+/lib/pkgconfig/qrupdate-static.pc
