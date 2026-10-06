@@ -1,8 +1,8 @@
-5.13.0
+5.13.1
 /usr/lib
-/usr/lib/libqalculate.so.23.3.14
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libqalculate.pc
+/usr/lib/libqalculate.so.23.3.15
 /usr/lib/libqalculate.so.23
 /usr/lib/libqalculate.so
 /usr/share/locale/nl/LC_MESSAGES
