@@ -1,7 +1,7 @@
-2.90.0
+2.90.1
 /usr/lib
-/usr/lib/libglib-2.0.so.0.9000.0
 /usr/lib/gio/modules
+/usr/lib/libgio-2.0.so.0.9000.1
 /usr/lib/libgirepository-2.0.so.0
 /usr/lib/libglib-2.0.so
 /usr/lib/pkgconfig
@@ -17,6 +17,9 @@
 /usr/lib/pkgconfig/gobject-introspection-1.0.pc
 /usr/lib/pkgconfig/gobject-introspection-no-export-1.0.pc
 /usr/lib/libglib-2.0.so.0
+/usr/lib/libgirepository-2.0.so.0.9000.1
+/usr/lib/libgthread-2.0.so.0.9000.1
+/usr/lib/libglib-2.0.so.0.9000.1
 /usr/lib/libgmodule-2.0.so
 /usr/lib/libgio-2.0.so.0
 /usr/lib/gobject-introspection/giscanner
@@ -119,14 +122,11 @@
 /usr/lib/gobject-introspection/giscanner/docwriter.py
 /usr/lib/gobject-introspection/giscanner/_version.py
 /usr/lib/gobject-introspection/giscanner/annotationmain.py
-/usr/lib/libgio-2.0.so.0.9000.0
-/usr/lib/libgmodule-2.0.so.0.9000.0
 /usr/lib/libgobject-2.0.so.0
-/usr/lib/libgirepository-2.0.so.0.9000.0
-/usr/lib/libgobject-2.0.so.0.9000.0
+/usr/lib/libgmodule-2.0.so.0.9000.1
 /usr/lib/libgirepository-1.0.so
 /usr/lib/libgobject-2.0.so
-/usr/lib/libgthread-2.0.so.0.9000.0
+/usr/lib/libgobject-2.0.so.0.9000.1
 /usr/lib/libgirepository-1.0.so.1
 /usr/lib/glib-2.0/include
 /usr/lib/glib-2.0/include/glibconfig.h
@@ -182,8 +182,8 @@
 /usr/share/gir-1.0/GLib-2.0.gir
 /usr/share/gir-1.0/DBusGLib-1.0.gir
 /usr/share/gdb/auto-load/usr/lib
-/usr/share/gdb/auto-load/usr/lib/libgobject-2.0.so.0.9000.0-gdb.py
-/usr/share/gdb/auto-load/usr/lib/libglib-2.0.so.0.9000.0-gdb.py
+/usr/share/gdb/auto-load/usr/lib/libgobject-2.0.so.0.9000.1-gdb.py
+/usr/share/gdb/auto-load/usr/lib/libglib-2.0.so.0.9000.1-gdb.py
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/glib20.mo
 /usr/share/locale/nds/LC_MESSAGES
@@ -336,6 +336,8 @@
 /usr/share/locale/ug/LC_MESSAGES/glib20.mo
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/glib20.mo
+/usr/share/locale/sat/LC_MESSAGES
+/usr/share/locale/sat/LC_MESSAGES/glib20.mo
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/glib20.mo
 /usr/share/locale/kk/LC_MESSAGES

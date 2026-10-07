@@ -1,4 +1,4 @@
-3.130
+3.131
 /usr/lib
 /usr/lib/libfreeblpriv3.so
 /usr/lib/libsmime3.so
@@ -22,7 +22,6 @@
 /usr/bin/nss-config
 /usr/bin/pk12util
 /usr/bin/certutil
-/usr/include/nss
 /usr/include/nss/nssrwlkt.h
 /usr/include/nss/ml_dsat.h
 /usr/include/nss/cmst.h
