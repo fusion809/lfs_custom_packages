@@ -1,4 +1,4 @@
-21.1.24
+21.1.25
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xorg-server.pc
 /usr/lib/xorg
@@ -200,6 +200,8 @@
 /usr/include/xorg/screenint.h
 /usr/include/xorg/selection.h
 /usr/include/xorg/events.h
+/boot/grub
+/boot/grub/grub.cfg
 /lib/xorg/modules
 /lib/xorg/modules/extensions
 /lib/xorg/modules/drivers
