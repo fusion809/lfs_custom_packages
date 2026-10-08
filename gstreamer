@@ -1,14 +1,10 @@
-1.28.7
+1.28.8
 /usr/lib
-/usr/lib/libgstnet-1.0.so.0.2807.0
-/usr/lib/libgstcheck-1.0.so.0.2807.0
-/usr/lib/libgstreamer-1.0.so.0.2807.0
-/usr/lib/libgstbase-1.0.so.0.2807.0
+/usr/lib/libgstreamer-1.0.so.0.2808.0
 /usr/lib/gstreamer-1.0
 /usr/lib/gstreamer-1.0/libgstcoretracers.so
 /usr/lib/gstreamer-1.0/libgstcoreelements.so
 /usr/lib/libgstreamer-1.0.so.0
-/usr/lib/libgstcontroller-1.0.so.0.2807.0
 /usr/lib/libgstcontroller-1.0.so
 /usr/lib/libgstcheck-1.0.so.0
 /usr/lib/pkgconfig
@@ -17,9 +13,12 @@
 /usr/lib/pkgconfig/gstreamer-controller-1.0.pc
 /usr/lib/pkgconfig/gstreamer-net-1.0.pc
 /usr/lib/pkgconfig/gstreamer-base-1.0.pc
+/usr/lib/libgstcheck-1.0.so.0.2808.0
 /usr/lib/libgstreamer-1.0.so
 /usr/lib/libgstnet-1.0.so
 /usr/lib/libgstcontroller-1.0.so.0
+/usr/lib/libgstbase-1.0.so.0.2808.0
+/usr/lib/libgstnet-1.0.so.0.2808.0
 /usr/lib/libgstcheck-1.0.so
 /usr/lib/libgstnet-1.0.so.0
 /usr/lib/girepository-1.0
@@ -30,6 +29,7 @@
 /usr/lib/girepository-1.0/GstBase-1.0.typelib
 /usr/lib/libgstbase-1.0.so.0
 /usr/lib/libgstbase-1.0.so
+/usr/lib/libgstcontroller-1.0.so.0.2808.0
 /usr/share/gstreamer-1.0/gdb
 /usr/share/gstreamer-1.0/gdb/glib_gobject_helper.py
 /usr/share/gstreamer-1.0/gdb/gst_gdb.py
@@ -40,7 +40,7 @@
 /usr/share/gir-1.0/GstBase-1.0.gir
 /usr/share/gir-1.0/GstCheck-1.0.gir
 /usr/share/gdb/auto-load/usr/lib
-/usr/share/gdb/auto-load/usr/lib/libgstreamer-1.0.so.0.2807.0-gdb.py
+/usr/share/gdb/auto-load/usr/lib/libgstreamer-1.0.so.0.2808.0-gdb.py
 /usr/share/locale/en_GB/LC_MESSAGES
 /usr/share/locale/en_GB/LC_MESSAGES/gstreamer-1.0.mo
 /usr/share/locale/ro/LC_MESSAGES
