@@ -1,4 +1,4 @@
-26.08.1
+26.08.2
 /usr/lib/plugins/kf6/kfileitemaction
 /usr/lib/plugins/kf6/kfileitemaction/makefileactions.so
 /usr/lib/plugins/kf6/kfileitemaction/mountisoaction.so
@@ -431,9 +431,11 @@
 /usr/share/locale/ca/LC_MESSAGES/makefileactions.mo
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/dolphingit.categories
+/usr/share/config.kcfg
 /usr/share/config.kcfg/fileviewhgpluginsettings.kcfg
 /usr/share/config.kcfg/fileviewgitpluginsettings.kcfg
 /usr/share/config.kcfg/fileviewsvnpluginsettings.kcfg
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.dolphin-plugins.metainfo.xml
 /lib/plugins/dolphin/vcs/fileviewsvnplugin.so
 /lib/plugins/dolphin/vcs/fileviewgitplugin.so
