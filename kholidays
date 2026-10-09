@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Holidays.so.6.30.0
+/usr/lib/libKF6Holidays.so.6
+/usr/lib/libKF6Holidays.so.6.31.0
 /usr/lib/qml/org/kde/kholidays
 /usr/lib/qml/org/kde/kholidays/kde-qmlmodule.version
 /usr/lib/qml/org/kde/kholidays/kholidaysdeclarativeplugin.qmltypes
@@ -188,7 +189,7 @@
 /usr/include/KF6/KHolidays/kholidays/sunevents.h
 /usr/include/KF6/KHolidays/kholidays/kholidays_export.h
 /usr/include/KF6/KHolidays/kholidays/holidaycategories.h
-/lib/libKF6Holidays.so.6.30.0
+/lib/libKF6Holidays.so.6.31.0
 /lib/libKF6Holidays.so.6
 /lib/libKF6Holidays.so
 /lib/qml/org/kde/kholidays/libkholidaysdeclarativeplugin.so

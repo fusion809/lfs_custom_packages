@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Crash.so.6.30.0
+/usr/lib/libKF6Crash.so.6
 /usr/lib/cmake/KF6Crash
 /usr/lib/cmake/KF6Crash/KF6CrashTargets.cmake
 /usr/lib/cmake/KF6Crash/KF6CrashConfig.cmake
 /usr/lib/cmake/KF6Crash/KF6CrashConfigVersion.cmake
 /usr/lib/cmake/KF6Crash/KF6CrashTargets-release.cmake
+/usr/lib/libKF6Crash.so.6.31.0
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/kcrash.renamecategories
 /usr/share/qlogging-categories6/kcrash.categories
@@ -14,7 +15,7 @@
 /usr/include/KF6/KCrash/kcrash.h
 /usr/include/KF6/KCrash/KCrash
 /usr/include/KF6/KCrash/kcrash_version.h
-/lib/libKF6Crash.so.6.30.0
+/lib/libKF6Crash.so.6.31.0
 /lib/libKF6Crash.so.6
 /lib/libKF6Crash.so
 /lib/cmake/KF6Crash/KF6CrashConfig.cmake

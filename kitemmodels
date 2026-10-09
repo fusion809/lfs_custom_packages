@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6ItemModels.so.6.30.0
+/usr/lib/libKF6ItemModels.so.6
 /usr/lib/qml/org/kde/kitemmodels
 /usr/lib/qml/org/kde/kitemmodels/kde-qmlmodule.version
 /usr/lib/qml/org/kde/kitemmodels/itemmodelsplugin.qmltypes
 /usr/lib/qml/org/kde/kitemmodels/libitemmodelsplugin.so
 /usr/lib/qml/org/kde/kitemmodels/qmldir
+/usr/lib/libKF6ItemModels.so.6.31.0
 /usr/lib/cmake/KF6ItemModels
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsTargets-release.cmake
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsConfig.cmake
@@ -37,7 +38,7 @@
 /usr/include/KF6/KItemModels/kextracolumnsproxymodel.h
 /usr/include/KF6/KItemModels/KColumnHeadersModel
 /usr/include/KF6/KItemModels/kmodelindexproxymapper.h
-/lib/libKF6ItemModels.so.6.30.0
+/lib/libKF6ItemModels.so.6.31.0
 /lib/libKF6ItemModels.so.6
 /lib/libKF6ItemModels.so
 /lib/qml/org/kde/kitemmodels/libitemmodelsplugin.so

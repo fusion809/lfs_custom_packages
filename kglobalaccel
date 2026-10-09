@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6GlobalAccel.so.6.30.0
+/usr/lib/libKF6GlobalAccel.so.6.31.0
+/usr/lib/libKF6GlobalAccel.so.6
 /usr/lib/cmake/KF6GlobalAccel
 /usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelConfig.cmake
 /usr/lib/cmake/KF6GlobalAccel/KF6GlobalAccelConfigVersion.cmake
@@ -210,6 +211,7 @@
 /usr/share/locale/ca/LC_MESSAGES/kglobalaccel6_qt.qm
 /usr/share/locale/or/LC_MESSAGES
 /usr/share/locale/or/LC_MESSAGES/kglobalaccel6_qt.qm
+/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/kf6_org.kde.kglobalaccel.Component.xml
 /usr/share/dbus-1/interfaces/kf6_org.kde.KGlobalAccel.xml
 /usr/share/qlogging-categories6
@@ -222,7 +224,7 @@
 /usr/include/KF6/KGlobalAccel/kglobalaccel_version.h
 /usr/include/KF6/KGlobalAccel/kglobalaccel.h
 /usr/include/KF6/KGlobalAccel/kglobalshortcutinfo.h
-/lib/libKF6GlobalAccel.so.6.30.0
+/lib/libKF6GlobalAccel.so.6.31.0
 /lib/libKF6GlobalAccel.so.6
 /lib/libKF6GlobalAccel.so
 /lib/cmake/KF6GlobalAccel/KF6GlobalAccelConfig.cmake
