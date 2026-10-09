@@ -1,5 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
+/usr/lib/libKF6Notifications.so.6.31.0
+/usr/lib/libKF6Notifications.so.6
 /usr/lib/qml/org/kde/notification
 /usr/lib/qml/org/kde/notification/kde-qmlmodule.version
 /usr/lib/qml/org/kde/notification/qmldir
@@ -10,7 +12,6 @@
 /usr/lib/cmake/KF6Notifications/KF6NotificationsConfigVersion.cmake
 /usr/lib/cmake/KF6Notifications/KF6NotificationsConfig.cmake
 /usr/lib/cmake/KF6Notifications/KF6NotificationsTargets-release.cmake
-/usr/lib/libKF6Notifications.so.6.30.0
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/knotifications.categories
 /usr/share/qlogging-categories6/knotifications.renamecategories
@@ -27,7 +28,7 @@
 /usr/include/KF6/KNotifications/KNotificationReplyAction
 /usr/include/KF6/KNotifications/KNotifyConfig
 /usr/include/KF6/KNotifications/knotifyconfig.h
-/lib/libKF6Notifications.so.6.30.0
+/lib/libKF6Notifications.so.6.31.0
 /lib/libKF6Notifications.so.6
 /lib/libKF6Notifications.so
 /lib/qml/org/kde/notification/libknotificationqmlplugin.so

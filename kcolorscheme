@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6ColorScheme.so.6.30.0
+/usr/lib/libKF6ColorScheme.so.6
 /usr/lib/cmake/KF6ColorScheme
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets.cmake
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeConfigVersion.cmake
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeConfig.cmake
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets-release.cmake
+/usr/lib/libKF6ColorScheme.so.6.31.0
 /usr/share/locale
 /usr/share/locale/en_GB
 /usr/share/locale/en_GB/LC_MESSAGES
@@ -158,7 +159,7 @@
 /usr/include/KF6/KColorScheme/kstatefulbrush.h
 /usr/include/KF6/KColorScheme/kcolorschememodel.h
 /usr/include/KF6/KColorScheme/kcolorscheme_version.h
-/lib/libKF6ColorScheme.so.6.30.0
+/lib/libKF6ColorScheme.so.6.31.0
 /lib/libKF6ColorScheme.so.6
 /lib/libKF6ColorScheme.so
 /lib/cmake/KF6ColorScheme/KF6ColorSchemeConfig.cmake
