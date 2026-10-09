@@ -2,7 +2,6 @@
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Archive.pc
-/usr/lib/libKF6Archive.so.6
 /usr/lib/libKF6Archive.so.6.31.0
 /usr/lib/cmake/KF6Archive
 /usr/lib/cmake/KF6Archive/KF6ArchiveTargets-release.cmake
