@@ -1,8 +1,8 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6CalendarCore.pc
-/usr/lib/libKF6CalendarCore.so.6.30.0
+/usr/lib/libKF6CalendarCore.so.6.31.0
 /usr/lib/qml/org/kde/calendarcore
 /usr/lib/qml/org/kde/calendarcore/kde-qmlmodule.version
 /usr/lib/qml/org/kde/calendarcore/kcalendarcoreqml.qmltypes
@@ -28,6 +28,8 @@
 /usr/share/locale/fr/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/eu/LC_MESSAGES
 /usr/share/locale/eu/LC_MESSAGES/kcalendarcore6_qt.qm
+/usr/share/locale/ko/LC_MESSAGES
+/usr/share/locale/ko/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/en/LC_MESSAGES
@@ -36,10 +38,16 @@
 /usr/share/locale/zh_CN/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/es/LC_MESSAGES
 /usr/share/locale/es/LC_MESSAGES/kcalendarcore6_qt.qm
+/usr/share/locale/zh_TW/LC_MESSAGES
+/usr/share/locale/zh_TW/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/he/LC_MESSAGES
 /usr/share/locale/he/LC_MESSAGES/kcalendarcore6_qt.qm
+/usr/share/locale/pl/LC_MESSAGES
+/usr/share/locale/pl/LC_MESSAGES/kcalendarcore6_qt.qm
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/kcalendarcore6_qt.qm
 /usr/share/locale/ca@valencia/LC_MESSAGES
@@ -128,7 +136,7 @@
 /usr/include/KF6/KCalendarCore/KCalendarCore/Sorting
 /usr/include/KF6/KCalendarCore/KCalendarCore/Todo
 /usr/include/KF6/KCalendarCore/kcalendarcore_version.h
-/lib/libKF6CalendarCore.so.6.30.0
+/lib/libKF6CalendarCore.so.6.31.0
 /lib/libKF6CalendarCore.so.6
 /lib/libKF6CalendarCore.so
 /lib/qml/org/kde/calendarcore/libkcalendarcoreqml.so

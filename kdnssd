@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6DNSSD.so.6.30.0
+/usr/lib/libKF6DNSSD.so.6.31.0
 /usr/lib/cmake/KF6DNSSD
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDConfigVersion.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDConfig.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-release.cmake
+/usr/lib/libKF6DNSSD.so.6
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/kdnssd6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -233,7 +234,7 @@
 /usr/include/KF6/KDNSSD/KDNSSD/RemoteService
 /usr/include/KF6/KDNSSD/KDNSSD/ServiceTypeBrowser
 /usr/include/KF6/KDNSSD/KDNSSD/DomainModel
-/lib/libKF6DNSSD.so.6.30.0
+/lib/libKF6DNSSD.so.6.31.0
 /lib/libKF6DNSSD.so.6
 /lib/libKF6DNSSD.so
 /lib/cmake/KF6DNSSD/KF6DNSSDConfig.cmake
