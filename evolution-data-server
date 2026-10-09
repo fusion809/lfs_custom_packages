@@ -1,4 +1,4 @@
-3.62.0
+3.62.1
 /usr/lib
 /usr/lib/libedataserverui-1.2.so.4.0.0
 /usr/lib/libebook-contacts-1.2.so.5.0.0
@@ -78,26 +78,32 @@
 /usr/lib/girepository-1.0/EBookContacts-1.2.typelib
 /usr/lib/libedataserverui4-1.0.so.0.0.0
 /usr/lib/libetestserverutils.so.0.0.0
+/usr/share/evolution-data-server/icons/hicolor/48x48/status
 /usr/share/evolution-data-server/icons/hicolor/48x48/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/48x48/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/48x48/status/appointment-missed.png
 /usr/share/evolution-data-server/icons/hicolor/48x48/status/appointment-soon.png
+/usr/share/evolution-data-server/icons/hicolor/32x32/status
 /usr/share/evolution-data-server/icons/hicolor/32x32/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/32x32/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/32x32/status/appointment-missed.png
 /usr/share/evolution-data-server/icons/hicolor/32x32/status/appointment-soon.png
+/usr/share/evolution-data-server/icons/hicolor/256x256/status
 /usr/share/evolution-data-server/icons/hicolor/256x256/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/256x256/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/256x256/status/appointment-missed.png
 /usr/share/evolution-data-server/icons/hicolor/256x256/status/appointment-soon.png
+/usr/share/evolution-data-server/icons/hicolor/22x22/status
 /usr/share/evolution-data-server/icons/hicolor/22x22/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/22x22/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/22x22/status/appointment-missed.png
 /usr/share/evolution-data-server/icons/hicolor/22x22/status/appointment-soon.png
+/usr/share/evolution-data-server/icons/hicolor/24x24/status
 /usr/share/evolution-data-server/icons/hicolor/24x24/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/24x24/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/24x24/status/appointment-missed.png
 /usr/share/evolution-data-server/icons/hicolor/24x24/status/appointment-soon.png
+/usr/share/evolution-data-server/icons/hicolor/16x16/status
 /usr/share/evolution-data-server/icons/hicolor/16x16/status/dialog-password.png
 /usr/share/evolution-data-server/icons/hicolor/16x16/status/dialog-warning.png
 /usr/share/evolution-data-server/icons/hicolor/16x16/status/appointment-missed.png
@@ -156,6 +162,7 @@
 /usr/share/installed-tests/evolution-data-server/test-ebook-commit-contact.test
 /usr/share/installed-tests/evolution-data-server/test-camel-maildir-flags.test
 /usr/share/installed-tests/evolution-data-server/test-cal-cache-getters.test
+/usr/share/installed-tests/evolution-data-server/test-camel-multipart-signed.test
 /usr/share/installed-tests/evolution-data-server/test-ebook-get-required-fields.test
 /usr/share/installed-tests/evolution-data-server/test-sqlite-create-cursor.test
 /usr/share/installed-tests/evolution-data-server/test-book-cache-query.test
@@ -205,6 +212,7 @@
 /usr/share/installed-tests/evolution-data-server/test-camel-mime-filter-tohtml.test
 /usr/share/installed-tests/evolution-data-server/test-camel-text-index.test
 /usr/share/installed-tests/evolution-data-server/test-ebook-get-supported-fields.test
+/usr/share/installed-tests/evolution-data-server/test-camel-quoted-printable.test
 /usr/share/installed-tests/evolution-data-server/test-camel-param-list.test
 /usr/share/installed-tests/evolution-data-server/test-cal-client-add-timezone.test
 /usr/share/installed-tests/evolution-data-server/test-book-client-get-view.test
@@ -444,7 +452,9 @@
 /usr/share/glib-2.0/schemas/org.gnome.Evolution.DefaultSources.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.evolution.eds-shell.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.evolution-data-server.addressbook.gschema.xml
+/usr/share/GConf/gsettings
 /usr/share/GConf/gsettings/evolution-data-server.convert
+/usr/share/pixmaps/evolution-data-server
 /usr/share/pixmaps/evolution-data-server/category_time-and-expenses_16.png
 /usr/share/pixmaps/evolution-data-server/category_suppliers_16.png
 /usr/share/pixmaps/evolution-data-server/category_miscellaneous_16.png
@@ -465,6 +475,7 @@
 /usr/share/pixmaps/evolution-data-server/category_goals_16.png
 /usr/share/icons/hicolor
 /usr/share/icons/hicolor/icon-theme.cache
+/usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/org.gnome.Evolution-alarm-notify.svg
 /usr/libexec
 /usr/libexec/evolution-data-server
@@ -508,6 +519,7 @@
 /usr/libexec/evolution-data-server/installed-tests/test-sqlite-cursor-calculate
 /usr/libexec/evolution-data-server/installed-tests/test-camel-provider-pop3
 /usr/libexec/evolution-data-server/installed-tests/test-sqlite-create-cursor
+/usr/libexec/evolution-data-server/installed-tests/test-camel-quoted-printable
 /usr/libexec/evolution-data-server/installed-tests/test-book-client-cursor-create
 /usr/libexec/evolution-data-server/installed-tests/test-book-client-modify-contact
 /usr/libexec/evolution-data-server/installed-tests/test-book-cache-create-cursor
@@ -516,6 +528,7 @@
 /usr/libexec/evolution-data-server/installed-tests/test-ebook-commit-contact
 /usr/libexec/evolution-data-server/installed-tests/test-sqlite-cursor-move-by-fr-CA
 /usr/libexec/evolution-data-server/installed-tests/test-vcard
+/usr/libexec/evolution-data-server/installed-tests/components
 /usr/libexec/evolution-data-server/installed-tests/components/event-1.ics
 /usr/libexec/evolution-data-server/installed-tests/components/event-9.ics
 /usr/libexec/evolution-data-server/installed-tests/components/invite-6.ics
@@ -559,6 +572,7 @@
 /usr/libexec/evolution-data-server/installed-tests/test-book-cache-cursor-calculate
 /usr/libexec/evolution-data-server/installed-tests/test-cal-client-receive-objects
 /usr/libexec/evolution-data-server/installed-tests/test-book-client-add-and-get-async
+/usr/libexec/evolution-data-server/installed-tests/vcards
 /usr/libexec/evolution-data-server/installed-tests/vcards/sorted-15.vcf
 /usr/libexec/evolution-data-server/installed-tests/vcards/logo-1.vcf
 /usr/libexec/evolution-data-server/installed-tests/vcards/sorted-13.vcf
@@ -631,6 +645,7 @@
 /usr/libexec/evolution-data-server/installed-tests/test-camel-mime-filter-tohtml
 /usr/libexec/evolution-data-server/installed-tests/test-book-client-self
 /usr/libexec/evolution-data-server/installed-tests/test-ebook-remove-contact
+/usr/libexec/evolution-data-server/installed-tests/test-camel-multipart-signed
 /usr/libexec/evolution-data-server/installed-tests/test-cal-cache-intervals
 /usr/libexec/evolution-data-server/installed-tests/test-cal-backend-sexp
 /usr/libexec/evolution-data-server/installed-tests/test-sqlite-cursor-move-by-en-US
@@ -670,6 +685,7 @@
 /usr/libexec/camel-index-control-1.2
 /usr/libexec/evolution-user-prompter
 /usr/libexec/evolution-addressbook-factory
+/usr/include/evolution-data-server/libedata-cal
 /usr/include/evolution-data-server/libedata-cal/e-cal-cache.h
 /usr/include/evolution-data-server/libedata-cal/e-cal-backend-factory.h
 /usr/include/evolution-data-server/libedata-cal/e-data-cal.h
@@ -985,6 +1001,7 @@
 /usr/include/evolution-data-server/libecal/e-cal-system-timezone.h
 /usr/include/evolution-data-server/libecal/e-cal-time-util.h
 /usr/include/evolution-data-server/libecal/e-cal-component-property-bag.h
+/usr/include/evolution-data-server/libedata-book
 /usr/include/evolution-data-server/libedata-book/e-subprocess-book-factory.h
 /usr/include/evolution-data-server/libedata-book/e-book-backend.h
 /usr/include/evolution-data-server/libedata-book/e-data-book-view-watcher-sqlite.h

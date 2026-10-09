@@ -1,6 +1,5 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Attica.so.6.30.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Attica.pc
 /usr/lib/cmake/KF6Attica
@@ -8,6 +7,8 @@
 /usr/lib/cmake/KF6Attica/KF6AtticaConfigVersion.cmake
 /usr/lib/cmake/KF6Attica/KF6AtticaConfig.cmake
 /usr/lib/cmake/KF6Attica/KF6AtticaTargets-release.cmake
+/usr/lib/libKF6Attica.so.6.31.0
+/usr/lib/libKF6Attica.so.6
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/attica.categories
 /usr/share/qlogging-categories6/attica.renamecategories
@@ -98,7 +99,7 @@
 /usr/include/KF6/Attica/Attica/DeleteJob
 /usr/include/KF6/Attica/Attica/KnowledgeBaseEntry
 /usr/include/KF6/Attica/Attica/PutJob
-/lib/libKF6Attica.so.6.30.0
+/lib/libKF6Attica.so.6.31.0
 /lib/libKF6Attica.so.6
 /lib/libKF6Attica.so
 /lib/pkgconfig/KF6Attica.pc

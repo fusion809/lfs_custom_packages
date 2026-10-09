@@ -1,8 +1,9 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Archive.pc
-/usr/lib/libKF6Archive.so.6.30.0
+/usr/lib/libKF6Archive.so.6
+/usr/lib/libKF6Archive.so.6.31.0
 /usr/lib/cmake/KF6Archive
 /usr/lib/cmake/KF6Archive/KF6ArchiveTargets-release.cmake
 /usr/lib/cmake/KF6Archive/KF6ArchiveConfigVersion.cmake
@@ -126,7 +127,7 @@
 /usr/include/KF6/KArchive/KRcc
 /usr/include/KF6/KArchive/KAr
 /usr/include/KF6/KArchive/karchive_version.h
-/lib/libKF6Archive.so.6.30.0
+/lib/libKF6Archive.so.6.31.0
 /lib/libKF6Archive.so.6
 /lib/libKF6Archive.so
 /lib/cmake/KF6Archive/KF6ArchiveConfig.cmake
