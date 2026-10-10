@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
+/usr/lib/libKF6Pty.so.6
+/usr/lib/libKF6Pty.so.6.31.0
 /usr/lib/cmake/KF6Pty
 /usr/lib/cmake/KF6Pty/KF6PtyConfigVersion.cmake
 /usr/lib/cmake/KF6Pty/KF6PtyConfig.cmake
 /usr/lib/cmake/KF6Pty/KF6PtyTargets.cmake
 /usr/lib/cmake/KF6Pty/KF6PtyTargets-release.cmake
-/usr/lib/libKF6Pty.so.6.30.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -324,7 +325,7 @@
 /usr/include/KF6/KPty/KPtyProcess
 /usr/include/KF6/KPty/kpty_version.h
 /usr/include/KF6/KPty/KPty
-/lib/libKF6Pty.so.6.30.0
+/lib/libKF6Pty.so.6.31.0
 /lib/libKF6Pty.so.6
 /lib/libKF6Pty.so
 /lib/cmake/KF6Pty/KF6PtyConfig.cmake

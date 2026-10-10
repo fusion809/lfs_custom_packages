@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/kf6/kwindowsystem
 /usr/lib/plugins/kf6/kwindowsystem/KF6WindowSystemX11Plugin.so
 /usr/lib/plugins/kf6/kwindowsystem/KF6WindowSystemKWaylandPlugin.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6WindowSystem.pc
-/usr/lib/libKF6WindowSystem.so.6.30.0
+/usr/lib/libKF6WindowSystem.so.6
+/usr/lib/libKF6WindowSystem.so.6.31.0
 /usr/lib/qml/org/kde/kwindowsystem
 /usr/lib/qml/org/kde/kwindowsystem/libKWindowSystem.so
 /usr/lib/qml/org/kde/kwindowsystem/kde-qmlmodule.version
@@ -251,6 +252,7 @@
 /usr/include/KF6/KWindowSystem/netwm.h
 /usr/include/KF6/KWindowSystem/KSelectionWatcher
 /usr/include/KF6/KWindowSystem/kwaylandextras.h
+/usr/include/KF6/KWindowSystem/private
 /usr/include/KF6/KWindowSystem/private/kwindowshadow_p.h
 /usr/include/KF6/KWindowSystem/private/kwindoweffects_p.h
 /usr/include/KF6/KWindowSystem/private/kwindowsystemplugininterface_p.h
@@ -262,7 +264,7 @@
 /usr/include/KF6/KWindowSystem/netwm_def.h
 /usr/include/KF6/KWindowSystem/kwindoweffects.h
 /usr/include/KF6/KWindowSystem/fixx11h.h
-/lib/libKF6WindowSystem.so.6.30.0
+/lib/libKF6WindowSystem.so.6.31.0
 /lib/libKF6WindowSystem.so.6
 /lib/libKF6WindowSystem.so
 /lib/plugins/kf6/kwindowsystem/KF6WindowSystemX11Plugin.so

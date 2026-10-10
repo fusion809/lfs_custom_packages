@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Svg.so.6.30.0
+/usr/lib/libKF6Svg.so.6.31.0
+/usr/lib/libKF6Svg.so.6
 /usr/lib/qml/org/kde/ksvg
 /usr/lib/qml/org/kde/ksvg/corebindingsplugin.qmltypes
 /usr/lib/qml/org/kde/ksvg/kde-qmlmodule.version
@@ -24,7 +25,7 @@
 /usr/include/KF6/KSvg/KSvg/ImageSet
 /usr/include/KF6/KSvg/KSvg/FrameSvg
 /usr/include/KF6/KSvg/ksvg_version.h
-/lib/libKF6Svg.so.6.30.0
+/lib/libKF6Svg.so.6.31.0
 /lib/libKF6Svg.so.6
 /lib/libKF6Svg.so
 /lib/qml/org/kde/ksvg/libcorebindingsplugin.so

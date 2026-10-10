@@ -1,8 +1,9 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kplotting6widgets.so
-/usr/lib/libKF6Plotting.so.6.30.0
+/usr/lib/libKF6Plotting.so.6
+/usr/lib/libKF6Plotting.so.6.31.0
 /usr/lib/cmake/KF6Plotting
 /usr/lib/cmake/KF6Plotting/KF6PlottingConfigVersion.cmake
 /usr/lib/cmake/KF6Plotting/KF6PlottingTargets.cmake
@@ -19,7 +20,7 @@
 /usr/include/KF6/KPlotting/kplotting_version.h
 /usr/include/KF6/KPlotting/kplotting_export.h
 /usr/include/KF6/KPlotting/KPlotWidget
-/lib/libKF6Plotting.so.6.30.0
+/lib/libKF6Plotting.so.6.31.0
 /lib/libKF6Plotting.so.6
 /lib/libKF6Plotting.so
 /lib/plugins/designer/kplotting6widgets.so

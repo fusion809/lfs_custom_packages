@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Solid.so.6.30.0
+/usr/lib/libKF6Solid.so.6
+/usr/lib/libKF6Solid.so.6.31.0
 /usr/lib/cmake/KF6Solid
 /usr/lib/cmake/KF6Solid/KF6SolidConfigVersion.cmake
 /usr/lib/cmake/KF6Solid/KF6SolidTargets-release.cmake
@@ -182,7 +183,7 @@
 /usr/include/KF6/Solid/Solid/Block
 /usr/include/KF6/Solid/Solid/NetworkShare
 /usr/include/KF6/Solid/solid_version.h
-/lib/libKF6Solid.so.6.30.0
+/lib/libKF6Solid.so.6.31.0
 /lib/libKF6Solid.so.6
 /lib/libKF6Solid.so
 /bin/solid-hardware6

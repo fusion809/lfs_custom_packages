@@ -1,8 +1,7 @@
-3.58.0
+3.58.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/pygobject-3.0.pc
-/usr/lib/python3.14/site-packages/PyGObject-3.58.0.dist-info
-/usr/lib/python3.14/site-packages/PyGObject-3.58.0.dist-info/METADATA
+/usr/lib/python3.14/site-packages
 /usr/lib/python3.14/site-packages/gi
 /usr/lib/python3.14/site-packages/gi/docstring.py
 /usr/lib/python3.14/site-packages/gi/_signalhelper.py
@@ -63,11 +62,13 @@
 /usr/lib/python3.14/site-packages/gi/_gtktemplate.py
 /usr/lib/python3.14/site-packages/gi/_error.py
 /usr/lib/python3.14/site-packages/gi/_constants.py
+/usr/lib/python3.14/site-packages/PyGObject-3.58.1.dist-info
+/usr/lib/python3.14/site-packages/PyGObject-3.58.1.dist-info/METADATA
 /usr/include/pygobject-3.0
 /usr/include/pygobject-3.0/pygobject-types.h
 /usr/include/pygobject-3.0/pygobject.h
 /lib/python3.14/site-packages/gi
 /lib/pkgconfig
-/lib/python3.14/site-packages/PyGObject-3.58.0.dist-info
+/lib/python3.14/site-packages/PyGObject-3.58.1.dist-info
 /lib/python3.14/site-packages/gi/overrides
 /lib/python3.14/site-packages/gi/repository

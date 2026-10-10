@@ -1,6 +1,6 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Contacts.so.6.30.0
+/usr/lib/libKF6Contacts.so.6
 /usr/lib/qml/org/kde/contacts
 /usr/lib/qml/org/kde/contacts/kde-qmlmodule.version
 /usr/lib/qml/org/kde/contacts/qmldir
@@ -11,6 +11,7 @@
 /usr/lib/cmake/KF6Contacts/KF6ContactsTargets.cmake
 /usr/lib/cmake/KF6Contacts/KF6ContactsConfig.cmake
 /usr/lib/cmake/KF6Contacts/KF6ContactsTargets-release.cmake
+/usr/lib/libKF6Contacts.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -280,7 +281,7 @@
 /usr/include/KF6/KContacts/KContacts/VCardConverter
 /usr/include/KF6/KContacts/KContacts/TimeZone
 /usr/include/KF6/KContacts/KContacts/Impp
-/lib/libKF6Contacts.so.6.30.0
+/lib/libKF6Contacts.so.6.31.0
 /lib/libKF6Contacts.so.6
 /lib/libKF6Contacts.so
 /lib/qml/org/kde/contacts/libkcontactsqml.so

@@ -1,4 +1,4 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/kf6/ktexttemplate
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_loadertags.so
@@ -6,13 +6,14 @@
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_defaulttags.so
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_defaultfilters.so
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_scriptabletags.so
-/usr/lib/libKF6TextTemplate.so.6.30.0
+/usr/lib/libKF6TextTemplate.so.6
 /usr/lib/cmake/KF6TextTemplate
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateMacros.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateConfigVersion.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateConfig.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-release.cmake
+/usr/lib/libKF6TextTemplate.so.6.31.0
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/ktexttemplate.categories
 /usr/include/KF6/KTextTemplate
@@ -67,7 +68,7 @@
 /usr/include/KF6/KTextTemplate/ktexttemplate/exception.h
 /usr/include/KF6/KTextTemplate/ktexttemplate/taglibraryinterface.h
 /usr/include/KF6/KTextTemplate/ktexttemplate/templateloader.h
-/lib/libKF6TextTemplate.so.6.30.0
+/lib/libKF6TextTemplate.so.6.31.0
 /lib/libKF6TextTemplate.so.6
 /lib/libKF6TextTemplate.so
 /lib/plugins/kf6/ktexttemplate/ktexttemplate_loadertags.so

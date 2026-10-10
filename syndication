@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Syndication.so.6.30.0
+/usr/lib/libKF6Syndication.so.6.31.0
+/usr/lib/libKF6Syndication.so.6
 /usr/lib/cmake/KF6Syndication
 /usr/lib/cmake/KF6Syndication/KF6SyndicationTargets-release.cmake
 /usr/lib/cmake/KF6Syndication/KF6SyndicationConfigVersion.cmake
@@ -57,6 +58,7 @@
 /usr/include/KF6/Syndication/syndication/image.h
 /usr/include/KF6/Syndication/syndication/feed.h
 /usr/include/KF6/Syndication/syndication/item.h
+/usr/include/KF6/Syndication/syndication/atom
 /usr/include/KF6/Syndication/syndication/atom/generator.h
 /usr/include/KF6/Syndication/syndication/atom/category.h
 /usr/include/KF6/Syndication/syndication/atom/entry.h
@@ -79,7 +81,7 @@
 /usr/include/KF6/Syndication/syndication/person.h
 /usr/include/KF6/Syndication/syndication/specificitemvisitor.h
 /usr/include/KF6/Syndication/syndication/parsercollection.h
-/lib/libKF6Syndication.so.6.30.0
+/lib/libKF6Syndication.so.6.31.0
 /lib/libKF6Syndication.so.6
 /lib/libKF6Syndication.so
 /lib/cmake/KF6Syndication/KF6SyndicationConfig.cmake

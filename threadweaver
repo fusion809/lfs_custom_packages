@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6ThreadWeaver.so.6.30.0
+/usr/lib/libKF6ThreadWeaver.so.6.31.0
+/usr/lib/libKF6ThreadWeaver.so.6
 /usr/lib/cmake/KF6ThreadWeaver
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets.cmake
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfig.cmake
@@ -77,7 +78,7 @@
 /usr/include/KF6/ThreadWeaver/threadweaver/job.h
 /usr/include/KF6/ThreadWeaver/threadweaver/weaver.h
 /usr/include/KF6/ThreadWeaver/threadweaver/queuesignals.h
-/lib/libKF6ThreadWeaver.so.6.30.0
+/lib/libKF6ThreadWeaver.so.6.31.0
 /lib/libKF6ThreadWeaver.so.6
 /lib/libKF6ThreadWeaver.so
 /lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfig.cmake

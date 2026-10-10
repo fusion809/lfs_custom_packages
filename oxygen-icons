@@ -1,5 +1,7 @@
-6.30.0
+6.31.0
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.oxygenicon.metainfo.xml
+/usr/share/icons/oxygen
 /usr/share/icons/oxygen/applets
 /usr/share/icons/oxygen/applets/32x32
 /usr/share/icons/oxygen/applets/32x32/network-wireless-100-limited-symbolic.svg
@@ -51,6 +53,7 @@
 /usr/share/icons/oxygen/applets/32x32/firewall-applet-error.svg
 /usr/share/icons/oxygen/applets/32x32/camera-photo-symbolic.svg
 /usr/share/icons/oxygen/applets/32x32/redshift-status-day-symbolic.svg
+/usr/share/icons/oxygen/applets/32x32/zeal-tray.svg
 /usr/share/icons/oxygen/applets/32x32/juk-symbolic.svg
 /usr/share/icons/oxygen/applets/32x32/media-playback-playing-symbolic.svg
 /usr/share/icons/oxygen/applets/32x32/drive-removable-media-usb-symbolic.svg
@@ -220,6 +223,7 @@
 /usr/share/icons/oxygen/applets/22x22/weather-clear-night-symbolic.svg
 /usr/share/icons/oxygen/applets/22x22/redshift-status-day-symbolic.svg
 /usr/share/icons/oxygen/applets/22x22/battery-good-symbolic.svg
+/usr/share/icons/oxygen/applets/22x22/zeal-tray.svg
 /usr/share/icons/oxygen/applets/22x22/weather-storm-night-symbolic.svg
 /usr/share/icons/oxygen/applets/22x22/battery-100-charged-symbolic.svg
 /usr/share/icons/oxygen/applets/22x22/juk-symbolic.svg
@@ -505,6 +509,7 @@
 /usr/share/icons/oxygen/applets/24x24/redshift-status-day-symbolic.svg
 /usr/share/icons/oxygen/applets/24x24/battery-good-symbolic.svg
 /usr/share/icons/oxygen/applets/24x24/battery-low-charging-symbolic.svg
+/usr/share/icons/oxygen/applets/24x24/zeal-tray.svg
 /usr/share/icons/oxygen/applets/24x24/nm-no-connection-symbolic.svg
 /usr/share/icons/oxygen/applets/24x24/weather-storm-night-symbolic.svg
 /usr/share/icons/oxygen/applets/24x24/battery-100-charged-symbolic.svg
@@ -1331,6 +1336,7 @@
 /usr/share/icons/oxygen/base/48x48/apps/krdc.png
 /usr/share/icons/oxygen/base/48x48/apps/qelectrotech.png
 /usr/share/icons/oxygen/base/48x48/apps/kjournal.png
+/usr/share/icons/oxygen/base/48x48/apps/org.kde.koko.png
 /usr/share/icons/oxygen/base/48x48/apps/org.kde.tokodon.png
 /usr/share/icons/oxygen/base/48x48/apps/caligrakexy.png
 /usr/share/icons/oxygen/base/48x48/apps/office-calendar.png
@@ -3211,7 +3217,9 @@
 /usr/share/icons/oxygen/base/256x256/apps/quassel.png
 /usr/share/icons/oxygen/base/256x256/apps/qelectrotech.png
 /usr/share/icons/oxygen/base/256x256/apps/preferences-desktop-thunderbolt.png
+/usr/share/icons/oxygen/base/256x256/apps/org.kde.koko.png
 /usr/share/icons/oxygen/base/256x256/apps/org.kde.tokodon.png
+/usr/share/icons/oxygen/base/256x256/apps/plasma-studio.png
 /usr/share/icons/oxygen/base/256x256/apps/plasmadiscover.png
 /usr/share/icons/oxygen/base/256x256/apps/digikam.png
 /usr/share/icons/oxygen/base/256x256/apps/mameexecutor.png
@@ -7353,6 +7361,7 @@
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/preferences-system-windows.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/kwalletmanager.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/calligraplan.svgz
+/usr/share/icons/oxygen/base/scalable/apps/small/48x48/koko.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/calligrawords.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/system-software-install.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/48x48/knewsticker.svgz
@@ -7503,6 +7512,7 @@
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/keepsecret.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/kwalletmanager.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/calligraplan.svgz
+/usr/share/icons/oxygen/base/scalable/apps/small/64x64/koko.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/calligrawords.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/system-software-install.svgz
 /usr/share/icons/oxygen/base/scalable/apps/small/64x64/kamoso.svgz
@@ -7644,6 +7654,7 @@
 /usr/share/icons/oxygen/base/scalable/apps/hidef/kdevelop.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/multimedia-volume-control.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/qelectrotech.svgz
+/usr/share/icons/oxygen/base/scalable/apps/hidef/org.kde.koko.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/accessories-dictionary.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/preferences-desktop-thunderbolt.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/mameexecutor.svgz
@@ -7657,6 +7668,7 @@
 /usr/share/icons/oxygen/base/scalable/apps/hidef/preferences-system-network-ethernet.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/kamoso.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/ktimer.svgz
+/usr/share/icons/oxygen/base/scalable/apps/hidef/plasma-studio.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/preferences-desktop-display-color.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/spectacle.svgz
 /usr/share/icons/oxygen/base/scalable/apps/hidef/plasmadiscover.svg
@@ -10327,6 +10339,7 @@
 /usr/share/icons/oxygen/base/64x64/apps/krdc.png
 /usr/share/icons/oxygen/base/64x64/apps/qelectrotech.png
 /usr/share/icons/oxygen/base/64x64/apps/kjournal.png
+/usr/share/icons/oxygen/base/64x64/apps/org.kde.koko.png
 /usr/share/icons/oxygen/base/64x64/apps/org.kde.tokodon.png
 /usr/share/icons/oxygen/base/64x64/apps/caligrakexy.png
 /usr/share/icons/oxygen/base/64x64/apps/plasmadiscover.png

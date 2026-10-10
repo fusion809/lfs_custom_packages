@@ -1,4 +1,4 @@
-0.12.5
+0.12.6
 /usr/lib/nvim
 /usr/lib/nvim/parser
 /usr/lib/nvim/parser/lua.so
@@ -8,7 +8,9 @@
 /usr/lib/nvim/parser/markdown.so
 /usr/lib/nvim/parser/c.so
 /usr/lib/nvim/parser/markdown_inline.so
+/usr/share/applications
 /usr/share/applications/nvim.desktop
+/usr/share/nvim/runtime
 /usr/share/nvim/runtime/doc
 /usr/share/nvim/runtime/doc/provider.txt
 /usr/share/nvim/runtime/doc/vi_diff.txt
@@ -2212,7 +2214,9 @@
 /usr/share/nvim/runtime/syntax/sd.vim
 /usr/share/nvim/runtime/indoff.vim
 /usr/share/nvim/runtime/neovim.ico
+/usr/share/man/man1
 /usr/share/man/man1/nvim.1
+/usr/share/icons/hicolor/128x128/apps
 /usr/share/icons/hicolor/128x128/apps/nvim.png
 /usr/bin
 /usr/bin/nvim

@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
+/usr/lib/libKF6Service.so.6
 /usr/lib/cmake/KF6Service
 /usr/lib/cmake/KF6Service/KF6ServiceTargets-release.cmake
 /usr/lib/cmake/KF6Service/KF6ServiceTargets.cmake
 /usr/lib/cmake/KF6Service/KF6ServiceConfigVersion.cmake
 /usr/lib/cmake/KF6Service/KF6ServiceConfig.cmake
-/usr/lib/libKF6Service.so.6.30.0
+/usr/lib/libKF6Service.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -332,6 +333,9 @@
 /usr/share/man/man8/kbuildsycoca6.8
 /usr/share/man/de/man8
 /usr/share/man/de/man8/kbuildsycoca6.8
+/usr/share/man/ru
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/kbuildsycoca6.8
 /usr/share/man/uk/man8
 /usr/share/man/uk/man8/kbuildsycoca6.8
 /usr/share/man/ca@valencia/man8
@@ -360,7 +364,7 @@
 /usr/include/KF6/KService/KServiceAction
 /usr/include/KF6/KService/ksycocaentry.h
 /usr/include/KF6/KService/ksycoca.h
-/lib/libKF6Service.so.6.30.0
+/lib/libKF6Service.so.6.31.0
 /lib/libKF6Service.so.6
 /lib/libKF6Service.so
 /bin/kbuildsycoca6

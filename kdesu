@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Su.so.6.30.0
+/usr/lib/libKF6Su.so.6
 /usr/lib/cmake/KF6Su
 /usr/lib/cmake/KF6Su/KF6SuConfigVersion.cmake
 /usr/lib/cmake/KF6Su/KF6SuConfig.cmake
 /usr/lib/cmake/KF6Su/KF6SuTargets.cmake
 /usr/lib/cmake/KF6Su/KF6SuTargets-release.cmake
+/usr/lib/libKF6Su.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -214,7 +215,7 @@
 /usr/include/KF6/KDESu/kdesu/stubprocess.h
 /usr/include/KF6/KDESu/kdesu/defaults.h
 /usr/include/KF6/KDESu/kdesu_version.h
-/lib/libKF6Su.so.6.30.0
+/lib/libKF6Su.so.6.31.0
 /lib/libKF6Su.so.6
 /lib/libKF6Su.so
 /lib/cmake/KF6Su/KF6SuConfig.cmake

@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6NetworkManagerQt.so.6.30.0
+/usr/lib/libKF6NetworkManagerQt.so.6.31.0
+/usr/lib/libKF6NetworkManagerQt.so.6
 /usr/lib/qml/org/kde/networkmanager
 /usr/lib/qml/org/kde/networkmanager/libnetworkmanagerqtqml.so
 /usr/lib/qml/org/kde/networkmanager/kde-qmlmodule.version
@@ -165,7 +166,7 @@
 /lib/qml/org/kde/networkmanager/qmldir
 /lib/qml/org/kde/networkmanager/networkmanagerqtqml.qmltypes
 /lib/qml/org/kde/networkmanager/kde-qmlmodule.version
-/lib/libKF6NetworkManagerQt.so.6.30.0
+/lib/libKF6NetworkManagerQt.so.6.31.0
 /lib/libKF6NetworkManagerQt.so.6
 /lib/libKF6NetworkManagerQt.so
 /lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfig.cmake

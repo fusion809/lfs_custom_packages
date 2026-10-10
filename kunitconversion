@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
+/usr/lib/libKF6UnitConversion.so.6
+/usr/lib/libKF6UnitConversion.so.6.31.0
 /usr/lib/cmake/KF6UnitConversion
 /usr/lib/cmake/KF6UnitConversion/KF6UnitConversionConfig.cmake
 /usr/lib/cmake/KF6UnitConversion/KF6UnitConversionTargets.cmake
 /usr/lib/cmake/KF6UnitConversion/KF6UnitConversionConfigVersion.cmake
 /usr/lib/cmake/KF6UnitConversion/KF6UnitConversionTargets-release.cmake
-/usr/lib/libKF6UnitConversion.so.6.30.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -217,7 +218,7 @@
 /usr/include/KF6/KUnitConversion/KUnitConversion/Value
 /usr/include/KF6/KUnitConversion/KUnitConversion/Converter
 /usr/include/KF6/KUnitConversion/KUnitConversion/Unit
-/lib/libKF6UnitConversion.so.6.30.0
+/lib/libKF6UnitConversion.so.6.31.0
 /lib/libKF6UnitConversion.so.6
 /lib/libKF6UnitConversion.so
 /lib/cmake/KF6UnitConversion/KF6UnitConversionConfig.cmake

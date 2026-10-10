@@ -1,4 +1,4 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/kf6/kfilemetadata
 /usr/lib/plugins/kf6/kfilemetadata/kfilemetadata_odfextractor.so
@@ -17,7 +17,8 @@
 /usr/lib/plugins/kf6/kfilemetadata/writers/kfilemetadata_taglibwriter.so
 /usr/lib/plugins/kf6/kfilemetadata/kfilemetadata_office2007extractor.so
 /usr/lib/plugins/kf6/kfilemetadata/kfilemetadata_postscriptdscextractor.so
-/usr/lib/libKF6FileMetaData.so.6.30.0
+/usr/lib/libKF6FileMetaData.so.6.31.0
+/usr/lib/libKF6FileMetaData.so.3
 /usr/lib/cmake/KF6FileMetaData
 /usr/lib/cmake/KF6FileMetaData/KF6FileMetaDataTargets-release.cmake
 /usr/lib/cmake/KF6FileMetaData/KF6FileMetaDataTargets.cmake
@@ -246,7 +247,7 @@
 /usr/include/KF6/KFileMetaData/KFileMetaData/UserMetaData
 /usr/include/KF6/KFileMetaData/KFileMetaData/MimeUtils
 /usr/include/KF6/KFileMetaData/KFileMetaData/ExtractorCollection
-/lib/libKF6FileMetaData.so.6.30.0
+/lib/libKF6FileMetaData.so.6.31.0
 /lib/libKF6FileMetaData.so.3
 /lib/libKF6FileMetaData.so
 /lib/cmake/KF6FileMetaData/KF6FileMetaDataTargets.cmake

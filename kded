@@ -1,9 +1,10 @@
-6.30.0
+6.31.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kded6.service
 /usr/lib/cmake/KF6KDED
 /usr/lib/cmake/KF6KDED/KF6KDEDConfig.cmake
 /usr/lib/cmake/KF6KDED/KF6KDEDConfigVersion.cmake
+/usr/share/applications
 /usr/share/applications/org.kde.kded6.desktop
 /usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/org.kde.kded6.xml
@@ -26,6 +27,10 @@
 /usr/share/man/es/man8/kded6.8
 /usr/share/man/man8
 /usr/share/man/man8/kded6.8
+/usr/share/man/de/man8
+/usr/share/man/de/man8/kded6.8
+/usr/share/man/ru/man8
+/usr/share/man/ru/man8/kded6.8
 /usr/share/man/uk/man8
 /usr/share/man/uk/man8/kded6.8
 /usr/share/man/ca@valencia/man8

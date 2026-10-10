@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6JobWidgets.so.6.30.0
+/usr/lib/libKF6JobWidgets.so.6
+/usr/lib/libKF6JobWidgets.so.6.31.0
 /usr/lib/cmake/KF6JobWidgets
 /usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsTargets.cmake
 /usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsConfig.cmake
@@ -212,6 +213,7 @@
 /usr/share/locale/ca/LC_MESSAGES/kjobwidgets6_qt.qm
 /usr/share/locale/or/LC_MESSAGES
 /usr/share/locale/or/LC_MESSAGES/kjobwidgets6_qt.qm
+/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/kf6_org.kde.JobView.xml
 /usr/share/dbus-1/interfaces/kf6_org.kde.JobViewV2.xml
 /usr/share/dbus-1/interfaces/kf6_org.kde.JobViewServer.xml
@@ -237,7 +239,7 @@
 /usr/include/KF6/KJobWidgets/KDialogJobUiDelegate
 /usr/include/KF6/KJobWidgets/KWidgetJobTracker
 /usr/include/KF6/KJobWidgets/KNotificationJobUiDelegate
-/lib/libKF6JobWidgets.so.6.30.0
+/lib/libKF6JobWidgets.so.6.31.0
 /lib/libKF6JobWidgets.so.6
 /lib/libKF6JobWidgets.so
 /lib/cmake/KF6JobWidgets/KF6JobWidgetsConfig.cmake

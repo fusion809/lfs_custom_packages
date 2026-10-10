@@ -1,7 +1,9 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6UserFeedbackWidgets.so.6.30.0
-/usr/lib/libKF6UserFeedbackCore.so.6.30.0
+/usr/lib/libKF6UserFeedbackCore.so.6
+/usr/lib/libKF6UserFeedbackWidgets.so.6
+/usr/lib/libKF6UserFeedbackCore.so.6.31.0
+/usr/lib/libKF6UserFeedbackWidgets.so.6.31.0
 /usr/lib/qml/org/kde/userfeedback
 /usr/lib/qml/org/kde/userfeedback/kde-qmlmodule.version
 /usr/lib/qml/org/kde/userfeedback/libKF6UserFeedbackQml.so
@@ -12,6 +14,8 @@
 /usr/lib/cmake/KF6UserFeedback/KF6UserFeedbackConfigVersion.cmake
 /usr/lib/cmake/KF6UserFeedback/KF6UserFeedbackTarget.cmake
 /usr/lib/cmake/KF6UserFeedback/KF6UserFeedbackTarget-release.cmake
+/usr/share/KDE/UserFeedbackConsole
+/usr/share/KDE/UserFeedbackConsole/user-feedback-manual.qch
 /usr/share/locale/et/LC_MESSAGES
 /usr/share/locale/et/LC_MESSAGES/userfeedbackconsole6_qt.qm
 /usr/share/locale/et/LC_MESSAGES/userfeedbackprovider6_qt.qm
@@ -179,6 +183,7 @@
 /usr/include/KF6/KUserFeedbackCore/KUserFeedback/QPAInfoSource
 /usr/include/KF6/KUserFeedbackCore/KUserFeedback/OpenGLInfoSource
 /usr/include/KF6/KUserFeedbackCore/KUserFeedback/PropertyRatioSource
+/usr/include/KF6/KUserFeedbackCore/kuserfeedback
 /usr/include/KF6/KUserFeedbackCore/kuserfeedback/usagetimesource.h
 /usr/include/KF6/KUserFeedbackCore/kuserfeedback/localeinfosource.h
 /usr/include/KF6/KUserFeedbackCore/kuserfeedback/qtversionsource.h
@@ -203,14 +208,15 @@
 /usr/include/KF6/KUserFeedbackWidgets/KUserFeedback/NotificationPopup
 /usr/include/KF6/KUserFeedbackWidgets/KUserFeedback/FeedbackConfigDialog
 /usr/include/KF6/KUserFeedbackWidgets/kuserfeedbackwidgets_export.h
+/usr/include/KF6/KUserFeedbackWidgets/kuserfeedback
 /usr/include/KF6/KUserFeedbackWidgets/kuserfeedback/styleinfosource.h
 /usr/include/KF6/KUserFeedbackWidgets/kuserfeedback/feedbackconfigwidget.h
 /usr/include/KF6/KUserFeedbackWidgets/kuserfeedback/notificationpopup.h
 /usr/include/KF6/KUserFeedbackWidgets/kuserfeedback/feedbackconfigdialog.h
-/lib/libKF6UserFeedbackCore.so.6.30.0
+/lib/libKF6UserFeedbackCore.so.6.31.0
 /lib/libKF6UserFeedbackCore.so.6
 /lib/libKF6UserFeedbackCore.so
-/lib/libKF6UserFeedbackWidgets.so.6.30.0
+/lib/libKF6UserFeedbackWidgets.so.6.31.0
 /lib/libKF6UserFeedbackWidgets.so.6
 /lib/libKF6UserFeedbackWidgets.so
 /lib/qml/org/kde/userfeedback/libKF6UserFeedbackQml.so

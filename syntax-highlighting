@@ -1,6 +1,7 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6SyntaxHighlighting.so.6.30.0
+/usr/lib/libKF6SyntaxHighlighting.so.6
+/usr/lib/libKF6SyntaxHighlighting.so.6.31.0
 /usr/lib/qml/org/kde/syntaxhighlighting
 /usr/lib/qml/org/kde/syntaxhighlighting/kquicksyntaxhighlightingplugin.qmltypes
 /usr/lib/qml/org/kde/syntaxhighlighting/kde-qmlmodule.version
@@ -214,7 +215,7 @@
 /usr/include/KF6/KSyntaxHighlighting/KSyntaxHighlighting/FoldingRegion
 /usr/include/KF6/KSyntaxHighlighting/KSyntaxHighlighting/DefinitionDownloader
 /usr/include/KF6/KSyntaxHighlighting/KSyntaxHighlighting/definition.h
-/lib/libKF6SyntaxHighlighting.so.6.30.0
+/lib/libKF6SyntaxHighlighting.so.6.31.0
 /lib/libKF6SyntaxHighlighting.so.6
 /lib/libKF6SyntaxHighlighting.so
 /bin/ksyntaxhighlighter6
