@@ -1,0 +1,12 @@
+0.7.0
+/usr/share/mime/packages
+/usr/share/mime/packages/ai.storyteller.photocraft.mime.xml
+/usr/share/applications
+/usr/share/applications/ai.storyteller.photocraft.desktop
+/usr/share/pixmaps
+/usr/share/pixmaps/ai.storyteller.photocraft.png
+/usr/share/icons/hicolor/scalable
+/usr/share/icons/hicolor/scalable/ai.storyteller.photocraft.svg
+/usr/bin
+/usr/bin/photocraft
+/usr/bin/photocraft-cli

@@ -1,16 +1,7 @@
 0.9.0
-/usr/share/mime/packages
 /usr/share/mime/packages/ai.storyteller.vectorcraft.mime.xml
-/usr/share/applications
-/usr/share/applications/ai.storyteller.pdfcraft.desktop
-/usr/share/applications/ai.storyteller.wordcraft.desktop
 /usr/share/applications/ai.storyteller.vectorcraft.desktop
-/usr/share/pixmaps
-/usr/share/pixmaps/ai.storyteller.pdfcraft.png
-/usr/share/pixmaps/vectorcraft.png
-/usr/share/pixmaps/ai.storyteller.wordcraft.png
-/usr/share/icons/hicolor/scalable
+/usr/share/pixmaps/ai.storyteller.vectorcraft.png
 /usr/share/icons/hicolor/scalable/ai.storyteller.vectorcraft.svg
-/usr/bin
 /usr/bin/vectorcraft
 /usr/bin/vectorcraft-cli
