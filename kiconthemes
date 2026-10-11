@@ -1,10 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
+/usr/lib/libKF6IconWidgets.so.6
 /usr/lib/plugins/kiconthemes6/iconengines
 /usr/lib/plugins/kiconthemes6/iconengines/KIconEnginePlugin.so
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kiconthemes6widgets.so
-/usr/lib/libKF6IconWidgets.so.6.30.0
+/usr/lib/libKF6IconWidgets.so.6.31.0
+/usr/lib/libKF6IconThemes.so.6
 /usr/lib/qml/org/kde/iconthemes
 /usr/lib/qml/org/kde/iconthemes/kde-qmlmodule.version
 /usr/lib/qml/org/kde/iconthemes/qmldir
@@ -15,7 +17,7 @@
 /usr/lib/cmake/KF6IconThemes/KF6IconThemesConfig.cmake
 /usr/lib/cmake/KF6IconThemes/KF6IconThemesTargets-release.cmake
 /usr/lib/cmake/KF6IconThemes/KF6IconThemesTargets.cmake
-/usr/lib/libKF6IconThemes.so.6.30.0
+/usr/lib/libKF6IconThemes.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -314,11 +316,11 @@
 /lib/qml/org/kde/iconthemes/qmldir
 /lib/qml/org/kde/iconthemes/iconthemesplugin.qmltypes
 /lib/qml/org/kde/iconthemes/kde-qmlmodule.version
-/lib/libKF6IconWidgets.so.6.30.0
+/lib/libKF6IconWidgets.so.6.31.0
 /lib/libKF6IconWidgets.so.6
 /lib/libKF6IconWidgets.so
 /lib/plugins/designer/kiconthemes6widgets.so
-/lib/libKF6IconThemes.so.6.30.0
+/lib/libKF6IconThemes.so.6.31.0
 /lib/libKF6IconThemes.so.6
 /lib/libKF6IconThemes.so
 /lib/plugins/kiconthemes6/iconengines/KIconEnginePlugin.so

@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Parts.so.6.30.0
+/usr/lib/libKF6Parts.so.6.31.0
 /usr/lib/cmake/KF6Parts
 /usr/lib/cmake/KF6Parts/KF6PartsConfigVersion.cmake
 /usr/lib/cmake/KF6Parts/KF6PartsConfig.cmake
 /usr/lib/cmake/KF6Parts/KF6PartsTargets-release.cmake
 /usr/lib/cmake/KF6Parts/KF6PartsTargets.cmake
+/usr/lib/libKF6Parts.so.6
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -358,7 +359,7 @@
 /usr/include/KF6/KParts/kparts/readwritepart.h
 /usr/include/KF6/KParts/kparts/partactivateevent.h
 /usr/include/KF6/KParts/kparts/part.h
-/lib/libKF6Parts.so.6.30.0
+/lib/libKF6Parts.so.6.31.0
 /lib/libKF6Parts.so.6
 /lib/libKF6Parts.so
 /lib/cmake/KF6Parts/KF6PartsConfig.cmake

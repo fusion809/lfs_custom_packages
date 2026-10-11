@@ -1,6 +1,10 @@
-2.62.0.1
+2.62.1
 /usr/lib
 /usr/lib/libatk-bridge-2.0.so
+/usr/lib/python3.15/site-packages/gi/overrides
+/usr/lib/python3.15/site-packages/gi/overrides/Atspi.py
+/usr/lib/python3.15/site-packages/gi/overrides/__pycache__
+/usr/lib/python3.15/site-packages/gi/overrides/__pycache__/Atspi.cpython-315.pyc
 /usr/lib/libatspi.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/atspi-2.pc
@@ -11,7 +15,7 @@
 /usr/lib/libatspi.so.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/at-spi-dbus-bus.service
-/usr/lib/libatk-1.0.so.0.26209.1
+/usr/lib/libatk-1.0.so.0.26210.1
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules/at-spi2-atk.desktop
 /usr/lib/libatspi.so.0.0.1
@@ -20,10 +24,6 @@
 /usr/lib/girepository-1.0/Atspi-2.0.typelib
 /usr/lib/libatk-1.0.so
 /usr/lib/libatk-bridge-2.0.so.0
-/usr/lib/python3.14/site-packages/gi/overrides
-/usr/lib/python3.14/site-packages/gi/overrides/Atspi.py
-/usr/lib/python3.14/site-packages/gi/overrides/__pycache__
-/usr/lib/python3.14/site-packages/gi/overrides/__pycache__/Atspi.cpython-314.pyc
 /usr/share/gir-1.0
 /usr/share/gir-1.0/Atk-1.0.gir
 /usr/share/gir-1.0/Atspi-2.0.gir
@@ -323,7 +323,7 @@
 /lib/pkgconfig
 /lib/gnome-settings-daemon-3.0/gtk-modules
 /lib/systemd/user
-/lib/python3.14/site-packages/gi/overrides
+/lib/python3.15/site-packages/gi/overrides
 /lib/libatk-1.0.so.0
 /lib/libatk-1.0.so
 /lib/libatspi.so.0

@@ -1,11 +1,12 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6StatusNotifierItem.so.6.30.0
+/usr/lib/libKF6StatusNotifierItem.so.6.31.0
 /usr/lib/cmake/KF6StatusNotifierItem
 /usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemConfigVersion.cmake
 /usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemTargets-release.cmake
 /usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemConfig.cmake
 /usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemTargets.cmake
+/usr/lib/libKF6StatusNotifierItem.so.6
 /usr/share/locale/en_GB/LC_MESSAGES
 /usr/share/locale/en_GB/LC_MESSAGES/kstatusnotifieritem6_qt.qm
 /usr/share/locale/ro/LC_MESSAGES
@@ -92,6 +93,7 @@
 /usr/share/locale/pt_BR/LC_MESSAGES/kstatusnotifieritem6_qt.qm
 /usr/share/locale/ca/LC_MESSAGES
 /usr/share/locale/ca/LC_MESSAGES/kstatusnotifieritem6_qt.qm
+/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/kf6_org.kde.StatusNotifierWatcher.xml
 /usr/share/dbus-1/interfaces/kf6_org.kde.StatusNotifierItem.xml
 /usr/share/qlogging-categories6
@@ -101,7 +103,7 @@
 /usr/include/KF6/KStatusNotifierItem/kstatusnotifieritem_export.h
 /usr/include/KF6/KStatusNotifierItem/KStatusNotifierItem
 /usr/include/KF6/KStatusNotifierItem/kstatusnotifieritem.h
-/lib/libKF6StatusNotifierItem.so.6.30.0
+/lib/libKF6StatusNotifierItem.so.6.31.0
 /lib/libKF6StatusNotifierItem.so.6
 /lib/libKF6StatusNotifierItem.so
 /lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemConfig.cmake

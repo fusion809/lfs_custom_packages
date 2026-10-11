@@ -1,8 +1,10 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6KCMUtilsQuick.so.6.30.0
-/usr/lib/libKF6KCMUtils.so.6.30.0
-/usr/lib/libKF6KCMUtilsCore.so.6.30.0
+/usr/lib/libKF6KCMUtils.so.6.31.0
+/usr/lib/libKF6KCMUtils.so.6
+/usr/lib/libKF6KCMUtilsQuick.so.6
+/usr/lib/libKF6KCMUtilsCore.so.6.31.0
+/usr/lib/libKF6KCMUtilsCore.so.6
 /usr/lib/qml/org/kde/kcmutils
 /usr/lib/qml/org/kde/kcmutils/PluginDelegate.qml
 /usr/lib/qml/org/kde/kcmutils/kde-qmlmodule.version
@@ -38,6 +40,7 @@
 /usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsToolingTargets-release.cmake
 /usr/lib/cmake/KF6KCMUtils/KF6KCMUtilsConfig.cmake
 /usr/lib/cmake/KF6KCMUtils/kcmutilsgeneratemoduledata.h.in
+/usr/lib/libKF6KCMUtilsQuick.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -423,7 +426,7 @@
 /usr/include/KF6/KCMUtilsQuick/kquickconfigmoduleloader.h
 /usr/include/KF6/KCMUtilsQuick/KQuickConfigModuleLoader
 /usr/include/KF6/KCMUtilsQuick/kcmutilsquick_export.h
-/lib/libKF6KCMUtilsCore.so.6.30.0
+/lib/libKF6KCMUtilsCore.so.6.31.0
 /lib/libKF6KCMUtilsCore.so.6
 /lib/libKF6KCMUtilsCore.so
 /lib/qml/org/kde/kcmutils/libkcmutilsqmlplugin.so
@@ -449,10 +452,10 @@
 /lib/qml/org/kde/kcmutils/private/qmldir
 /lib/qml/org/kde/kcmutils/private/kcmutilsprivateqmlplugin.qmltypes
 /lib/qml/org/kde/kcmutils/private/kde-qmlmodule.version
-/lib/libKF6KCMUtilsQuick.so.6.30.0
+/lib/libKF6KCMUtilsQuick.so.6.31.0
 /lib/libKF6KCMUtilsQuick.so.6
 /lib/libKF6KCMUtilsQuick.so
-/lib/libKF6KCMUtils.so.6.30.0
+/lib/libKF6KCMUtils.so.6.31.0
 /lib/libKF6KCMUtils.so.6
 /lib/libKF6KCMUtils.so
 /bin/kcmshell6

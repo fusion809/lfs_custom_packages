@@ -1,13 +1,15 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Style.so.6.30.0
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/FrameworkIntegrationPlugin.so
+/usr/lib/libKF6Style.so.6
+/usr/lib/libKF6Style.so.6.31.0
 /usr/lib/cmake/KF6FrameworkIntegration
 /usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationConfigVersion.cmake
 /usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationTargets-release.cmake
 /usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationConfig.cmake
 /usr/lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationTargets.cmake
+/usr/share/knotifications6
 /usr/share/knotifications6/plasma_workspace.notifyrc
 /usr/libexec/kf6/kpackagehandlers
 /usr/libexec/kf6/kpackagehandlers/knshandler
@@ -18,7 +20,7 @@
 /usr/include/KF6/FrameworkIntegration
 /usr/include/KF6/FrameworkIntegration/frameworkintegration_version.h
 /lib/plugins/kf6/FrameworkIntegrationPlugin.so
-/lib/libKF6Style.so.6.30.0
+/lib/libKF6Style.so.6.31.0
 /lib/libKF6Style.so.6
 /lib/libKF6Style.so
 /lib/cmake/KF6FrameworkIntegration/KF6FrameworkIntegrationConfig.cmake

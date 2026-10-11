@@ -1,13 +1,14 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kconfigwidgets6widgets.so
+/usr/lib/libKF6ConfigWidgets.so.6
+/usr/lib/libKF6ConfigWidgets.so.6.31.0
 /usr/lib/cmake/KF6ConfigWidgets
 /usr/lib/cmake/KF6ConfigWidgets/KF6ConfigWidgetsTargets-release.cmake
 /usr/lib/cmake/KF6ConfigWidgets/KF6ConfigWidgetsConfigVersion.cmake
 /usr/lib/cmake/KF6ConfigWidgets/KF6ConfigWidgetsTargets.cmake
 /usr/lib/cmake/KF6ConfigWidgets/KF6ConfigWidgetsConfig.cmake
-/usr/lib/libKF6ConfigWidgets.so.6.30.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/kf6_entry.desktop
@@ -25,6 +26,7 @@
 /usr/share/locale/ms/kf6_entry.desktop
 /usr/share/locale/ms/LC_MESSAGES
 /usr/share/locale/ms/LC_MESSAGES/kconfigwidgets6.mo
+/usr/share/locale/en_US
 /usr/share/locale/en_US/kf6_entry.desktop
 /usr/share/locale/et
 /usr/share/locale/et/kf6_entry.desktop
@@ -143,6 +145,7 @@
 /usr/share/locale/nl/kf6_entry.desktop
 /usr/share/locale/nl/LC_MESSAGES
 /usr/share/locale/nl/LC_MESSAGES/kconfigwidgets6.mo
+/usr/share/locale/am
 /usr/share/locale/am/kf6_entry.desktop
 /usr/share/locale/fr
 /usr/share/locale/fr/kf6_entry.desktop
@@ -363,6 +366,7 @@
 /usr/share/locale/kn/kf6_entry.desktop
 /usr/share/locale/kn/LC_MESSAGES
 /usr/share/locale/kn/LC_MESSAGES/kconfigwidgets6.mo
+/usr/share/locale/my
 /usr/share/locale/my/kf6_entry.desktop
 /usr/share/locale/cy
 /usr/share/locale/cy/kf6_entry.desktop
@@ -396,6 +400,7 @@
 /usr/share/locale/si/kf6_entry.desktop
 /usr/share/locale/si/LC_MESSAGES
 /usr/share/locale/si/LC_MESSAGES/kconfigwidgets6.mo
+/usr/share/locale/ie
 /usr/share/locale/ie/kf6_entry.desktop
 /usr/share/locale/sv
 /usr/share/locale/sv/kf6_entry.desktop
@@ -467,7 +472,7 @@
 /usr/include/KF6/KConfigWidgets/KStyleManager
 /usr/include/KF6/KConfigWidgets/KConfigDialogManager
 /usr/include/KF6/KConfigWidgets/kconfigwidgets_version.h
-/lib/libKF6ConfigWidgets.so.6.30.0
+/lib/libKF6ConfigWidgets.so.6.31.0
 /lib/libKF6ConfigWidgets.so.6
 /lib/libKF6ConfigWidgets.so
 /lib/plugins/designer/kconfigwidgets6widgets.so

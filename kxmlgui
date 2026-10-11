@@ -1,13 +1,14 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kxmlgui6widgets.so
-/usr/lib/libKF6XmlGui.so.6.30.0
+/usr/lib/libKF6XmlGui.so.6.31.0
 /usr/lib/cmake/KF6XmlGui
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiConfig.cmake
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiTargets-release.cmake
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiTargets.cmake
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiConfigVersion.cmake
+/usr/lib/libKF6XmlGui.so.6
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -388,7 +389,7 @@
 /usr/include/KF6/KXmlGui/KToolBar
 /usr/include/KF6/KXmlGui/KHelpMenu
 /usr/include/KF6/KXmlGui/kxmlguiwindow.h
-/lib/libKF6XmlGui.so.6.30.0
+/lib/libKF6XmlGui.so.6.31.0
 /lib/libKF6XmlGui.so.6
 /lib/libKF6XmlGui.so
 /lib/plugins/designer/kxmlgui6widgets.so

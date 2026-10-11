@@ -1,6 +1,5 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6PurposeWidgets.so.6.30.0
 /usr/lib/plugins/kf6/purpose
 /usr/lib/plugins/kf6/purpose/saveasplugin.so
 /usr/lib/plugins/kf6/purpose/telegramplugin.so
@@ -17,6 +16,8 @@
 /usr/lib/plugins/kf6/purpose/nextcloudplugin.so
 /usr/lib/plugins/kf6/kfileitemaction
 /usr/lib/plugins/kf6/kfileitemaction/sharefileitemaction.so
+/usr/lib/libKF6PurposeWidgets.so.6.31.0
+/usr/lib/libKF6PurposeWidgets.so.6
 /usr/lib/qml/org/kde/purpose
 /usr/lib/qml/org/kde/purpose/kde-qmlmodule.version
 /usr/lib/qml/org/kde/purpose/phabricator
@@ -46,12 +47,14 @@
 /usr/lib/qml/org/kde/purpose/private/widgets/qmldir
 /usr/lib/qml/org/kde/purpose/private/widgets/libKF6PurposeWidgetsplugin.so
 /usr/lib/qml/org/kde/purpose/purposequickplugin.qmltypes
+/usr/lib/libKF6Purpose.so.6
 /usr/lib/cmake/KF6Purpose
 /usr/lib/cmake/KF6Purpose/KF6PurposeConfigVersion.cmake
 /usr/lib/cmake/KF6Purpose/KF6PurposeTargets.cmake
 /usr/lib/cmake/KF6Purpose/KF6PurposeConfig.cmake
 /usr/lib/cmake/KF6Purpose/KF6PurposeTargets-release.cmake
-/usr/lib/libKF6Purpose.so.6.30.0
+/usr/lib/libKF6Purpose.so.6.31.0
+/usr/share/kf6/purpose
 /usr/share/kf6/purpose/barcodeplugin_config.qml
 /usr/share/kf6/purpose/kdeconnectplugin_config.qml
 /usr/share/kf6/purpose/nextcloudplugin_config.qml
@@ -826,8 +829,10 @@
 /usr/share/qlogging-categories6/purpose.categories
 /usr/share/icons/hicolor
 /usr/share/icons/hicolor/icon-theme.cache
+/usr/share/icons/hicolor/128x128/apps
 /usr/share/icons/hicolor/128x128/apps/reviewboard-purpose6.png
 /usr/share/icons/hicolor/128x128/apps/phabricator-purpose6.png
+/usr/share/icons/hicolor/16x16/apps
 /usr/share/icons/hicolor/16x16/apps/reviewboard-purpose6.png
 /usr/share/icons/hicolor/16x16/apps/phabricator-purpose6.png
 /usr/libexec/kf6
@@ -850,7 +855,7 @@
 /usr/include/KF6/Purpose/Purpose/PluginBase
 /usr/include/KF6/Purpose/Purpose/AlternativesModel
 /usr/include/KF6/Purpose/Purpose/Job
-/lib/libKF6Purpose.so.6.30.0
+/lib/libKF6Purpose.so.6.31.0
 /lib/libKF6Purpose.so.6
 /lib/libKF6Purpose.so
 /lib/plugins/kf6/purpose/saveasplugin.so
@@ -885,7 +890,7 @@
 /lib/qml/org/kde/purpose/private/widgets/KF6PurposeWidgets.qmltypes
 /lib/qml/org/kde/purpose/private/widgets/JobDialog.qml
 /lib/qml/org/kde/purpose/private/widgets/kde-qmlmodule.version
-/lib/libKF6PurposeWidgets.so.6.30.0
+/lib/libKF6PurposeWidgets.so.6.31.0
 /lib/libKF6PurposeWidgets.so.6
 /lib/libKF6PurposeWidgets.so
 /lib/plugins/kf6/kfileitemaction/sharefileitemaction.so

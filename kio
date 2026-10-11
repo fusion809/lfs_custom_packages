@@ -1,6 +1,6 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6KIOFileWidgets.so.6.30.0
+/usr/lib/libKF6KIOGui.so.6
 /usr/lib/plugins/kf6/kio_dnd
 /usr/lib/plugins/kf6/kio_dnd/dropintonewfolder.so
 /usr/lib/plugins/kf6/kiod
@@ -9,6 +9,7 @@
 /usr/lib/plugins/kf6/kiod/kioexecd.so
 /usr/lib/plugins/kf6/kded
 /usr/lib/plugins/kf6/kded/remotenotifier.so
+/usr/lib/plugins/kf6/kded/trashdirnotify.so
 /usr/lib/plugins/kf6/urifilters
 /usr/lib/plugins/kf6/urifilters/fixhosturifilter.so
 /usr/lib/plugins/kf6/urifilters/kurisearchfilter.so
@@ -26,14 +27,18 @@
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kio6widgets.so
 /usr/lib/libkuriikwsfiltereng_private.so
-/usr/lib/libKF6KIOWidgets.so.6.30.0
-/usr/lib/libKF6KIOGui.so.6.30.0
+/usr/lib/libKF6KIOWidgets.so.6.31.0
+/usr/lib/libKF6KIOCore.so.6.31.0
+/usr/lib/libKF6KIOWidgets.so.6
+/usr/lib/libKF6KIOFileWidgets.so.6
 /usr/lib/cmake/KF6KIO
 /usr/lib/cmake/KF6KIO/KF6KIOTargets.cmake
 /usr/lib/cmake/KF6KIO/KF6KIOTargets-release.cmake
 /usr/lib/cmake/KF6KIO/KF6KIOConfig.cmake
 /usr/lib/cmake/KF6KIO/KF6KIOConfigVersion.cmake
-/usr/lib/libKF6KIOCore.so.6.30.0
+/usr/lib/libKF6KIOGui.so.6.31.0
+/usr/lib/libKF6KIOCore.so.6
+/usr/lib/libKF6KIOFileWidgets.so.6.31.0
 /usr/share/doc/HTML/et/kioworker6/ftp
 /usr/share/doc/HTML/et/kioworker6/ftp/index.docbook
 /usr/share/doc/HTML/et/kioworker6/ftp/index.cache.bz2
@@ -424,6 +429,7 @@
 /usr/share/doc/HTML/ca/kioworker6/help/documentationnotfound/index.docbook
 /usr/share/doc/HTML/ca/kioworker6/help/documentationnotfound/index.cache.bz2
 /usr/share/doc/HTML/ca/kioworker6/help/index.cache.bz2
+/usr/share/kf6/searchproviders
 /usr/share/kf6/searchproviders/hyperdictionary_thesaurus.desktop
 /usr/share/kf6/searchproviders/startpage.desktop
 /usr/share/kf6/searchproviders/google_news.desktop
@@ -868,6 +874,7 @@
 /usr/share/locale/ca
 /usr/share/locale/ca/LC_MESSAGES
 /usr/share/locale/ca/LC_MESSAGES/kio6.mo
+/usr/share/applications
 /usr/share/applications/org.kde.kiod6.desktop
 /usr/share/applications/ktelnetservice6.desktop
 /usr/share/dbus-1/services
@@ -947,6 +954,7 @@
 /usr/include/KF6/KIOWidgets/kurlrequesterdialog.h
 /usr/include/KF6/KIOWidgets/KUrlCompletion
 /usr/include/KF6/KIOWidgets/kdirmodel.h
+/usr/include/KF6/KIOWidgets/kio
 /usr/include/KF6/KIOWidgets/kio/skipdialog.h
 /usr/include/KF6/KIOWidgets/kio/fileundomanager.h
 /usr/include/KF6/KIOWidgets/kio/pastejob.h
@@ -959,6 +967,7 @@
 /usr/include/KF6/KIOWidgets/kio/dropjob.h
 /usr/include/KF6/KIOWidgets/kio/jobuidelegate.h
 /usr/include/KF6/KIOWidgets/kio/renamedialog.h
+/usr/include/KF6/KIOWidgets/kio/renamefilewarningdialog.h
 /usr/include/KF6/KIOWidgets/ksslinfodialog.h
 /usr/include/KF6/KIOWidgets/KBuildSycocaProgressDialog
 /usr/include/KF6/KIOWidgets/kbuildsycocaprogressdialog.h
@@ -973,6 +982,7 @@
 /usr/include/KF6/KIOWidgets/KIO/DropJob
 /usr/include/KF6/KIOWidgets/KIO/DeleteOrTrashJob
 /usr/include/KF6/KIOWidgets/KIO/WidgetsAskUserActionHandler
+/usr/include/KF6/KIOWidgets/KIO/RenameFileWarningDialog
 /usr/include/KF6/KIOWidgets/KIO/PasteJob
 /usr/include/KF6/KIOWidgets/KIO/RenameDialog
 /usr/include/KF6/KIOWidgets/KIO/RenameFileDialog
@@ -1004,6 +1014,7 @@
 /usr/include/KF6/KIOCore/KFileItem
 /usr/include/KF6/KIOCore/KOverlayIconPlugin
 /usr/include/KF6/KIOCore/kcoredirlister.h
+/usr/include/KF6/KIOCore/kio
 /usr/include/KF6/KIOCore/kio/authinfo.h
 /usr/include/KF6/KIOCore/kio/ioworker_defaults.h
 /usr/include/KF6/KIOCore/kio/emptytrashjob.h
@@ -1107,6 +1118,7 @@
 /usr/include/KF6/KIOGui/KUriFilter
 /usr/include/KF6/KIOGui/KEMailClientLauncherJob
 /usr/include/KF6/KIOGui/kcoreurlnavigator.h
+/usr/include/KF6/KIOGui/kio
 /usr/include/KF6/KIOGui/kio/openwithhandlerinterface.h
 /usr/include/KF6/KIOGui/kio/openfilemanagerwindowjob.h
 /usr/include/KF6/KIOGui/kio/thumbnailcreator.h
@@ -1130,7 +1142,7 @@
 /usr/include/KF6/KIOGui/KIO/CommandLauncherJob
 /usr/include/KF6/KIOGui/KTerminalLauncherJob
 /usr/include/KF6/KIOGui/KCoreUrlNavigator
-/lib/libKF6KIOCore.so.6.30.0
+/lib/libKF6KIOCore.so.6.31.0
 /lib/libKF6KIOCore.so.6
 /lib/libKF6KIOCore.so
 /lib/plugins/kf6/kio/kio_file.so
@@ -1141,18 +1153,19 @@
 /lib/plugins/kf6/kded/remotenotifier.so
 /lib/plugins/kf6/kio/kio_remote.so
 /lib/plugins/kf6/kio/kio_trash.so
+/lib/plugins/kf6/kded/trashdirnotify.so
 /bin/ktrash6
 /lib/plugins/kf6/kiod/kssld.so
-/lib/libKF6KIOGui.so.6.30.0
+/lib/libKF6KIOGui.so.6.31.0
 /lib/libKF6KIOGui.so.6
 /lib/libKF6KIOGui.so
 /bin/ktelnetservice6
-/lib/libKF6KIOWidgets.so.6.30.0
+/lib/libKF6KIOWidgets.so.6.31.0
 /lib/libKF6KIOWidgets.so.6
 /lib/libKF6KIOWidgets.so
 /lib/plugins/kf6/kiod/kpasswdserver.so
 /lib/plugins/kf6/kiod/kioexecd.so
-/lib/libKF6KIOFileWidgets.so.6.30.0
+/lib/libKF6KIOFileWidgets.so.6.31.0
 /lib/libKF6KIOFileWidgets.so.6
 /lib/libKF6KIOFileWidgets.so
 /lib/plugins/kf6/kio_dnd/dropintonewfolder.so

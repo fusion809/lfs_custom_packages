@@ -1,8 +1,9 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/ktextwidgets6widgets.so
-/usr/lib/libKF6TextWidgets.so.6.30.0
+/usr/lib/libKF6TextWidgets.so.6.31.0
+/usr/lib/libKF6TextWidgets.so.6
 /usr/lib/cmake/KF6TextWidgets
 /usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsTargets.cmake
 /usr/lib/cmake/KF6TextWidgets/KF6TextWidgetsTargets-release.cmake
@@ -334,7 +335,7 @@
 /usr/include/KF6/KTextWidgets/ktextwidgets_version.h
 /usr/include/KF6/KTextWidgets/ktextwidgets_export.h
 /usr/include/KF6/KTextWidgets/kpluralhandlingspinbox.h
-/lib/libKF6TextWidgets.so.6.30.0
+/lib/libKF6TextWidgets.so.6.31.0
 /lib/libKF6TextWidgets.so.6
 /lib/libKF6TextWidgets.so
 /lib/plugins/designer/ktextwidgets6widgets.so

@@ -1,4 +1,4 @@
-6.30.0
+6.31.0
 /usr/lib/plugins/kf6/kirigami/platform
 /usr/lib/plugins/kf6/kirigami/platform/org.kde.desktop.so
 /usr/lib/qml/org/kde/qqc2desktopstyle/private
@@ -27,6 +27,7 @@
 /usr/lib/qml/org/kde/desktop/SwipeDelegate.qml
 /usr/lib/qml/org/kde/desktop/GroupBox.qml
 /usr/lib/qml/org/kde/desktop/ScrollBar.qml
+/usr/lib/qml/org/kde/desktop/DoubleSpinBox.qml
 /usr/lib/qml/org/kde/desktop/PageIndicator.qml
 /usr/lib/qml/org/kde/desktop/SwitchDelegate.qml
 /usr/lib/qml/org/kde/desktop/Dialog.qml
@@ -184,6 +185,7 @@
 /lib/qml/org/kde/desktop/Dial.qml
 /lib/qml/org/kde/desktop/Dialog.qml
 /lib/qml/org/kde/desktop/DialogButtonBox.qml
+/lib/qml/org/kde/desktop/DoubleSpinBox.qml
 /lib/qml/org/kde/desktop/Drawer.qml
 /lib/qml/org/kde/desktop/Frame.qml
 /lib/qml/org/kde/desktop/GroupBox.qml

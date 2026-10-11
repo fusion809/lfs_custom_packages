@@ -1,12 +1,14 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Runner.so.6.30.0
+/usr/lib/libKF6Runner.so.6
+/usr/lib/libKF6Runner.so.6.31.0
 /usr/lib/cmake/KF6Runner
 /usr/lib/cmake/KF6Runner/KF6RunnerTargets.cmake
 /usr/lib/cmake/KF6Runner/KF6KRunnerMacros.cmake
 /usr/lib/cmake/KF6Runner/KF6RunnerConfig.cmake
 /usr/lib/cmake/KF6Runner/KF6RunnerConfigVersion.cmake
 /usr/lib/cmake/KF6Runner/KF6RunnerTargets-release.cmake
+/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/kf6_org.kde.krunner1.xml
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/krunner.categories
@@ -37,7 +39,7 @@
 /usr/include/KF6/KRunner/krunner_version.h
 /usr/metatypes
 /usr/metatypes/qt6kf6runner_metatypes.json
-/lib/libKF6Runner.so.6.30.0
+/lib/libKF6Runner.so.6.31.0
 /lib/libKF6Runner.so.6
 /lib/libKF6Runner.so
 /lib/cmake/KF6Runner/KF6RunnerConfig.cmake

@@ -118,8 +118,8 @@
 /usr/lib/gobject-introspection/giscanner/girwriter.py
 /usr/lib/gobject-introspection/giscanner/xmlwriter.py
 /usr/lib/gobject-introspection/giscanner/sourcescanner.py
-/usr/lib/gobject-introspection/giscanner/_giscanner.cpython-314-x86_64-linux-gnu.so
 /usr/lib/gobject-introspection/giscanner/docwriter.py
+/usr/lib/gobject-introspection/giscanner/_giscanner.cpython-315-x86_64-linux-gnu.so
 /usr/lib/gobject-introspection/giscanner/_version.py
 /usr/lib/gobject-introspection/giscanner/annotationmain.py
 /usr/lib/libgobject-2.0.so.0
@@ -469,7 +469,6 @@
 /usr/bin/glib-genmarshal
 /usr/bin/gapplication
 /usr/bin/g-ir-inspect
-/usr/bin/g-ir-doc-tool
 /usr/bin/gdbus
 /usr/bin/gresource
 /usr/bin/gi-inspect-typelib

@@ -1,5 +1,8 @@
 0.52.25
 /usr/lib
+/usr/lib/python3.15/site-packages
+/usr/lib/python3.15/site-packages/_snack.so
+/usr/lib/python3.15/site-packages/snack.py
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libnewt.pc
 /usr/lib/whiptcl.so

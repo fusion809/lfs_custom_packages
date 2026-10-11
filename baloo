@@ -1,6 +1,6 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6Baloo.so.6.30.0
+/usr/lib/libKF6BalooEngine.so.6.31.0
 /usr/lib/plugins/kf6/kded
 /usr/lib/plugins/kf6/kded/baloosearchmodule.so
 /usr/lib/plugins/kf6/kio
@@ -9,9 +9,9 @@
 /usr/lib/plugins/kf6/kio/baloosearch.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Baloo.pc
+/usr/lib/libKF6Baloo.so.6.31.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/kde-baloo.service
-/usr/lib/libKF6BalooEngine.so.6.30.0
 /usr/lib/qml/org/kde/baloo
 /usr/lib/qml/org/kde/baloo/kde-qmlmodule.version
 /usr/lib/qml/org/kde/baloo/balooplugin.qmltypes
@@ -27,6 +27,8 @@
 /usr/lib/cmake/KF6Baloo/KF6BalooTargets.cmake
 /usr/lib/cmake/KF6Baloo/KF6BalooConfigVersion.cmake
 /usr/lib/cmake/KF6Baloo/KF6BalooConfig.cmake
+/usr/lib/libKF6Baloo.so.6
+/usr/lib/libKF6BalooEngine.so.6
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -708,6 +710,7 @@
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/baloo.renamecategories
 /usr/share/qlogging-categories6/baloo.categories
+/usr/share/config.kcfg
 /usr/share/config.kcfg/baloosettings.kcfg
 /usr/bin
 /usr/bin/balooshow6
@@ -738,11 +741,11 @@
 /usr/include/KF6/Baloo/baloo/query.h
 /etc/xdg/autostart
 /etc/xdg/autostart/baloo_file.desktop
-/lib/libKF6Baloo.so.6.30.0
+/lib/libKF6Baloo.so.6.31.0
 /lib/libKF6Baloo.so.6
 /lib/libKF6Baloo.so
 /lib/pkgconfig/KF6Baloo.pc
-/lib/libKF6BalooEngine.so.6.30.0
+/lib/libKF6BalooEngine.so.6.31.0
 /lib/libKF6BalooEngine.so.6
 /lib/qml/org/kde/baloo/libbalooplugin.so
 /lib/qml/org/kde/baloo/qmldir

@@ -1,6 +1,8 @@
-6.30.0
+6.31.0
 /usr/lib
-/usr/lib/libKF6CalendarEvents.so.6.30.0
+/usr/lib/libKF6CalendarEvents.so.6.31.0
+/usr/lib/libKF6CalendarEvents.so.6
+/usr/lib/libkquickcontrolsprivate.so.0
 /usr/lib/qml/org/kde/graphicaleffects
 /usr/lib/qml/org/kde/graphicaleffects/kde-qmlmodule.version
 /usr/lib/qml/org/kde/graphicaleffects/Lanczos.qml
@@ -35,7 +37,7 @@
 /usr/lib/cmake/KF6Declarative/KF6DeclarativeTargets-release.cmake
 /usr/lib/cmake/KF6Declarative/KF6DeclarativeConfigVersion.cmake
 /usr/lib/cmake/KF6Declarative/KF6DeclarativeTargets.cmake
-/usr/lib/libkquickcontrolsprivate.so.6.30.0
+/usr/lib/libkquickcontrolsprivate.so.6.31.0
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -368,7 +370,7 @@
 /lib/qml/org/kde/private/kquickcontrols/qmldir
 /lib/qml/org/kde/private/kquickcontrols/kquickcontrolsprivate.qmltypes
 /lib/qml/org/kde/private/kquickcontrols/kde-qmlmodule.version
-/lib/libkquickcontrolsprivate.so.6.30.0
+/lib/libkquickcontrolsprivate.so.6.31.0
 /lib/libkquickcontrolsprivate.so.0
 /lib/qml/org/kde/kquickcontrols/libkquickcontrols.so
 /lib/qml/org/kde/kquickcontrols/qmldir
@@ -376,7 +378,7 @@
 /lib/qml/org/kde/kquickcontrols/ColorButton.qml
 /lib/qml/org/kde/kquickcontrols/KeySequenceItem.qml
 /lib/qml/org/kde/kquickcontrols/kde-qmlmodule.version
-/lib/libKF6CalendarEvents.so.6.30.0
+/lib/libKF6CalendarEvents.so.6.31.0
 /lib/libKF6CalendarEvents.so.6
 /lib/libKF6CalendarEvents.so
 /lib/cmake/KF6Declarative/KF6DeclarativeConfig.cmake

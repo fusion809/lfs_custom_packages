@@ -1,9 +1,11 @@
-6.30.0
+6.31.0
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/knewstuff6widgets.so
-/usr/lib/libKF6NewStuffCore.so.6.30.0
-/usr/lib/libKF6NewStuffWidgets.so.6.30.0
+/usr/lib/libKF6NewStuffCore.so.6
+/usr/lib/libKF6NewStuffCore.so.6.31.0
+/usr/lib/libKF6NewStuffWidgets.so.6
+/usr/lib/libKF6NewStuffWidgets.so.6.31.0
 /usr/lib/qml/org/kde/newstuff
 /usr/lib/qml/org/kde/newstuff/DialogContent.qml
 /usr/lib/qml/org/kde/newstuff/kde-qmlmodule.version
@@ -28,6 +30,7 @@
 /usr/lib/qml/org/kde/newstuff/private/qmldir
 /usr/lib/qml/org/kde/newstuff/private/ErrorDisplayer.qml
 /usr/lib/qml/org/kde/newstuff/private/GridTileDelegate.qml
+/usr/lib/qml/org/kde/newstuff/private/entrygriddelegates
 /usr/lib/qml/org/kde/newstuff/private/entrygriddelegates/BigPreviewDelegate.qml
 /usr/lib/qml/org/kde/newstuff/private/entrygriddelegates/TileDelegate.qml
 /usr/lib/qml/org/kde/newstuff/private/entrygriddelegates/FeedbackOverlay.qml
@@ -351,6 +354,7 @@
 /usr/share/locale/or
 /usr/share/locale/or/LC_MESSAGES
 /usr/share/locale/or/LC_MESSAGES/knewstuff6.mo
+/usr/share/applications
 /usr/share/applications/org.kde.knewstuff-dialog6.desktop
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/knewstuff.categories
@@ -405,7 +409,7 @@
 /usr/include/KF6/KNewStuffCore/KNSCore/CategoryMetadata
 /usr/include/KF6/KNewStuffCore/KNSCore/providercore.h
 /usr/include/KF6/KNewStuffCore/KNSCore/categorymetadata.h
-/lib/libKF6NewStuffCore.so.6.30.0
+/lib/libKF6NewStuffCore.so.6.31.0
 /lib/libKF6NewStuffCore.so.6
 /lib/libKF6NewStuffCore.so
 /lib/qml/org/kde/newstuff/private/libnewstuffqmlpluginprivate.so
@@ -437,7 +441,7 @@
 /lib/qml/org/kde/newstuff/private/entrygriddelegates/TileDelegate.qml
 /lib/qml/org/kde/newstuff/kde-qmlmodule.version
 /bin/knewstuff-dialog6
-/lib/libKF6NewStuffWidgets.so.6.30.0
+/lib/libKF6NewStuffWidgets.so.6.31.0
 /lib/libKF6NewStuffWidgets.so.6
 /lib/libKF6NewStuffWidgets.so
 /lib/plugins/designer/knewstuff6widgets.so
