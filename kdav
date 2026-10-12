@@ -1,6 +1,5 @@
 6.31.0
 /usr/lib
-/usr/lib/libKF6DAV.so.6
 /usr/lib/cmake/KF6DAV
 /usr/lib/cmake/KF6DAV/KF6DAVTargets.cmake
 /usr/lib/cmake/KF6DAV/KF6DAVTargets-release.cmake
