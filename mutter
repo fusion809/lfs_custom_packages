@@ -1,4 +1,4 @@
-51.0
+51.1
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/mutter-cogl-51.pc
@@ -270,9 +270,6 @@
 /usr/libexec/mutter-x11-frames
 /usr/libexec/mutter-devkit
 /usr/libexec/mutter-backlight-helper
-/usr/include
-/usr/include/mutter-51
-/usr/include/mutter-51/cogl
 /usr/include/mutter-51/cogl/cogl
 /usr/include/mutter-51/cogl/cogl/cogl-offscreen.h
 /usr/include/mutter-51/cogl/cogl/cogl-renderer.h
@@ -328,7 +325,6 @@
 /usr/include/mutter-51/cogl/cogl/gl-prototypes/cogl-core-functions.h
 /usr/include/mutter-51/cogl/cogl/gl-prototypes/cogl-gles2-functions.h
 /usr/include/mutter-51/cogl/cogl/cogl-bitmap.h
-/usr/include/mutter-51/mtk
 /usr/include/mutter-51/mtk/mtk
 /usr/include/mutter-51/mtk/mtk/mtk-monitor-transform.h
 /usr/include/mutter-51/mtk/mtk/mtk.h
@@ -405,7 +401,6 @@
 /usr/include/mutter-51/meta/meta-selection-source-memory.h
 /usr/include/mutter-51/meta/meta-later.h
 /usr/include/mutter-51/meta/meta-idle-monitor.h
-/usr/include/mutter-51/clutter
 /usr/include/mutter-51/clutter/clutter
 /usr/include/mutter-51/clutter/clutter/clutter-press-gesture.h
 /usr/include/mutter-51/clutter/clutter/clutter-pick-context.h
