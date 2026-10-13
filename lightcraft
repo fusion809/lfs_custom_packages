@@ -1,12 +1,7 @@
-0.6.0
-/usr/share/mime/packages
+0.7.1
 /usr/share/mime/packages/ai.storyteller.lightcraft.mime.xml
-/usr/share/applications
 /usr/share/applications/ai.storyteller.lightcraft.desktop
-/usr/share/pixmaps
 /usr/share/pixmaps/ai.storyteller.lightcraft.png
-/usr/share/icons/hicolor/scalable
-/usr/share/icons/hicolor/scalable/ai.storyteller.lightcraft.svg
-/usr/bin
+/usr/share/icons/hicolor/scalable/apps/ai.storyteller.lightcraft.svg
 /usr/bin/lightcraft-cli
 /usr/bin/lightcraft

@@ -1,12 +1,7 @@
-0.8.0
-/usr/share/mime/packages
+0.9.2
 /usr/share/mime/packages/ai.storyteller.effectcraft.mime.xml
-/usr/share/applications
 /usr/share/applications/ai.storyteller.effectcraft.desktop
-/usr/share/pixmaps
 /usr/share/pixmaps/ai.storyteller.effectcraft.png
-/usr/share/icons/hicolor/scalable
-/usr/share/icons/hicolor/scalable/ai.storyteller.effectcraft.svg
-/usr/bin
+/usr/share/icons/hicolor/scalable/apps/ai.storyteller.effectcraft.svg
 /usr/bin/effectcraft
 /usr/bin/effectcraft-cli

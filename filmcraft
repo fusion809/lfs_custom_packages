@@ -1,12 +1,7 @@
-0.6.0
-/usr/share/mime/packages
+0.7.2
 /usr/share/mime/packages/ai.storyteller.filmcraft.mime.xml
-/usr/share/applications
 /usr/share/applications/ai.storyteller.filmcraft.desktop
-/usr/share/pixmaps
 /usr/share/pixmaps/ai.storyteller.filmcraft.png
-/usr/share/icons/hicolor/scalable
-/usr/share/icons/hicolor/scalable/ai.storyteller.filmcraft.svg
-/usr/bin
+/usr/share/icons/hicolor/scalable/apps/ai.storyteller.filmcraft.svg
 /usr/bin/filmcraft-cli
 /usr/bin/filmcraft
