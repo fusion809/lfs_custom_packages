@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/plasma/kcms/kinfocenter
 /usr/lib/plugins/plasma/kcms/kinfocenter/kcm_disks.so
 /usr/lib/plugins/kf6/kded
@@ -36,6 +36,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/kcm_disks.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/kcm_disks.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/kcm_disks.mo
@@ -54,6 +57,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/kcm_disks.mo
+/usr/share/locale/sr@latin
+/usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/kcm_disks.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/kcm_disks.mo
@@ -72,6 +78,9 @@
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/kcm_disks.mo
+/usr/share/locale/sr@ijekavianlatin
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kcm_disks.mo
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/kcm_disks.mo
@@ -87,6 +96,9 @@
 /usr/share/locale/sa
 /usr/share/locale/sa/LC_MESSAGES
 /usr/share/locale/sa/LC_MESSAGES/kcm_disks.mo
+/usr/share/locale/sr@ijekavian
+/usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/kcm_disks.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/kcm_disks.mo
@@ -114,6 +126,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/kcm_disks.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kcm_disks.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/kcm_disks.mo
@@ -156,7 +171,9 @@
 /usr/share/dbus-1/system.d/org.kde.kded.smart.conf
 /usr/share/dbus-1/system-services
 /usr/share/dbus-1/system-services/org.kde.kded.smart.service
+/usr/share/knotifications6
 /usr/share/knotifications6/org.kde.kded.smart.notifyrc
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.plasma.disks.metainfo.xml
 /usr/libexec/kf6/kauth
 /usr/libexec/kf6/kauth/kded-smart-helper

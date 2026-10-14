@@ -1,5 +1,6 @@
-6.7.5
+6.8.0
 /usr/lib
+/usr/lib/libLayerShellQtInterface.so.6.8.0
 /usr/lib/plugins/wayland-shell-integration
 /usr/lib/plugins/wayland-shell-integration/liblayer-shell.so
 /usr/lib/qml/org/kde/layershell
@@ -12,7 +13,7 @@
 /usr/lib/cmake/LayerShellQt/LayerShellQtConfigVersion.cmake
 /usr/lib/cmake/LayerShellQt/LayerShellQtTargets.cmake
 /usr/lib/cmake/LayerShellQt/LayerShellQtTargets-release.cmake
-/usr/lib/libLayerShellQtInterface.so.6.7.5
+/usr/lib/libLayerShellQtInterface.so.6
 /usr/include/LayerShellQt
 /usr/include/LayerShellQt/window.h
 /usr/include/LayerShellQt/layershellqt_export.h
@@ -20,7 +21,7 @@
 /usr/include/LayerShellQt/Shell
 /usr/include/LayerShellQt/Window
 /lib/plugins/wayland-shell-integration/liblayer-shell.so
-/lib/libLayerShellQtInterface.so.6.7.5
+/lib/libLayerShellQtInterface.so.6.8.0
 /lib/libLayerShellQtInterface.so.6
 /lib/libLayerShellQtInterface.so
 /lib/qml/org/kde/layershell/libLayerShellQtQml.so

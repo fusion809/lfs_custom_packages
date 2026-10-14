@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_firewall.so
@@ -6,6 +6,7 @@
 /usr/lib/plugins/kf6/plasma_firewall/firewalldbackend.so
 /usr/lib/plugins/kf6/plasma_firewall/ufwbackend.so
 /usr/lib/libkcm_firewall_core.so
+/usr/share/kcm_ufw
 /usr/share/kcm_ufw/defaults
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.kde.ufw.policy
@@ -40,6 +41,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/kcm_firewall.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/kcm_firewall.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/kcm_firewall.mo
@@ -58,6 +62,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/kcm_firewall.mo
+/usr/share/locale/sr@latin
+/usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/kcm_firewall.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/kcm_firewall.mo
@@ -73,6 +80,9 @@
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/kcm_firewall.mo
+/usr/share/locale/sr@ijekavianlatin
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kcm_firewall.mo
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/kcm_firewall.mo
@@ -88,6 +98,9 @@
 /usr/share/locale/sa
 /usr/share/locale/sa/LC_MESSAGES
 /usr/share/locale/sa/LC_MESSAGES/kcm_firewall.mo
+/usr/share/locale/sr@ijekavian
+/usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/kcm_firewall.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/kcm_firewall.mo
@@ -115,6 +128,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/kcm_firewall.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kcm_firewall.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/kcm_firewall.mo
@@ -157,6 +173,7 @@
 /usr/share/dbus-1/system.d/org.kde.ufw.conf
 /usr/share/dbus-1/system-services
 /usr/share/dbus-1/system-services/org.kde.ufw.service
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.plasma.firewall.metainfo.xml
 /usr/libexec
 /usr/libexec/kf6/kauth

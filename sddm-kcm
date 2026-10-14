@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_sddm.so
 /usr/share/polkit-1/actions
@@ -127,6 +127,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/kcm_sddm.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kcm_sddm.mo
 /usr/share/locale/ml
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/kcm_sddm.mo
@@ -175,6 +178,7 @@
 /usr/share/dbus-1/system.d/org.kde.kcontrol.kcmsddm.conf
 /usr/share/dbus-1/system-services
 /usr/share/dbus-1/system-services/org.kde.kcontrol.kcmsddm.service
+/usr/share/knsrcfiles
 /usr/share/knsrcfiles/sddmtheme.knsrc
 /usr/bin
 /usr/bin/sddmthemeinstaller

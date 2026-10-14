@@ -1,4 +1,4 @@
-51.0
+51.1
 /usr/lib/systemd/user
 /usr/lib/systemd/user/org.gnome.Shell@.service
 /usr/lib/systemd/user/org.gnome.Shell-disable-extensions.service
@@ -176,6 +176,8 @@
 /usr/share/locale/ca@valencia/LC_MESSAGES/gnome-shell.mo
 /usr/share/locale/kn/LC_MESSAGES
 /usr/share/locale/kn/LC_MESSAGES/gnome-shell.mo
+/usr/share/locale/sw/LC_MESSAGES
+/usr/share/locale/sw/LC_MESSAGES/gnome-shell.mo
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/gnome-shell.mo
 /usr/share/locale/ar/LC_MESSAGES

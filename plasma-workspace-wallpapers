@@ -1,4 +1,5 @@
-6.7.5
+6.8.0
+/usr/share/wallpapers
 /usr/share/wallpapers/Canopee
 /usr/share/wallpapers/Canopee/metadata.json
 /usr/share/wallpapers/Canopee/contents
@@ -241,6 +242,17 @@
 /usr/share/wallpapers/ColorfulCups/contents/screenshot.jpg
 /usr/share/wallpapers/ColorfulCups/contents/images
 /usr/share/wallpapers/ColorfulCups/contents/images/2560x1600.jpg
+/usr/share/wallpapers/Waterfall
+/usr/share/wallpapers/Waterfall/metadata.json
+/usr/share/wallpapers/Waterfall/contents
+/usr/share/wallpapers/Waterfall/contents/images
+/usr/share/wallpapers/Waterfall/contents/images/1440x2960.png
+/usr/share/wallpapers/Waterfall/contents/images/7680x2160.png
+/usr/share/wallpapers/Waterfall/contents/images/5120x2880.png
+/usr/share/wallpapers/Waterfall/contents/images_dark
+/usr/share/wallpapers/Waterfall/contents/images_dark/1440x2960.png
+/usr/share/wallpapers/Waterfall/contents/images_dark/7680x2160.png
+/usr/share/wallpapers/Waterfall/contents/images_dark/5120x2880.png
 /usr/share/wallpapers/Opal
 /usr/share/wallpapers/Opal/metadata.json
 /usr/share/wallpapers/Opal/contents

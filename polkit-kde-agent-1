@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-polkit-agent.service
 /usr/share/locale
@@ -205,6 +205,7 @@
 /usr/share/locale/ca/LC_MESSAGES/polkit-kde-authentication-agent-1.mo
 /usr/share/applications
 /usr/share/applications/org.kde.polkit-kde-authentication-agent-1.desktop
+/usr/share/knotifications6
 /usr/share/knotifications6/polkit-kde-authentication-agent-1.notifyrc
 /usr/libexec
 /usr/libexec/polkit-kde-authentication-agent-1

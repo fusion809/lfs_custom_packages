@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib
 /usr/lib/tmpfiles.d
 /usr/lib/tmpfiles.d/plasma-setup-tmpfiles.conf
@@ -31,6 +31,7 @@
 /usr/lib/qml/org/kde/plasmasetup/components/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasmasetup/components/componentsplugin.qmltypes
 /usr/lib/qml/org/kde/plasmasetup/components/qmldir
+/usr/lib/qml/org/kde/plasmasetup/components/qml
 /usr/lib/qml/org/kde/plasmasetup/components/qml/Debouncer.qml
 /usr/lib/qml/org/kde/plasmasetup/prepareutil
 /usr/lib/qml/org/kde/plasmasetup/prepareutil/kde-qmlmodule.version
@@ -72,9 +73,11 @@
 /usr/lib/qml/org/kde/plasmasetup/language/libplasmasetup_language.so
 /usr/lib/qml/org/kde/plasmasetup/language/qmldir
 /usr/lib/qml/org/kde/plasmasetup/language/plasmasetup_language.qmltypes
+/usr/lib/sysusers.d
 /usr/lib/sysusers.d/plasma-setup-sysuser.conf
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.kde.plasmasetup.policy
+/usr/share/polkit-1/rules.d
 /usr/share/polkit-1/rules.d/plasma-setup-polkit.rules
 /usr/share/plasma-setup
 /usr/share/plasma-setup/kglobalaccelrc
@@ -136,6 +139,9 @@
 /usr/share/locale/en_GB
 /usr/share/locale/en_GB/LC_MESSAGES
 /usr/share/locale/en_GB/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/pa
+/usr/share/locale/pa/LC_MESSAGES
+/usr/share/locale/pa/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/org.kde.plasmasetup.mo
@@ -151,6 +157,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/org.kde.plasmasetup.mo
@@ -169,6 +178,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/sr@latin
+/usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/org.kde.plasmasetup.mo
@@ -181,9 +193,18 @@
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/sr@ijekavianlatin
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/ta
+/usr/share/locale/ta/LC_MESSAGES
+/usr/share/locale/ta/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/zh_TW
 /usr/share/locale/zh_TW/LC_MESSAGES
 /usr/share/locale/zh_TW/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/sr@ijekavian
+/usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/org.kde.plasmasetup.mo
@@ -202,6 +223,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/org.kde.plasmasetup.mo
@@ -252,6 +276,7 @@
 /usr/libexec/kf6/kauth
 /usr/libexec/kf6/kauth/plasma-setup-auth-helper
 /usr/libexec/plasma-setup-bootutil
+/etc/xdg
 /etc/xdg/plasmasetuprc
 /lib/systemd/system/plasma-setup.service
 /lib/sysusers.d/plasma-setup-sysuser.conf

@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/plasma/applets
 /usr/lib/plugins/plasma/applets/org.kde.milou.so
 /usr/lib/qml/org/kde/milou
@@ -173,6 +173,10 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/milou.mo
 /usr/share/locale/pl/LC_MESSAGES/plasma_applet_org.kde.milou.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/milou.mo
+/usr/share/locale/ug/LC_MESSAGES/plasma_applet_org.kde.milou.mo
 /usr/share/locale/ml
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/milou.mo

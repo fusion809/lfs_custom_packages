@@ -1,8 +1,9 @@
-6.7.5
+6.8.0
 /usr/lib
+/usr/lib/libPlasmaActivitiesStats.so.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/PlasmaActivitiesStats.pc
-/usr/lib/libPlasmaActivitiesStats.so.6.7.5
+/usr/lib/libPlasmaActivitiesStats.so.6.8.0
 /usr/lib/cmake/PlasmaActivitiesStats
 /usr/lib/cmake/PlasmaActivitiesStats/PlasmaActivitiesStatsLibraryTargets-release.cmake
 /usr/lib/cmake/PlasmaActivitiesStats/PlasmaActivitiesStatsLibraryTargets.cmake
@@ -28,7 +29,7 @@
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats/Cleaning
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats/ResultModel
 /usr/include/PlasmaActivitiesStats/PlasmaActivities/Stats/ResultSet
-/lib/libPlasmaActivitiesStats.so.6.7.5
+/lib/libPlasmaActivitiesStats.so.6.8.0
 /lib/libPlasmaActivitiesStats.so.1
 /lib/libPlasmaActivitiesStats.so
 /lib/pkgconfig/PlasmaActivitiesStats.pc

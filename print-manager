@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_printer_manager.so
@@ -55,6 +55,7 @@
 /usr/share/locale/lt/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/lt/LC_MESSAGES/print-manager.mo
 /usr/share/locale/lt/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/lt/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/it
 /usr/share/locale/it/LC_MESSAGES
 /usr/share/locale/it/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -85,6 +86,8 @@
 /usr/share/locale/sr/LC_MESSAGES
 /usr/share/locale/sr/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/sr/LC_MESSAGES/print-manager.mo
+/usr/share/locale/sr/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/sr/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -124,6 +127,8 @@
 /usr/share/locale/sr@latin/LC_MESSAGES
 /usr/share/locale/sr@latin/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/print-manager.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -161,6 +166,8 @@
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/print-manager.mo
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -170,6 +177,8 @@
 /usr/share/locale/ta/LC_MESSAGES
 /usr/share/locale/ta/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/ta/LC_MESSAGES/print-manager.mo
+/usr/share/locale/ta/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/ta/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/ast
 /usr/share/locale/ast/LC_MESSAGES
 /usr/share/locale/ast/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -194,6 +203,8 @@
 /usr/share/locale/sr@ijekavian/LC_MESSAGES
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/print-manager.mo
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -253,6 +264,8 @@
 /usr/share/locale/ug/LC_MESSAGES
 /usr/share/locale/ug/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/ug/LC_MESSAGES/print-manager.mo
+/usr/share/locale/ug/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/ug/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -337,9 +350,11 @@
 /usr/share/applications/kcm_printer_manager.desktop
 /usr/share/applications/org.kde.ConfigurePrinter.desktop
 /usr/share/applications/org.kde.plasma.printqueue.desktop
+/usr/share/knotifications6
 /usr/share/knotifications6/printmanager.notifyrc
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/pmlogs.categories
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.print-manager.metainfo.xml
 /usr/bin
 /usr/bin/plasma-print-queue

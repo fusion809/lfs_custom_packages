@@ -1,5 +1,6 @@
-6.7.5
+6.8.0
 /usr/lib
+/usr/lib/libpowerdevilcore.so.6.8.0
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_powerdevilprofilesconfig.so
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_mobile_power.so
@@ -20,7 +21,7 @@
 /usr/lib/plugins/powerdevil/action/powerdevil_dimdisplayaction.so
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-powerdevil.service
-/usr/lib/libpowerdevilcore.so.6.7.5
+/usr/lib/libpowerdevilcore.so.2
 /usr/lib/qml/org/kde/plasma/private/batterymonitor
 /usr/lib/qml/org/kde/plasma/private/batterymonitor/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/private/batterymonitor/libbatterymonitorplugin.so
@@ -230,6 +231,7 @@
 /usr/share/locale/sr/LC_MESSAGES
 /usr/share/locale/sr/LC_MESSAGES/kcm_powerdevilprofilesconfig.mo
 /usr/share/locale/sr/LC_MESSAGES/plasma_runner_powerdevil.mo
+/usr/share/locale/sr/LC_MESSAGES/plasma_applet_org.kde.plasma.brightness.mo
 /usr/share/locale/sr/LC_MESSAGES/powerdevil.mo
 /usr/share/locale/sr/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/wa
@@ -293,6 +295,7 @@
 /usr/share/locale/sr@latin/LC_MESSAGES
 /usr/share/locale/sr@latin/LC_MESSAGES/kcm_powerdevilprofilesconfig.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/plasma_runner_powerdevil.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/plasma_applet_org.kde.plasma.brightness.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/powerdevil.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/csb
@@ -353,6 +356,7 @@
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kcm_powerdevilprofilesconfig.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma_runner_powerdevil.mo
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma_applet_org.kde.plasma.brightness.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/powerdevil.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/hi
@@ -420,6 +424,7 @@
 /usr/share/locale/sr@ijekavian/LC_MESSAGES
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kcm_powerdevilprofilesconfig.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma_runner_powerdevil.mo
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma_applet_org.kde.plasma.brightness.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/powerdevil.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/ku
@@ -522,8 +527,10 @@
 /usr/share/locale/pl/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/ug
 /usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kcm_mobile_power.mo
 /usr/share/locale/ug/LC_MESSAGES/kcm_powerdevilprofilesconfig.mo
 /usr/share/locale/ug/LC_MESSAGES/plasma_runner_powerdevil.mo
+/usr/share/locale/ug/LC_MESSAGES/plasma_applet_org.kde.plasma.brightness.mo
 /usr/share/locale/ug/LC_MESSAGES/powerdevil.mo
 /usr/share/locale/ug/LC_MESSAGES/plasma_applet_org.kde.plasma.battery.mo
 /usr/share/locale/ml
@@ -688,6 +695,7 @@
 /usr/share/dbus-1/system-services/org.kde.powerdevil.discretegpuhelper.service
 /usr/share/dbus-1/system-services/org.kde.powerdevil.backlighthelper.service
 /usr/share/dbus-1/system-services/org.kde.powerdevil.chargethresholdhelper.service
+/usr/share/knotifications6
 /usr/share/knotifications6/powerdevil.notifyrc
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/powerdevil.categories
@@ -721,7 +729,7 @@
 /lib/plugins/powerdevil/action/powerdevil_dpmsaction.so
 /lib/plugins/powerdevil/action/powerdevil_powerprofileaction.so
 /lib/plugins/powerdevil/action/powerdevil_handlebuttoneventsaction.so
-/lib/libpowerdevilcore.so.6.7.5
+/lib/libpowerdevilcore.so.6.8.0
 /lib/libpowerdevilcore.so.2
 /lib/libpowerdevilcore.so
 /lib/systemd/user/plasma-powerdevil.service

@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/plasma/kcms/systemsettings_qwidgets
 /usr/lib/plugins/plasma/kcms/systemsettings_qwidgets/kcm_filetypes.so
 /usr/share/doc/HTML/et/kdesu
@@ -285,8 +285,10 @@
 /usr/share/locale/mai/LC_MESSAGES/kstart.mo
 /usr/share/locale/sr
 /usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/kde-inhibit.mo
 /usr/share/locale/sr/LC_MESSAGES/kbroadcastnotification.mo
 /usr/share/locale/sr/LC_MESSAGES/kcm_filetypes.mo
+/usr/share/locale/sr/LC_MESSAGES/plasma-open-settings.mo
 /usr/share/locale/sr/LC_MESSAGES/kmimetypefinder.mo
 /usr/share/locale/sr/LC_MESSAGES/kioclient.mo
 /usr/share/locale/sr/LC_MESSAGES/kdesu.mo
@@ -367,8 +369,10 @@
 /usr/share/locale/ko/LC_MESSAGES/kstart.mo
 /usr/share/locale/sr@latin
 /usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/kde-inhibit.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kbroadcastnotification.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kcm_filetypes.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/plasma-open-settings.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kmimetypefinder.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kioclient.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kdesu.mo
@@ -447,8 +451,10 @@
 /usr/share/locale/fi/LC_MESSAGES/kstart.mo
 /usr/share/locale/sr@ijekavianlatin
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kde-inhibit.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kbroadcastnotification.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kcm_filetypes.mo
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma-open-settings.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kmimetypefinder.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kioclient.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kdesu.mo
@@ -533,8 +539,10 @@
 /usr/share/locale/sa/LC_MESSAGES/kstart.mo
 /usr/share/locale/sr@ijekavian
 /usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/kde-inhibit.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kbroadcastnotification.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kcm_filetypes.mo
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma-open-settings.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kmimetypefinder.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kioclient.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kdesu.mo
@@ -656,7 +664,10 @@
 /usr/share/locale/pl/LC_MESSAGES/kstart.mo
 /usr/share/locale/ug
 /usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kde-inhibit.mo
+/usr/share/locale/ug/LC_MESSAGES/kbroadcastnotification.mo
 /usr/share/locale/ug/LC_MESSAGES/kcm_filetypes.mo
+/usr/share/locale/ug/LC_MESSAGES/plasma-open-settings.mo
 /usr/share/locale/ug/LC_MESSAGES/kmimetypefinder.mo
 /usr/share/locale/ug/LC_MESSAGES/kioclient.mo
 /usr/share/locale/ug/LC_MESSAGES/kdesu.mo
@@ -881,6 +892,7 @@
 /usr/share/applications/org.kde.plasma.settings.open.desktop
 /usr/share/applications/kcm_filetypes.desktop
 /usr/share/applications/org.kde.keditfiletype.desktop
+/usr/share/zsh/site-functions
 /usr/share/zsh/site-functions/_kde-inhibit
 /usr/share/man/et/man1
 /usr/share/man/et/man1/kdesu.1

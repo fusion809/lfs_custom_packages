@@ -1,8 +1,9 @@
-6.7.5
+6.8.0
 /usr/lib
+/usr/lib/libKNightTime.so.0
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-knighttimed.service
-/usr/lib/libKNightTime.so.6.7.5
+/usr/lib/libKNightTime.so.6.8.0
 /usr/lib/cmake/KNightTime
 /usr/lib/cmake/KNightTime/KNightTimeTargets-release.cmake
 /usr/lib/cmake/KNightTime/KNightTimeConfigVersion.cmake
@@ -10,6 +11,7 @@
 /usr/lib/cmake/KNightTime/KNightTimeConfig.cmake
 /usr/share/applications
 /usr/share/applications/org.kde.knighttimed.desktop
+/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/org.kde.NightTime.xml
 /usr/share/dbus-1/services
 /usr/share/dbus-1/services/org.kde.NightTime.service
@@ -23,7 +25,7 @@
 /usr/include/KNightTime/knighttime_export.h
 /usr/include/KNightTime/kdarklightschedule.h
 /usr/include/KNightTime/KDarkLightScheduleProvider
-/lib/libKNightTime.so.6.7.5
+/lib/libKNightTime.so.6.8.0
 /lib/libKNightTime.so.0
 /lib/libKNightTime.so
 /lib/systemd/user/plasma-knighttimed.service

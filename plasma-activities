@@ -1,8 +1,9 @@
-6.7.5
+6.8.0
 /usr/lib
-/usr/lib/libPlasmaActivities.so.6.7.5
+/usr/lib/libPlasmaActivities.so.7
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/PlasmaActivities.pc
+/usr/lib/libPlasmaActivities.so.6.8.0
 /usr/lib/qml/org/kde/activities
 /usr/lib/qml/org/kde/activities/kde-qmlmodule.version
 /usr/lib/qml/org/kde/activities/libplasmaactivitiesextensionplugin.so
@@ -35,7 +36,7 @@
 /usr/include/PlasmaActivities/PlasmaActivities/Controller
 /usr/include/PlasmaActivities/PlasmaActivities/Version
 /usr/include/PlasmaActivities/PlasmaActivities/ResourceInstance
-/lib/libPlasmaActivities.so.6.7.5
+/lib/libPlasmaActivities.so.6.8.0
 /lib/libPlasmaActivities.so.7
 /lib/libPlasmaActivities.so
 /lib/pkgconfig/PlasmaActivities.pc

@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib
 /usr/lib/libplasma-welcome-publicplugin.a
 /usr/lib/plugins/kf6/kded
@@ -40,6 +40,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/plasma-welcome.mo
@@ -58,6 +61,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/sr@latin
+/usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/plasma-welcome.mo
@@ -73,6 +79,9 @@
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/sr@ijekavianlatin
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/plasma-welcome.mo
@@ -88,6 +97,9 @@
 /usr/share/locale/sa
 /usr/share/locale/sa/LC_MESSAGES
 /usr/share/locale/sa/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/sr@ijekavian
+/usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/plasma-welcome.mo
@@ -118,6 +130,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/plasma-welcome.mo
@@ -154,9 +169,13 @@
 /usr/share/locale/ca
 /usr/share/locale/ca/LC_MESSAGES
 /usr/share/locale/ca/LC_MESSAGES/plasma-welcome.mo
+/usr/share/applications
 /usr/share/applications/org.kde.plasma-welcome.desktop
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/welcome.categories
+/usr/share/config.kcfg
+/usr/share/config.kcfg/plasma-welcome.kcfg
+/usr/share/metainfo
 /usr/share/metainfo/org.kde.plasma-welcome.appdata.xml
 /usr/bin
 /usr/bin/plasma-welcome

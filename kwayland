@@ -1,8 +1,9 @@
-6.7.5
+6.8.0
 /usr/lib
-/usr/lib/libKWaylandClient.so.6.7.5
+/usr/lib/libKWaylandClient.so.6
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KWaylandClient.pc
+/usr/lib/libKWaylandClient.so.6.8.0
 /usr/lib/cmake/KWayland
 /usr/lib/cmake/KWayland/KWaylandTargets.cmake
 /usr/lib/cmake/KWayland/KWaylandConfig.cmake
@@ -55,7 +56,7 @@
 /usr/include/KWayland/KWayland/Client/xdgshell.h
 /usr/include/KWayland/KWayland/Client/textinput.h
 /usr/include/KWayland/kwayland_version.h
-/lib/libKWaylandClient.so.6.7.5
+/lib/libKWaylandClient.so.6.8.0
 /lib/libKWaylandClient.so.6
 /lib/libKWaylandClient.so
 /lib/cmake/KWayland/KWaylandConfig.cmake

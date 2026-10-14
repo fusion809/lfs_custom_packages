@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/platformthemes
 /usr/lib/plugins/platformthemes/KDEPlasmaPlatformTheme6.so
 /usr/share/locale
@@ -125,6 +125,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/plasmaintegration5.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/plasmaintegration5.mo
 /usr/share/locale/ml
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/plasmaintegration5.mo

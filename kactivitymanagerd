@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib
 /usr/lib/plugins/kactivitymanagerd1
 /usr/lib/plugins/kactivitymanagerd1/org.kde.ActivityManager.ActivityRunner.so
@@ -11,6 +11,7 @@
 /usr/lib/libkactivitymanagerd_plugin.so
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kactivitymanagerd.service
+/usr/share/krunner/dbusplugins
 /usr/share/krunner/dbusplugins/plasma-runnners-activities.desktop
 /usr/share/locale
 /usr/share/locale/bs

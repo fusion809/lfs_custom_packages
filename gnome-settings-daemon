@@ -1,5 +1,4 @@
-51.0
-/usr/lib
+51.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/gnome-settings-daemon.pc
 /usr/lib/udev/rules.d
@@ -283,8 +282,6 @@
 /usr/libexec/gsd-keyboard
 /usr/libexec/gsd-print-notifications
 /usr/libexec/gsd-wwan
-/usr/include
-/usr/include/gnome-settings-daemon-51
 /usr/include/gnome-settings-daemon-51/gnome-settings-daemon
 /usr/include/gnome-settings-daemon-51/gnome-settings-daemon/gsd-enums.h
 /etc/xdg/Xwayland-session.d

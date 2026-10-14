@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/ksystemstats
 /usr/lib/plugins/ksystemstats/ksystemstats_plugin_disk.so
 /usr/lib/plugins/ksystemstats/ksystemstats_plugin_gpu.so
@@ -45,6 +45,9 @@
 /usr/share/locale/vi
 /usr/share/locale/vi/LC_MESSAGES
 /usr/share/locale/vi/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/sr
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/ksystemstats_plugins.mo
@@ -63,6 +66,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/sr@latin
+/usr/share/locale/sr@latin/LC_MESSAGES
+/usr/share/locale/sr@latin/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/ksystemstats_plugins.mo
@@ -78,6 +84,9 @@
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/sr@ijekavianlatin
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
+/usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/ksystemstats_plugins.mo
@@ -93,6 +102,9 @@
 /usr/share/locale/sa
 /usr/share/locale/sa/LC_MESSAGES
 /usr/share/locale/sa/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/sr@ijekavian
+/usr/share/locale/sr@ijekavian/LC_MESSAGES
+/usr/share/locale/sr@ijekavian/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/ksystemstats_plugins.mo
@@ -120,6 +132,9 @@
 /usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/ksystemstats_plugins.mo
@@ -161,6 +176,7 @@
 /usr/bin/kstatsviewer
 /usr/bin/ksystemstats
 /usr/libexec
+/usr/libexec/ksystemstats_xe_helper
 /usr/libexec/ksystemstats_intel_helper
 /bin/ksystemstats
 /lib/systemd/user/plasma-ksystemstats.service

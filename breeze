@@ -1,4 +1,4 @@
-6.7.5
+6.8.0
 /usr/lib/plugins/org.kde.kdecoration3.kcm
 /usr/lib/plugins/org.kde.kdecoration3.kcm/kcm_breezedecoration.so
 /usr/lib/plugins/org.kde.kdecoration3
@@ -10,10 +10,13 @@
 /usr/lib/cmake/Breeze
 /usr/lib/cmake/Breeze/BreezeConfigVersion.cmake
 /usr/lib/cmake/Breeze/BreezeConfig.cmake
+/usr/share/kstyle/themes
 /usr/share/kstyle/themes/breeze.themerc
+/usr/share/color-schemes
 /usr/share/color-schemes/BreezeDark.colors
 /usr/share/color-schemes/BreezeLight.colors
 /usr/share/color-schemes/BreezeClassic.colors
+/usr/share/QtCurve
 /usr/share/QtCurve/Breeze.qtcurve
 /usr/share/locale
 /usr/share/locale/bs
@@ -187,6 +190,10 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/breeze_kwin_deco.mo
 /usr/share/locale/pl/LC_MESSAGES/breeze_style_config.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/breeze_kwin_deco.mo
+/usr/share/locale/ug/LC_MESSAGES/breeze_style_config.mo
 /usr/share/locale/ml
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/breeze_kwin_deco.mo
@@ -253,6 +260,9 @@
 /usr/share/applications
 /usr/share/applications/breezestyleconfig.desktop
 /usr/share/applications/kcm_breezedecoration.desktop
+/usr/share/config.kcfg
+/usr/share/config.kcfg/breeze.kcfg
+/usr/share/config.kcfg/breeze-decoration.kcfg
 /usr/share/wallpapers/Next
 /usr/share/wallpapers/Next/metadata.json
 /usr/share/wallpapers/Next/contents
@@ -266,6 +276,7 @@
 /usr/share/wallpapers/Next/contents/images_dark/5120x2880.png
 /usr/share/icons/hicolor
 /usr/share/icons/hicolor/icon-theme.cache
+/usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/breeze-settings.svgz
 /usr/share/icons/breeze_cursors
 /usr/share/icons/breeze_cursors/cursors
