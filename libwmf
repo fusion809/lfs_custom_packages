@@ -1,4 +1,4 @@
-0.2.16
+0.2.17
 /usr/lib
 /usr/lib/libwmflite.a
 /usr/lib/libwmf-0.2.so.7
@@ -10,10 +10,10 @@
 /usr/lib/pkgconfig/libwmf.pc
 /usr/lib/libwmf.la
 /usr/lib/libwmflite.so
-/usr/lib/libwmf-0.2.so.7.9.0
+/usr/lib/libwmf-0.2.so.7.10.0
 /usr/lib/libwmf.a
-/usr/lib/libwmflite-0.2.so.7.0.9
 /usr/lib/libwmflite.la
+/usr/lib/libwmflite-0.2.so.7.0.10
 /usr/lib/libwmf.so
 /usr/lib/libwmflite-0.2.so.7
 /usr/share/libwmf/fonts
