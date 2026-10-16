@@ -1,9 +1,9 @@
-299.7.1
+299.8.0
 /usr/lib
 /usr/lib/libgedit-gtksourceview-300.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libgedit-gtksourceview-300.pc
-/usr/lib/libgedit-gtksourceview-300.so.5
+/usr/lib/libgedit-gtksourceview-300.so.6
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/GtkSource-300.typelib
 /usr/share/gir-1.0
@@ -348,7 +348,6 @@
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourcestyle.h
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourcecompletionprovider.h
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourcesearchsettings.h
-/usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourceencoding.h
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksource-enumtypes.h
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourceiter.h
 /usr/include/libgedit-gtksourceview-300/gtksourceview/gtksourcemark.h
