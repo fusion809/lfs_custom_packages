@@ -1,0 +1,13 @@
+3.0.2.0
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libmarkdown.pc
+/usr/lib/libmarkdown.so
+/usr/lib/libmarkdown.so.3
+/usr/lib/libmarkdown.so.3.0.2
+/usr/bin
+/usr/bin/markdown
+/usr/include
+/usr/include/mkdio.h
+/etc
+/etc/ld.so.cache

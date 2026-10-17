@@ -1,0 +1,17 @@
+0.2.2
+/usr/lib
+/usr/lib/libepub.so.0
+/usr/lib/libepub.so
+/usr/lib/libepub.so.0.2.1
+/usr/bin
+/usr/bin/lit2epub
+/usr/bin/einfo
+/usr/include
+/usr/include/epub_version.h
+/usr/include/epub.h
+/usr/include/epub_shared.h
+/lib/libepub.so.0.2.1
+/lib/libepub.so.0
+/lib/libepub.so
+/bin/einfo
+/bin/lit2epub
