@@ -1,0 +1,13 @@
+82f46b64283b299b045a0295a09aadc11c644e1f
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/synctex.pc
+/usr/lib/libsynctex.so
+/usr/bin
+/usr/bin/synctex
+/usr/include
+/usr/include/synctex_version.h
+/usr/include/synctex_parser_utils.h
+/usr/include/synctex_parser_advanced.h
+/usr/include/synctex_parser.h
+/lib/pkgconfig
