@@ -1,4 +1,4 @@
-1.2.5
+1.2.6
 /usr/lib
 /usr/lib/libXtst.so.6.1.0
 /usr/lib/pkgconfig
@@ -8,8 +8,9 @@
 /usr/lib/libXtst.so.6
 /usr/lib/libXtst.so
 /usr/share/doc
-/usr/share/doc/recordlib.xml
-/usr/share/doc/xtestlib.xml
+/usr/share/doc/libXtst-1.2.6
+/usr/share/doc/libXtst-1.2.6/recordlib.xml
+/usr/share/doc/libXtst-1.2.6/xtestlib.xml
 /usr/share/man/man3
 /usr/share/man/man3/XTestQueryExtension.3
 /usr/share/man/man3/XTestCompareCursorWithWindow.3

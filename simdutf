@@ -1,15 +1,13 @@
-9.3.0
+9.3.1
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/simdutf.pc
-/usr/lib/libsimdutf.so
 /usr/lib/cmake/simdutf
 /usr/lib/cmake/simdutf/simdutf-config.cmake
 /usr/lib/cmake/simdutf/simdutfTargets.cmake
 /usr/lib/cmake/simdutf/simdutfTargets-release.cmake
 /usr/lib/cmake/simdutf/simdutf-config-version.cmake
 /usr/lib/libsimdutf.so.37.0.0
-/usr/lib/libsimdutf.so.37
 /usr/share/man/man1
 /usr/share/man/man1/sutf.1
 /usr/share/man/man1/fastbase64.1

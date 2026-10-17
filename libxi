@@ -1,4 +1,4 @@
-1.8.3
+1.8.4
 /usr/lib
 /usr/lib/libXi.so.6.1.0
 /usr/lib/libXi.la
@@ -8,9 +8,10 @@
 /usr/lib/libXi.so.6
 /usr/lib/libXi.so
 /usr/share/doc
-/usr/share/doc/encoding.xml
-/usr/share/doc/inputlib.xml
-/usr/share/doc/library.xml
+/usr/share/doc/libXi-1.8.4
+/usr/share/doc/libXi-1.8.4/encoding.xml
+/usr/share/doc/libXi-1.8.4/inputlib.xml
+/usr/share/doc/libXi-1.8.4/library.xml
 /usr/share/man/man3
 /usr/share/man/man3/XAllowDeviceEvents.3
 /usr/share/man/man3/XChangeDeviceDontPropagateList.3

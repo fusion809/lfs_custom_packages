@@ -1,4 +1,4 @@
-0.9.12
+0.9.13
 /usr/lib
 /usr/lib/libXrender.so.1
 /usr/lib/pkgconfig
@@ -8,7 +8,8 @@
 /usr/lib/libXrender.a
 /usr/lib/libXrender.so.1.3.0
 /usr/share/doc
-/usr/share/doc/libXrender.txt
+/usr/share/doc/libXrender-0.9.13
+/usr/share/doc/libXrender-0.9.13/libXrender.txt
 /usr/include/X11/extensions
 /usr/include/X11/extensions/Xrender.h
 /etc
