@@ -1,0 +1,14 @@
+24.1.14
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xwayland.pc
+/usr/lib/xorg
+/usr/lib/xorg/protocol.txt
+/usr/share/applications
+/usr/share/applications/org.freedesktop.Xwayland.desktop
+/usr/share/man/man1
+/usr/share/man/man1/Xserver.1
+/usr/share/man/man1/Xwayland.1
+/usr/bin
+/usr/bin/Xwayland
+/lib/xorg
+/lib/pkgconfig
