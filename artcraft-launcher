@@ -1,10 +1,6 @@
-0.4.1
-/usr/share/applications
+0.5.1
 /usr/share/applications/ai.storyteller.artcraft-launcher.desktop
-/usr/share/pixmaps
 /usr/share/pixmaps/ai.storyteller.artcraft-launcher.png
-/usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/ai.storyteller.artcraft-launcher.svg
-/usr/bin
 /usr/bin/artcraft-launcher
 /usr/bin/artcraft-launcher-web
