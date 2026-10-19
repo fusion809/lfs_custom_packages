@@ -7,9 +7,10 @@
 /usr/lib/libpkgconf.so
 /usr/share/doc
 /usr/share/doc/pkgconf-3.0.10
-/usr/share/doc/pkgconf-3.0.10/COPYING
-/usr/share/doc/pkgconf-3.0.10/AUTHORS
-/usr/share/doc/pkgconf-3.0.10/README.md
+/usr/share/doc/pkgconf-3.0.10/pkgconf
+/usr/share/doc/pkgconf-3.0.10/pkgconf/COPYING
+/usr/share/doc/pkgconf-3.0.10/pkgconf/AUTHORS
+/usr/share/doc/pkgconf-3.0.10/pkgconf/README.md
 /usr/share/aclocal
 /usr/share/aclocal/pkg.m4
 /usr/share/man/man7
