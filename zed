@@ -1,9 +1,6 @@
-1.24.2
+1.24.3
 /usr/share/applications
-/usr/share/applications/zed.desktop
-/usr/share/pixmaps
+/usr/share/applications/dev.zed.Zed.desktop
 /usr/share/pixmaps/zed.png
-/usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/zed.svg
-/usr/bin
 /usr/bin/zed
