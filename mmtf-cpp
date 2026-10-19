@@ -1,0 +1,14 @@
+1.1.0
+/usr/include
+/usr/include/mmtf.hpp
+/usr/include/mmtf
+/usr/include/mmtf/structure_data.hpp
+/usr/include/mmtf/export_helpers.hpp
+/usr/include/mmtf/errors.hpp
+/usr/include/mmtf/msgpack_decoders.hpp
+/usr/include/mmtf/decoder.hpp
+/usr/include/mmtf/msgpack_encoders.hpp
+/usr/include/mmtf/binary_decoder.hpp
+/usr/include/mmtf/map_decoder.hpp
+/usr/include/mmtf/binary_encoder.hpp
+/usr/include/mmtf/encoder.hpp
