@@ -1,6 +1,5 @@
-6.8.0
+6.8.1
 /usr/lib
-/usr/lib/libpowerdevilcore.so.6.8.0
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_powerdevilprofilesconfig.so
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_mobile_power.so
@@ -32,6 +31,7 @@
 /usr/lib/qml/org/kde/plasma/private/brightnesscontrolplugin/libbrightnesscontrolplugin.so
 /usr/lib/qml/org/kde/plasma/private/brightnesscontrolplugin/qmldir
 /usr/lib/qml/org/kde/plasma/private/brightnesscontrolplugin/brightnesscontrolplugin.qmltypes
+/usr/lib/libpowerdevilcore.so.6.8.1
 /usr/share/doc/HTML/et/kcontrol/powerdevil
 /usr/share/doc/HTML/et/kcontrol/powerdevil/index.docbook
 /usr/share/doc/HTML/et/kcontrol/powerdevil/index.cache.bz2
@@ -729,7 +729,7 @@
 /lib/plugins/powerdevil/action/powerdevil_dpmsaction.so
 /lib/plugins/powerdevil/action/powerdevil_powerprofileaction.so
 /lib/plugins/powerdevil/action/powerdevil_handlebuttoneventsaction.so
-/lib/libpowerdevilcore.so.6.8.0
+/lib/libpowerdevilcore.so.6.8.1
 /lib/libpowerdevilcore.so.2
 /lib/libpowerdevilcore.so
 /lib/systemd/user/plasma-powerdevil.service

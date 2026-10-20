@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/plasma5support/dataengine
 /usr/lib/plugins/plasma5support/dataengine/plasma_engine_bbcukmet.so
@@ -25,8 +25,8 @@
 /usr/lib/plugins/plasma5support/geolocationprovider
 /usr/lib/plugins/plasma5support/geolocationprovider/plasma-geolocation-ip.so
 /usr/lib/libplasma-geolocation-interface.so.6
-/usr/lib/libplasma-geolocation-interface.so.6.8.0
-/usr/lib/libPlasma5Support.so.6.8.0
+/usr/lib/libPlasma5Support.so.6.8.1
+/usr/lib/libplasma-geolocation-interface.so.6.8.1
 /usr/lib/qml/org/kde/plasma/plasma5support
 /usr/lib/qml/org/kde/plasma/plasma5support/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/plasma5support/qmldir
@@ -745,7 +745,7 @@
 /usr/include/plasma5support/weather
 /usr/include/plasma5support/weather/ion.h
 /usr/include/plasma5support/weather/ion_export.h
-/lib/libPlasma5Support.so.6.8.0
+/lib/libPlasma5Support.so.6.8.1
 /lib/libPlasma5Support.so.6
 /lib/libPlasma5Support.so
 /lib/qml/org/kde/plasma/plasma5support/libplasma5supportplugin.so
@@ -754,7 +754,7 @@
 /lib/qml/org/kde/plasma/plasma5support/kde-qmlmodule.version
 /lib/plugins/plasma5support/dataengine/plasma_engine_devicenotifications.so
 /lib/plugins/plasma5support/dataengine/plasma_engine_favicons.so
-/lib/libplasma-geolocation-interface.so.6.8.0
+/lib/libplasma-geolocation-interface.so.6.8.1
 /lib/libplasma-geolocation-interface.so.6
 /lib/libplasma-geolocation-interface.so
 /lib/plugins/plasma5support/dataengine/plasma_engine_geolocation.so

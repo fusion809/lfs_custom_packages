@@ -1,10 +1,10 @@
-6.8.0
+6.8.1
 /usr/lib
-/usr/lib/libKF6Screen.so.6.8.0
+/usr/lib/libKF6Screen.so.6.8.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Screen.pc
 /usr/lib/libKF6ScreenDpms.so.8
-/usr/lib/libKF6ScreenDpms.so.6.8.0
+/usr/lib/libKF6ScreenDpms.so.6.8.1
 /usr/lib/libKF6Screen.so.8
 /usr/lib/cmake/KF6Screen
 /usr/lib/cmake/KF6Screen/KF6ScreenConfig.cmake
@@ -137,10 +137,10 @@
 /usr/include/KF6/KScreen/KScreenDpms/Dpms
 /usr/include/KF6/kscreen_version.h
 /bin/kscreen-doctor
-/lib/libKF6ScreenDpms.so.6.8.0
+/lib/libKF6ScreenDpms.so.6.8.1
 /lib/libKF6ScreenDpms.so.8
 /lib/libKF6ScreenDpms.so
-/lib/libKF6Screen.so.6.8.0
+/lib/libKF6Screen.so.6.8.1
 /lib/libKF6Screen.so.8
 /lib/libKF6Screen.so
 /lib/pkgconfig/KF6Screen.pc

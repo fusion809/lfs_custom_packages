@@ -1,6 +1,8 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/libplasmaweatherdata.so.6
+/usr/lib/libplasmaweatherion.so.6.8.1
+/usr/lib/libplasmaweatherdata.so.6.8.1
 /usr/lib/plugins/plasmacalendarplugins
 /usr/lib/plugins/plasmacalendarplugins/astronomicalevents.so
 /usr/lib/plugins/plasmacalendarplugins/alternatecalendar.so
@@ -58,7 +60,6 @@
 /usr/lib/plugins/potd/plasma_potd_apodprovider.so
 /usr/lib/libplasmaweatherion.so.6
 /usr/lib/libplasmapotdprovidercore.so.2.0.0
-/usr/lib/libplasmaweatherdata.so.6.8.0
 /usr/lib/qml/org/kde/plasma/wallpapers/potd
 /usr/lib/qml/org/kde/plasma/wallpapers/potd/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/wallpapers/potd/libplasma_wallpaper_potdplugin.so
@@ -84,7 +85,6 @@
 /usr/lib/qml/org/kde/plasmacalendar/astronomicaleventsconfig/libplasmacalendarastronomicaleventsconfig.so
 /usr/lib/qml/org/kde/plasmacalendar/astronomicaleventsconfig/qmldir
 /usr/lib/qml/org/kde/plasmacalendar/astronomicaleventsconfig/plasmacalendarastronomicaleventsconfig.qmltypes
-/usr/lib/libplasmaweatherion.so.6.8.0
 /usr/lib/cmake/PlasmaPotdProvider
 /usr/lib/cmake/PlasmaPotdProvider/PlasmaPotdProviderTargets-release.cmake
 /usr/lib/cmake/PlasmaPotdProvider/PlasmaPotdProviderTargets.cmake
@@ -1482,6 +1482,7 @@
 /usr/share/locale/ru/LC_MESSAGES/kwin_effect_cube.mo
 /usr/share/locale/ru/LC_MESSAGES/plasma_applet_org.kde.plasma.webbrowser.mo
 /usr/share/locale/ru/LC_MESSAGES/plasma_applet_org.kde.plasma_applet_dict.mo
+/usr/share/locale/ru/LC_MESSAGES/plasma_wallpaper_org.kde.tiled.mo
 /usr/share/locale/ru/LC_MESSAGES/plasma_runner_colors.mo
 /usr/share/locale/ru/LC_MESSAGES/plasma_applet_org.kde.plasma.notes.mo
 /usr/share/locale/ru/LC_MESSAGES/plasma_runner_konsoleprofiles.mo
@@ -2397,10 +2398,10 @@
 /lib/plugins/plasma/applets/org.kde.plasma.notes.so
 /lib/plugins/plasma/applets/org.kde.plasma.quicklaunch.so
 /lib/plugins/plasma/applets/org.kde.plasma.timer.so
-/lib/libplasmaweatherdata.so.6.8.0
+/lib/libplasmaweatherdata.so.6.8.1
 /lib/libplasmaweatherdata.so.6
 /lib/libplasmaweatherdata.so
-/lib/libplasmaweatherion.so.6.8.0
+/lib/libplasmaweatherion.so.6.8.1
 /lib/libplasmaweatherion.so.6
 /lib/libplasmaweatherion.so
 /lib/plugins/plasma/weather_ions/bbcukmet.so

@@ -1,6 +1,5 @@
-6.8.0
+6.8.1
 /usr/lib
-/usr/lib/liboxygenstyleconfig6.so.6.8.0
 /usr/lib/plugins/org.kde.kdecoration3.kcm
 /usr/lib/plugins/org.kde.kdecoration3.kcm/kcm_oxygendecoration.so
 /usr/lib/plugins/org.kde.kdecoration3
@@ -10,7 +9,8 @@
 /usr/lib/plugins/styles
 /usr/lib/plugins/styles/oxygen6.so
 /usr/lib/liboxygenstyleconfig6.so.6
-/usr/lib/liboxygenstyle6.so.6.8.0
+/usr/lib/liboxygenstyle6.so.6.8.1
+/usr/lib/liboxygenstyleconfig6.so.6.8.1
 /usr/lib/liboxygenstyle6.so.6
 /usr/share/kstyle/themes
 /usr/share/kstyle/themes/oxygen.themerc
@@ -1863,9 +1863,9 @@
 /usr/bin
 /usr/bin/oxygen-settings6
 /usr/bin/oxygen-demo6
-/lib/liboxygenstyle6.so.6.8.0
+/lib/liboxygenstyle6.so.6.8.1
 /lib/liboxygenstyle6.so.6
-/lib/liboxygenstyleconfig6.so.6.8.0
+/lib/liboxygenstyleconfig6.so.6.8.1
 /lib/liboxygenstyleconfig6.so.6
 /lib/plugins/styles/oxygen6.so
 /lib/plugins/kstyle_config/kstyle_oxygen_config.so

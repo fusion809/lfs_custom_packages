@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_bluetooth.so
 /usr/lib/plugins/plasma/applets
@@ -712,6 +712,7 @@
 /usr/share/mime/application/x-commodore-d71-disk.xml
 /usr/share/mime/application/x-pcapng.xml
 /usr/share/mime/application/vnd.ms-excel.sheet.macroenabled.12.xml
+/usr/share/mime/application/x-molsketch-molecule.xml
 /usr/share/mime/application/raml+yaml.xml
 /usr/share/mime/application/x-hwpx.xml
 /usr/share/mime/application/x-wii-rom.xml
@@ -832,6 +833,7 @@
 /usr/share/mime/application/appxbundle.xml
 /usr/share/mime/application/x-asar.xml
 /usr/share/mime/application/vnd.mozilla.xul+xml.xml
+/usr/share/mime/application/vnd.adobe.indesign-idml-package.xml
 /usr/share/mime/application/msix.xml
 /usr/share/mime/application/x-apple-diskimage.xml
 /usr/share/mime/application/mathml+xml.xml
@@ -857,6 +859,7 @@
 /usr/share/mime/application/x-kpovmodeler.xml
 /usr/share/mime/application/x-nes-rom.xml
 /usr/share/mime/application/trig.xml
+/usr/share/mime/application/x-designcraft.xml
 /usr/share/mime/application/x-pkcs12.xml
 /usr/share/mime/application/vnd.ms-works.xml
 /usr/share/mime/application/x-msdownload.xml
@@ -1136,6 +1139,8 @@
 /usr/share/mime/application/toml.xml
 /usr/share/mime/application/x-openvpn-profile.xml
 /usr/share/mime/application/illustrator.xml
+/usr/share/mime/application/x-filmcraft.xml
+/usr/share/mime/application/x-molsketch.xml
 /usr/share/mime/application/x-n64-rom.xml
 /usr/share/mime/application/x-ms-pdb.xml
 /usr/share/mime/application/x-lha.xml

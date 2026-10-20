@@ -1,8 +1,8 @@
-6.8.0
+6.8.1
 /usr/lib
+/usr/lib/libkdecorations3private.so.6.8.1
 /usr/lib/libkdecorations3private.so.2
-/usr/lib/libkdecorations3private.so.6.8.0
-/usr/lib/libkdecorations3.so.6.8.0
+/usr/lib/libkdecorations3.so.6.8.1
 /usr/lib/cmake/KDecoration3
 /usr/lib/cmake/KDecoration3/KDecoration3ConfigVersion.cmake
 /usr/lib/cmake/KDecoration3/KDecoration3Config.cmake
@@ -206,10 +206,10 @@
 /usr/include/KDecoration3/kdecoration3/decorationshadow.h
 /usr/include/KF6
 /usr/include/KF6/kdecoration3_version.h
-/lib/libkdecorations3private.so.6.8.0
+/lib/libkdecorations3private.so.6.8.1
 /lib/libkdecorations3private.so.2
 /lib/libkdecorations3private.so
-/lib/libkdecorations3.so.6.8.0
+/lib/libkdecorations3.so.6.8.1
 /lib/libkdecorations3.so.6
 /lib/libkdecorations3.so
 /lib/cmake/KDecoration3/KDecoration3Config.cmake

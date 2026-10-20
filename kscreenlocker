@@ -1,9 +1,8 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_screenlocker.so
-/usr/lib/libKScreenLocker.so.6.8.0
-/usr/lib/qml/org/kde
+/usr/lib/libKScreenLocker.so.6.8.1
 /usr/lib/qml/org/kde/kscreenlocker
 /usr/lib/qml/org/kde/kscreenlocker/qmldir
 /usr/lib/qml/org/kde/kscreenlocker/kscreenlocker_greet.qmltypes
@@ -339,7 +338,7 @@
 /lib/qml/org/kde/kscreenlocker/kscreenlocker_greet.qmltypes
 /lib/plugins/plasma/kcms/systemsettings/kcm_screenlocker.so
 /lib/cmake/ScreenSaverDBusInterface/ScreenSaverDBusInterfaceConfig.cmake
-/lib/libKScreenLocker.so.6.8.0
+/lib/libKScreenLocker.so.6.8.1
 /lib/libKScreenLocker.so.6
 /lib/libKScreenLocker.so
 /lib/cmake/KScreenLocker/KScreenLockerTargets.cmake

@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/plasma/kcms/desktop
 /usr/lib/plugins/plasma/kcms/desktop/kcm_krunnersettings.so
@@ -49,6 +49,7 @@
 /usr/lib/plugins/kf6/kded/screenreader.so
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kaccess.service
+/usr/lib/libkglobalaccelmodel.so.6.8.1
 /usr/lib/libkglobalaccelmodel.so.6
 /usr/lib/qml/org/kde/plasma/activityswitcher
 /usr/lib/qml/org/kde/plasma/activityswitcher/kde-qmlmodule.version
@@ -70,7 +71,6 @@
 /usr/lib/qml/org/kde/private/desktopcontainment/folder/qmldir
 /usr/lib/qml/org/kde/private/desktopcontainment/folder/libfolderplugin.so
 /usr/lib/qml/org/kde/private/desktopcontainment/folder/folderplugin.qmltypes
-/usr/lib/libkglobalaccelmodel.so.6.8.0
 /usr/share/doc/HTML/et/kcontrol/solid-actions
 /usr/share/doc/HTML/et/kcontrol/solid-actions/index.docbook
 /usr/share/doc/HTML/et/kcontrol/solid-actions/index.cache.bz2
@@ -2379,6 +2379,7 @@
 /usr/share/locale/eu/LC_MESSAGES/kcm_access.mo
 /usr/share/locale/eu/LC_MESSAGES/plasma_applet_org.kde.plasma.showActivityManager.mo
 /usr/share/locale/eu/LC_MESSAGES/kcm_touchscreen.mo
+/usr/share/locale/eu/LC_MESSAGES/plasma_applet_org.kde.plasma.dwellclicker.mo
 /usr/share/locale/eu/LC_MESSAGES/kcm_kded.mo
 /usr/share/locale/eu/LC_MESSAGES/knetattach.mo
 /usr/share/locale/eu/LC_MESSAGES/kcm_solid_actions.mo
@@ -4810,7 +4811,7 @@
 /lib/plugins/plasma/kcms/systemsettings_qwidgets/kcm_clock.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_splashscreen.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_landingpage.so
-/lib/libkglobalaccelmodel.so.6.8.0
+/lib/libkglobalaccelmodel.so.6.8.1
 /lib/libkglobalaccelmodel.so.6
 /lib/plugins/plasma/kcms/systemsettings/kcm_keys.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_smserver.so

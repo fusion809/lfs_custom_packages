@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_printer_manager.so
@@ -117,6 +117,7 @@
 /usr/share/locale/eu/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/eu/LC_MESSAGES/print-manager.mo
 /usr/share/locale/eu/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/eu/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
@@ -222,6 +223,7 @@
 /usr/share/locale/ru/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo
 /usr/share/locale/ru/LC_MESSAGES/print-manager.mo
 /usr/share/locale/ru/LC_MESSAGES/kcm_printer_manager.mo
+/usr/share/locale/ru/LC_MESSAGES/org.kde.plasma.printqueue.mo
 /usr/share/locale/he
 /usr/share/locale/he/LC_MESSAGES
 /usr/share/locale/he/LC_MESSAGES/plasma_applet_org.kde.plasma.printmanager.mo

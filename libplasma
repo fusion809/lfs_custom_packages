@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/kf6/kirigami/platform
 /usr/lib/plugins/kf6/kirigami/platform/KirigamiPlasmaStyle.so
@@ -10,8 +10,8 @@
 /usr/lib/plugins/kf6/packagestructure/plasma_generic.so
 /usr/lib/plugins/kf6/packagestructure/plasma_theme.so
 /usr/lib/libPlasma.so.8
-/usr/lib/libPlasma.so
-/usr/lib/libPlasma.so.6.8.0
+/usr/lib/libPlasmaQuick.so.6.8.1
+/usr/lib/libPlasma.so.6.8.1
 /usr/lib/libPlasmaQuick.so.8
 /usr/lib/qml/org/kde/kirigami/styles/Plasma
 /usr/lib/qml/org/kde/kirigami/styles/Plasma/AbstractApplicationHeader.qml
@@ -140,8 +140,6 @@
 /usr/lib/cmake/PlasmaQuick/PlasmaQuickConfig.cmake
 /usr/lib/cmake/PlasmaQuick/PlasmaQuickConfigVersion.cmake
 /usr/lib/cmake/PlasmaQuick/PlasmaQuickTargets-release.cmake
-/usr/lib/libPlasmaQuick.so
-/usr/lib/libPlasmaQuick.so.6.8.0
 /usr/share/plasma/desktoptheme/default
 /usr/share/plasma/desktoptheme/default/solid/dialogs
 /usr/share/plasma/desktoptheme/default/solid/dialogs/background.svgz
@@ -531,7 +529,7 @@
 /lib/plugins/kf6/packagestructure/plasma_containmentactions.so
 /lib/plugins/kf6/packagestructure/plasma_wallpaper.so
 /lib/plugins/kf6/packagestructure/plasma_shell.so
-/lib/libPlasma.so.6.8.0
+/lib/libPlasma.so.6.8.1
 /lib/libPlasma.so.8
 /lib/libPlasma.so
 /lib/qml/org/kde/plasma/core/libcorebindingsplugin.so
@@ -637,7 +635,7 @@
 /lib/qml/org/kde/plasma/configuration/qmldir
 /lib/qml/org/kde/plasma/configuration/plasmaconfigplugin.qmltypes
 /lib/qml/org/kde/plasma/configuration/kde-qmlmodule.version
-/lib/libPlasmaQuick.so.6.8.0
+/lib/libPlasmaQuick.so.6.8.1
 /lib/libPlasmaQuick.so.8
 /lib/libPlasmaQuick.so
 /lib/qml/org/kde/plasma/plasmoid/libplasmoidplugin.so

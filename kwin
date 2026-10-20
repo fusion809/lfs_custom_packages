@@ -1,8 +1,7 @@
-6.8.0
+6.8.1
 /usr/lib
+/usr/lib/libkwin.so.6.8.1
 /usr/lib/libkwin.so.6
-/usr/lib/plugins/kwin-x11
-/usr/lib/plugins/kwin-x11/effects
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_kwinrules.so
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_kwin_scripts.so
@@ -56,7 +55,7 @@
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kwin_wayland.service
 /usr/lib/libkcmkwincommon.so.6
-/usr/lib/libkcmkwincommon.so.6.8.0
+/usr/lib/libkcmkwincommon.so.6.8.1
 /usr/lib/kconf_update_bin
 /usr/lib/kconf_update_bin/kwin-6.0-remove-breeze-tabbox-default
 /usr/lib/kconf_update_bin/kwin-6.0-delete-desktop-switching-shortcuts
@@ -75,8 +74,6 @@
 /usr/lib/qml/org/kde/kwin/private/effects/qmldir
 /usr/lib/qml/org/kde/kwin/private/effects/WindowHeapDelegate.qml
 /usr/lib/qml/org/kde/kwin/private/effects/libeffectsplugin.so
-/usr/lib/qml/org/kde/kwin_x11/private
-/usr/lib/cmake
 /usr/lib/cmake/KWin
 /usr/lib/cmake/KWin/KWinConfigVersion.cmake
 /usr/lib/cmake/KWin/KWinTargets.cmake
@@ -85,8 +82,6 @@
 /usr/lib/cmake/KWin/FindLibdrm.cmake
 /usr/lib/cmake/KWinDBusInterface
 /usr/lib/cmake/KWinDBusInterface/KWinDBusInterfaceConfig.cmake
-/usr/lib/libkwin.so.6.8.0
-/usr/share/doc/HTML/it/kcontrol
 /usr/share/doc/HTML/it/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/it/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/it/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -141,7 +136,6 @@
 /usr/share/doc/HTML/sl/kcontrol/kwintouchscreen
 /usr/share/doc/HTML/sl/kcontrol/kwintouchscreen/index.docbook
 /usr/share/doc/HTML/sl/kcontrol/kwintouchscreen/index.cache.bz2
-/usr/share/doc/HTML/tr/kcontrol
 /usr/share/doc/HTML/tr/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/tr/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/tr/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -172,7 +166,6 @@
 /usr/share/doc/HTML/sr/kcontrol/desktop
 /usr/share/doc/HTML/sr/kcontrol/desktop/index.docbook
 /usr/share/doc/HTML/sr/kcontrol/desktop/index.cache.bz2
-/usr/share/doc/HTML/nl/kcontrol
 /usr/share/doc/HTML/nl/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/nl/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/nl/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -218,7 +211,6 @@
 /usr/share/doc/HTML/sr@latin/kcontrol/desktop
 /usr/share/doc/HTML/sr@latin/kcontrol/desktop/index.docbook
 /usr/share/doc/HTML/sr@latin/kcontrol/desktop/index.cache.bz2
-/usr/share/doc/HTML/en/kcontrol
 /usr/share/doc/HTML/en/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/en/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/en/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -446,7 +438,6 @@
 /usr/share/doc/HTML/pt/kcontrol/kwintabbox
 /usr/share/doc/HTML/pt/kcontrol/kwintabbox/index.docbook
 /usr/share/doc/HTML/pt/kcontrol/kwintabbox/index.cache.bz2
-/usr/share/doc/HTML/uk/kcontrol
 /usr/share/doc/HTML/uk/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/uk/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/uk/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -504,7 +495,6 @@
 /usr/share/doc/HTML/sv/kcontrol/kwintouchscreen
 /usr/share/doc/HTML/sv/kcontrol/kwintouchscreen/index.docbook
 /usr/share/doc/HTML/sv/kcontrol/kwintouchscreen/index.cache.bz2
-/usr/share/doc/HTML/pt_BR/kcontrol
 /usr/share/doc/HTML/pt_BR/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/pt_BR/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/pt_BR/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -533,7 +523,6 @@
 /usr/share/doc/HTML/pt_BR/kcontrol/kwintouchscreen
 /usr/share/doc/HTML/pt_BR/kcontrol/kwintouchscreen/index.docbook
 /usr/share/doc/HTML/pt_BR/kcontrol/kwintouchscreen/index.cache.bz2
-/usr/share/doc/HTML/ca/kcontrol
 /usr/share/doc/HTML/ca/kcontrol/kwinvirtualkeyboard
 /usr/share/doc/HTML/ca/kcontrol/kwinvirtualkeyboard/index.docbook
 /usr/share/doc/HTML/ca/kcontrol/kwinvirtualkeyboard/index.cache.bz2
@@ -566,19 +555,6 @@
 /usr/share/doc/HTML/ca/kcontrol/kwintouchscreen/index.cache.bz2
 /usr/share/krunner/dbusplugins
 /usr/share/krunner/dbusplugins/kwin-runner-windows.desktop
-/usr/share/kwin-x11
-/usr/share/kwin-x11/scripts
-/usr/share/kwin-x11/frames
-/usr/share/kwin-x11/kcm_kwintabbox
-/usr/share/kwin-x11/tabbox
-/usr/share/kwin-x11/effects
-/usr/share/kwin-x11/effects/outputlocator
-/usr/share/kwin-x11/effects/tileseditor
-/usr/share/kwin-x11/effects/windowview
-/usr/share/kwin-x11/effects/showfps
-/usr/share/kwin-x11/outline
-/usr/share/kwin-x11/builtin-effects
-/usr/share/kwin-x11/onscreennotification
 /usr/share/locale
 /usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
@@ -1709,7 +1685,6 @@
 /usr/share/applications/kcm_kwin_scripts.desktop
 /usr/share/applications/kcm_kwindecoration.desktop
 /usr/share/kwin
-/usr/share/kwin/scripts
 /usr/share/kwin/scripts/videowall
 /usr/share/kwin/scripts/videowall/metadata.json
 /usr/share/kwin/scripts/videowall/contents
@@ -1735,19 +1710,16 @@
 /usr/share/kwin/scripts/minimizeall/contents
 /usr/share/kwin/scripts/minimizeall/contents/code
 /usr/share/kwin/scripts/minimizeall/contents/code/main.js
-/usr/share/kwin/frames
 /usr/share/kwin/frames/plasma
 /usr/share/kwin/frames/plasma/frame_none.qml
 /usr/share/kwin/frames/plasma/frame_styled.qml
 /usr/share/kwin/frames/plasma/frame_unstyled.qml
-/usr/share/kwin/tabbox
 /usr/share/kwin/tabbox/thumbnail_grid
 /usr/share/kwin/tabbox/thumbnail_grid/metadata.json
 /usr/share/kwin/tabbox/thumbnail_grid/contents
 /usr/share/kwin/tabbox/thumbnail_grid/contents/ui
 /usr/share/kwin/tabbox/thumbnail_grid/contents/ui/main.qml
 /usr/share/kwin/tm_outer.png
-/usr/share/kwin/effects
 /usr/share/kwin/effects/fadedesktop
 /usr/share/kwin/effects/fadedesktop/metadata.json
 /usr/share/kwin/effects/fadedesktop/contents
@@ -1846,7 +1818,6 @@
 /usr/share/kwin/effects/frozenapp/contents
 /usr/share/kwin/effects/frozenapp/contents/code
 /usr/share/kwin/effects/frozenapp/contents/code/main.js
-/usr/share/kwin/outline
 /usr/share/kwin/outline/plasma
 /usr/share/kwin/outline/plasma/outline.qml
 /usr/share/kwin/builtin-effects
@@ -1889,7 +1860,6 @@
 /usr/share/kwin/builtin-effects/showfps.json
 /usr/share/kwin/builtin-effects/blendchanges.json
 /usr/share/kwin/tm_inner.png
-/usr/share/kwin/onscreennotification
 /usr/share/kwin/onscreennotification/plasma
 /usr/share/kwin/onscreennotification/plasma/dummydata
 /usr/share/kwin/onscreennotification/plasma/dummydata/osd.qml
@@ -1940,7 +1910,6 @@
 /usr/libexec/kwin_eis_prompter
 /usr/libexec/kwin_dialog_helper
 /usr/libexec/kwin_killer_helper
-/usr/include
 /usr/include/kwin
 /usr/include/kwin/input_event_spy.h
 /usr/include/kwin/idledetector.h
@@ -2246,8 +2215,6 @@
 /usr/include/kwin/layershellv1integration.h
 /usr/include/kwin/waylandshellintegration.h
 /usr/include/kwin/onscreennotification.h
-/etc
-/etc/sddm.conf
 /etc/xdg
 /etc/xdg/kwinrulesrc
 /lib/kconf_update_bin/kwin-6.0-delete-desktop-switching-shortcuts
@@ -2257,7 +2224,7 @@
 /lib/kconf_update_bin/kwin-6.5-showpaint-changes
 /bin/kwin_wayland_wrapper
 /bin/kwindowprop
-/lib/libkcmkwincommon.so.6.8.0
+/lib/libkcmkwincommon.so.6.8.1
 /lib/libkcmkwincommon.so.6
 /lib/plugins/kwin/effects/configs/kcm_kwin4_genericscripted.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_animations.so
@@ -2314,7 +2281,7 @@
 /lib/plugins/kwin/plugins/krunnerintegration.so
 /lib/plugins/kwin/plugins/eis.so
 /lib/plugins/kwin/plugins/gamecontroller.so
-/lib/libkwin.so.6.8.0
+/lib/libkwin.so.6.8.1
 /lib/libkwin.so.6
 /lib/libkwin.so
 /bin/kwin_wayland

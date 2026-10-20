@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/libplasmanm_internal.so
 /usr/lib/plugins/plasma/kcms/systemsettings
@@ -762,11 +762,13 @@
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_vpncui.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_openvpnui.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_strongswanui.mo
+/usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement-kcm-qml.mo
 /usr/share/locale/ru/LC_MESSAGES/kcm_mobile_hotspot.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_fortisslvpnui.mo
 /usr/share/locale/ru/LC_MESSAGES/kcm_mobile_wifi.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_pptpui.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_libreswanui.mo
+/usr/share/locale/ru/LC_MESSAGES/kcm_mobile_wired.mo
 /usr/share/locale/ru/LC_MESSAGES/kcm_cellular_network.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement_sshui.mo
 /usr/share/locale/ru/LC_MESSAGES/plasmanetworkmanagement-libs.mo

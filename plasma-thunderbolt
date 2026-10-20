@@ -1,4 +1,4 @@
-6.8.0
+6.8.1
 /usr/lib
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_bolt.so
@@ -220,7 +220,6 @@
 /usr/share/locale/ca/LC_MESSAGES/kcm_bolt.mo
 /usr/share/applications
 /usr/share/applications/kcm_bolt.desktop
-/usr/share/knotifications6
 /usr/share/knotifications6/kded_bolt.notifyrc
 /lib/libkbolt.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_bolt.so
