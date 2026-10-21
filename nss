@@ -1,4 +1,4 @@
-3.131
+3.131.1
 /usr/lib
 /usr/lib/libfreeblpriv3.so
 /usr/lib/libsmime3.so
@@ -274,3 +274,5 @@
 /usr/include/nss/pkix_pl_ocspresponse.h
 /usr/include/nss/cryptohi.h
 /usr/include/nss/certi.h
+/boot/grub
+/boot/grub/grub.cfg
