@@ -1,0 +1,12 @@
+1.5.4
+/usr/lib
+/usr/lib/libmpfi.so
+/usr/lib/libmpfi.so.0.0.0
+/usr/lib/libmpfi.la
+/usr/lib/libmpfi.so.0
+/usr/share/info
+/usr/share/info/mpfi.info
+/usr/share/info/dir
+/usr/include
+/usr/include/mpfi.h
+/usr/include/mpfi_io.h

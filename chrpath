@@ -1,0 +1,14 @@
+0.18
+/usr/share/man
+/usr/share/man/doc
+/usr/share/man/doc/chrpath
+/usr/share/man/doc/chrpath/COPYING
+/usr/share/man/doc/chrpath/AUTHORS
+/usr/share/man/doc/chrpath/README
+/usr/share/man/doc/chrpath/INSTALL
+/usr/share/man/doc/chrpath/NEWS
+/usr/share/man/doc/chrpath/ChangeLog
+/usr/share/man/man1
+/usr/share/man/man1/chrpath.1
+/usr/bin
+/usr/bin/chrpath
