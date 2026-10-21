@@ -1,9 +1,7 @@
-0.11.1
+0.13.0
 /usr/share/mime/packages/ai.storyteller.effectcraft.mime.xml
 /usr/share/applications/ai.storyteller.effectcraft.desktop
 /usr/share/pixmaps/ai.storyteller.effectcraft.png
 /usr/share/icons/hicolor/scalable/apps/ai.storyteller.effectcraft.svg
 /usr/bin/effectcraft
 /usr/bin/effectcraft-cli
-/boot/grub
-/boot/grub/grub.cfg
