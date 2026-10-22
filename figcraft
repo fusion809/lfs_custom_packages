@@ -1,7 +1,9 @@
-0.8.0
+0.9.0
 /usr/share/mime/packages/ai.storyteller.figcraft.mime.xml
 /usr/share/applications/ai.storyteller.figcraft.desktop
 /usr/share/pixmaps/ai.storyteller.figcraft.png
 /usr/share/icons/hicolor/scalable/apps/ai.storyteller.figcraft.svg
 /usr/bin/figcraft-cli
 /usr/bin/figcraft
+/opt/scilab/share/scilab/contrib
+/opt/scilab/share/scilab/.atoms
