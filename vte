@@ -268,10 +268,3 @@
 /usr/include/vte-2.91-gtk4/vte/vte.h
 /usr/include/vte-2.91-gtk4/vte/vteuuid.h
 /usr/include/vte-2.91-gtk4/vte/vteversion.h
-/etc/profile.d
-/lib/girepository-1.0
-/lib/pkgconfig
-/lib/systemd/user/vte-spawn-.scope.d
-/lib/libvte-2.91.so.0
-/lib/libvte-2.91.so
-/lib/libvte-2.91-gtk4.so
