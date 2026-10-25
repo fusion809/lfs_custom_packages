@@ -1,4 +1,4 @@
-2026.4
+2026.5
 /usr/lib
 /usr/lib/tmpfiles.d
 /usr/lib/tmpfiles.d/ostree-tmpfiles.conf
@@ -22,9 +22,11 @@
 /usr/lib/ostree
 /usr/lib/ostree/ostree-remount
 /usr/lib/ostree/ostree-prepare-root
-/usr/share/doc/libostree-2026.4/COPYING
-/usr/share/doc/libostree-2026.4/TODO
-/usr/share/doc/libostree-2026.4/README.md
+/usr/share/doc
+/usr/share/doc/libostree-2026.5
+/usr/share/doc/libostree-2026.5/COPYING
+/usr/share/doc/libostree-2026.5/TODO
+/usr/share/doc/libostree-2026.5/README.md
 /usr/share/gir-1.0
 /usr/share/gir-1.0/OSTree-1.0.gir
 /usr/share/ostree/trusted.gpg.d

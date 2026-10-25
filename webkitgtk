@@ -1,8 +1,7 @@
-2.54.1
+2.54.2
 /usr/lib
 /usr/lib/webkitgtk-6.0/injected-bundle
 /usr/lib/webkitgtk-6.0/injected-bundle/libwebkitgtkinjectedbundle.so
-/usr/lib/libjavascriptcoregtk-6.0.so.1.8.8
 /usr/lib/libjavascriptcoregtk-4.1.so.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/webkitgtk-6.0.pc
@@ -12,9 +11,10 @@
 /usr/lib/pkgconfig/javascriptcoregtk-6.0.pc
 /usr/lib/pkgconfig/webkit2gtk-4.1.pc
 /usr/lib/libwebkit2gtk-4.1.so.0
-/usr/lib/libjavascriptcoregtk-4.1.so.0.11.8
-/usr/lib/libwebkit2gtk-4.1.so.0.24.4
+/usr/lib/libwebkitgtk-6.0.so.4.19.5
+/usr/lib/libwebkit2gtk-4.1.so.0.24.5
 /usr/lib/libwebkitgtk-6.0.so.4
+/usr/lib/libjavascriptcoregtk-6.0.so.1.8.9
 /usr/lib/webkit2gtk-4.1/injected-bundle
 /usr/lib/webkit2gtk-4.1/injected-bundle/libwebkit2gtkinjectedbundle.so
 /usr/lib/libjavascriptcoregtk-6.0.so.1
@@ -25,7 +25,7 @@
 /usr/lib/girepository-1.0/WebKitWebProcessExtension-6.0.typelib
 /usr/lib/girepository-1.0/JavaScriptCore-4.1.typelib
 /usr/lib/girepository-1.0/JavaScriptCore-6.0.typelib
-/usr/lib/libwebkitgtk-6.0.so.4.19.4
+/usr/lib/libjavascriptcoregtk-4.1.so.0.11.9
 /usr/share/gir-1.0
 /usr/share/gir-1.0/WebKitWebProcessExtension-6.0.gir
 /usr/share/gir-1.0/WebKit2-4.1.gir
@@ -191,6 +191,7 @@
 /usr/share/locale/or/LC_MESSAGES/WebKitGTK-6.0.mo
 /usr/bin
 /usr/bin/WebKitWebDriver
+/usr/bin/__pycache__
 /usr/libexec/webkitgtk-6.0
 /usr/libexec/webkitgtk-6.0/WebKitWebProcess
 /usr/libexec/webkitgtk-6.0/jsc
@@ -528,7 +529,7 @@
 /usr/include/webkitgtk-4.1/webkit/WebKitDeviceInfoPermissionRequest.h
 /lib/pkgconfig/javascriptcoregtk-4.1.pc
 /lib/girepository-1.0/JavaScriptCore-4.1.typelib
-/lib/libjavascriptcoregtk-4.1.so.0.11.8
+/lib/libjavascriptcoregtk-4.1.so.0.11.9
 /lib/libjavascriptcoregtk-4.1.so.0
 /lib/libjavascriptcoregtk-4.1.so
 /lib/webkit2gtk-4.1/injected-bundle/libwebkit2gtkinjectedbundle.so
@@ -536,12 +537,12 @@
 /lib/pkgconfig/webkit2gtk-web-extension-4.1.pc
 /lib/girepository-1.0/WebKit2-4.1.typelib
 /lib/girepository-1.0/WebKit2WebExtension-4.1.typelib
-/lib/libwebkit2gtk-4.1.so.0.24.4
+/lib/libwebkit2gtk-4.1.so.0.24.5
 /lib/libwebkit2gtk-4.1.so.0
 /lib/libwebkit2gtk-4.1.so
 /lib/pkgconfig/javascriptcoregtk-6.0.pc
 /lib/girepository-1.0/JavaScriptCore-6.0.typelib
-/lib/libjavascriptcoregtk-6.0.so.1.8.8
+/lib/libjavascriptcoregtk-6.0.so.1.8.9
 /lib/libjavascriptcoregtk-6.0.so.1
 /lib/libjavascriptcoregtk-6.0.so
 /lib/webkitgtk-6.0/injected-bundle/libwebkitgtkinjectedbundle.so
@@ -549,7 +550,7 @@
 /lib/pkgconfig/webkitgtk-web-process-extension-6.0.pc
 /lib/girepository-1.0/WebKit-6.0.typelib
 /lib/girepository-1.0/WebKitWebProcessExtension-6.0.typelib
-/lib/libwebkitgtk-6.0.so.4.19.4
+/lib/libwebkitgtk-6.0.so.4.19.5
 /lib/libwebkitgtk-6.0.so.4
 /lib/libwebkitgtk-6.0.so
 /bin/WebKitWebDriver

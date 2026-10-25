@@ -1,6 +1,4 @@
-2.0.0
-/usr/share/doc
-/usr/share/doc/AvogadroApp
+2.1.0
 /usr/share/doc/AvogadroApp/avogadro2
 /usr/share/doc/AvogadroApp/avogadro2/CONTRIBUTING.md
 /usr/share/doc/AvogadroApp/avogadro2/LICENSE
@@ -9,6 +7,8 @@
 /usr/share/applications/org.openchemistry.Avogadro2.desktop
 /usr/share/metainfo
 /usr/share/metainfo/org.openchemistry.Avogadro2.metainfo.xml
+/usr/share/pixmaps
+/usr/share/pixmaps/org.openchemistry.Avogadro2.png
 /usr/share/icons/hicolor/32x32@2/apps
 /usr/share/icons/hicolor/32x32@2/apps/org.openchemistry.Avogadro2.png
 /usr/share/icons/hicolor/16x16@2/apps

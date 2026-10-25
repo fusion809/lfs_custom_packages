@@ -42,12 +42,10 @@
 /usr/lib/postgresql/euc_kr_and_mic.so
 /usr/lib/postgresql/cyrillic_and_mic.so
 /usr/lib/postgresql/utf8_and_gbk.so
-/usr/lib/postgresql/pgxs
 /usr/lib/postgresql/pgxs/config
 /usr/lib/postgresql/pgxs/config/install-sh
 /usr/lib/postgresql/pgxs/config/missing
 /usr/lib/postgresql/pgxs/src
-/usr/lib/postgresql/pgxs/src/test
 /usr/lib/postgresql/pgxs/src/test/isolation
 /usr/lib/postgresql/pgxs/src/test/isolation/isolationtester
 /usr/lib/postgresql/pgxs/src/test/isolation/pg_isolation_regress
@@ -72,7 +70,6 @@
 /usr/lib/libecpg_compat.so.3.18
 /usr/lib/libpgport_shlib.a
 /usr/lib/libpgfeutils.a
-/usr/share
 /usr/share/postgresql
 /usr/share/postgresql/timezone
 /usr/share/postgresql/timezone/GMT-0
@@ -803,8 +800,6 @@
 /usr/include/pgtypes_numeric.h
 /usr/include/libpq-fe.h
 /usr/include/sqlca.h
-/usr/include/postgresql
-/usr/include/postgresql/informix
 /usr/include/postgresql/informix/esql
 /usr/include/postgresql/informix/esql/decimal.h
 /usr/include/postgresql/informix/esql/sqltypes.h

@@ -1,9 +1,9 @@
-3.8.0
+3.8.1
 /usr/lib
 /usr/lib/libsoup-3.0.so.0
-/usr/lib/libsoup-3.0.so.0.8.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libsoup-3.0.pc
+/usr/lib/libsoup-3.0.so.0.8.1
 /usr/lib/libsoup-3.0.so
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/Soup-3.0.typelib
