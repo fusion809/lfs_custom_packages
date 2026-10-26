@@ -1,4 +1,4 @@
-0.22.2
+0.22.3
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libraw_r.pc
@@ -11,11 +11,12 @@
 /usr/lib/libraw.so.25
 /usr/lib/libraw_r.so
 /usr/lib/libraw_r.so.25
-/usr/share/doc/libraw-0.22.2
-/usr/share/doc/libraw-0.22.2/COPYRIGHT
-/usr/share/doc/libraw-0.22.2/Changelog.txt
-/usr/share/doc/libraw-0.22.2/LICENSE.CDDL
-/usr/share/doc/libraw-0.22.2/LICENSE.LGPL
+/usr/share/doc
+/usr/share/doc/libraw-0.22.3
+/usr/share/doc/libraw-0.22.3/COPYRIGHT
+/usr/share/doc/libraw-0.22.3/Changelog.txt
+/usr/share/doc/libraw-0.22.3/LICENSE.CDDL
+/usr/share/doc/libraw-0.22.3/LICENSE.LGPL
 /usr/bin
 /usr/bin/multirender_test
 /usr/bin/rawtextdump
