@@ -1,7 +1,9 @@
-6.0.5
-/usr/share/doc/gnuplot-6.0.5/RELEASE_NOTES
-/usr/share/doc/gnuplot-6.0.5/NEWS
-/usr/share/doc/gnuplot-6.0.5/Copyright
+6.0.6
+/usr/share/doc
+/usr/share/doc/gnuplot-6.0.6
+/usr/share/doc/gnuplot-6.0.6/RELEASE_NOTES
+/usr/share/doc/gnuplot-6.0.6/NEWS
+/usr/share/doc/gnuplot-6.0.6/Copyright
 /usr/share/gnuplot/gnuplot/6.0
 /usr/share/gnuplot/gnuplot/6.0/colors_mono.gp
 /usr/share/gnuplot/gnuplot/6.0/lua
@@ -52,3 +54,9 @@
 /usr/man/man1/gnuplot.1
 /usr/man/ja/man1
 /usr/man/ja/man1/gnuplot.1
+/opt/texlive/texmf-local/tex/latex/gnuplot
+/opt/texlive/texmf-local/tex/latex/gnuplot/gnuplot-lua-tikz-common.tex
+/opt/texlive/texmf-local/tex/latex/gnuplot/gnuplot-lua-tikz.tex
+/opt/texlive/texmf-local/tex/latex/gnuplot/t-gnuplot-lua-tikz.tex
+/opt/texlive/texmf-local/tex/latex/gnuplot/gnuplot-lua-tikz.sty
+/opt/texlive/texmf-local/tex/latex/gnuplot/gnuplot.cfg
