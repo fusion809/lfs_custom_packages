@@ -1,7 +1,12 @@
-5cd52257da0e3889a909af056e6ef68b749a6059
+f170c73f4974312f978e388339a6a1805920f5b3
 /usr/share/applications
+/usr/share/applications/io.github.jchempaint.JChemPaint.desktop
 /usr/share/applications/woxi-studio.desktop
 /usr/share/pixmaps
+/usr/share/pixmaps/io.github.jchempaint.JChemPaint.png
 /usr/share/pixmaps/woxi.png
 /usr/bin
+/usr/bin/jchempaint
 /usr/bin/woxi
+/usr/bin/woxi-studio
+/opt/jchempaint/jchempaint.jar
