@@ -1,4 +1,4 @@
-6a1a8b8afd07ef4f6afc9fff320771fa26671f8d
+1d4194059ff7596ea48f941bf1eb7a507d86134d
 /usr/lib
 /usr/lib/liblapack.so.3.12.1
 /usr/lib/libcblas.so.3.12.1
@@ -22,10 +22,6 @@
 /usr/lib/cmake/lapack-3.12.1/lapack-targets.cmake
 /usr/lib/cmake/lapack-3.12.1/blas-targets-none.cmake
 /usr/lib/libcblas.a
-/usr/share/applications
-/usr/share/applications/woxi-studio.desktop
-/usr/share/pixmaps
-/usr/share/pixmaps/woxi.png
 /usr/include
 /usr/include/lapacke_mangling.h
 /usr/include/cblas.h
