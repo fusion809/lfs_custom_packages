@@ -1,4 +1,4 @@
-2.10.3
+2.10.4
 /usr/sbin
 /usr/sbin/cracklib-format
 /usr/sbin/create-cracklib-dict
@@ -22,8 +22,6 @@
 /usr/lib/python3.15/site-packages/cracklib.py
 /usr/lib/python3.15/site-packages/test_cracklib.py
 /usr/lib/python3.15/site-packages/_cracklib.so
-/usr/lib/python3.15/site-packages/_distutils_hack/__pycache__
-/usr/lib/python3.15/site-packages/_distutils_hack/__pycache__/__init__.cpython-315.opt-1.pyc
 /usr/lib/libcrack.so.2
 /usr/lib/libcrack.so.2.9.0
 /usr/share/cracklib
