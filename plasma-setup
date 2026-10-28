@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/tmpfiles.d
 /usr/lib/tmpfiles.d/plasma-setup-tmpfiles.conf
@@ -190,6 +190,9 @@
 /usr/share/locale/es
 /usr/share/locale/es/LC_MESSAGES
 /usr/share/locale/es/LC_MESSAGES/org.kde.plasmasetup.mo
+/usr/share/locale/el
+/usr/share/locale/el/LC_MESSAGES
+/usr/share/locale/el/LC_MESSAGES/org.kde.plasmasetup.mo
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/org.kde.plasmasetup.mo

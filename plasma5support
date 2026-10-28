@@ -1,5 +1,6 @@
-6.8.1
+6.8.2
 /usr/lib
+/usr/lib/libPlasma5Support.so.6.8.2
 /usr/lib/plugins/plasma5support/dataengine
 /usr/lib/plugins/plasma5support/dataengine/plasma_engine_bbcukmet.so
 /usr/lib/plugins/plasma5support/dataengine/plasma_engine_mouse.so
@@ -25,8 +26,6 @@
 /usr/lib/plugins/plasma5support/geolocationprovider
 /usr/lib/plugins/plasma5support/geolocationprovider/plasma-geolocation-ip.so
 /usr/lib/libplasma-geolocation-interface.so.6
-/usr/lib/libPlasma5Support.so.6.8.1
-/usr/lib/libplasma-geolocation-interface.so.6.8.1
 /usr/lib/qml/org/kde/plasma/plasma5support
 /usr/lib/qml/org/kde/plasma/plasma5support/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/plasma5support/qmldir
@@ -38,6 +37,7 @@
 /usr/lib/cmake/Plasma5Support/Plasma5SupportTargets-release.cmake
 /usr/lib/cmake/Plasma5Support/Plasma5SupportConfigVersion.cmake
 /usr/lib/cmake/Plasma5Support/Plasma5SupportTargets.cmake
+/usr/lib/libplasma-geolocation-interface.so.6.8.2
 /usr/lib/libPlasma5Support.so.6
 /usr/lib/libweather_ion.so.7.0.0
 /usr/share/plasma/weather_legacy
@@ -745,7 +745,7 @@
 /usr/include/plasma5support/weather
 /usr/include/plasma5support/weather/ion.h
 /usr/include/plasma5support/weather/ion_export.h
-/lib/libPlasma5Support.so.6.8.1
+/lib/libPlasma5Support.so.6.8.2
 /lib/libPlasma5Support.so.6
 /lib/libPlasma5Support.so
 /lib/qml/org/kde/plasma/plasma5support/libplasma5supportplugin.so
@@ -754,7 +754,7 @@
 /lib/qml/org/kde/plasma/plasma5support/kde-qmlmodule.version
 /lib/plugins/plasma5support/dataengine/plasma_engine_devicenotifications.so
 /lib/plugins/plasma5support/dataengine/plasma_engine_favicons.so
-/lib/libplasma-geolocation-interface.so.6.8.1
+/lib/libplasma-geolocation-interface.so.6.8.2
 /lib/libplasma-geolocation-interface.so.6
 /lib/libplasma-geolocation-interface.so
 /lib/plugins/plasma5support/dataengine/plasma_engine_geolocation.so

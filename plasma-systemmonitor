@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/libPlasmaSystemMonitorPage.so
 /usr/lib/libPlasmaSystemMonitorTable.so
@@ -159,6 +159,11 @@
 /usr/share/locale/eo/LC_MESSAGES/ksysguard_face_org.kde.ksysguard.applicationstable.mo
 /usr/share/locale/eo/LC_MESSAGES/ksysguard_face_org.kde.ksysguard.processtable.mo
 /usr/share/locale/eo/LC_MESSAGES/plasma-systemmonitor.mo
+/usr/share/locale/el
+/usr/share/locale/el/LC_MESSAGES
+/usr/share/locale/el/LC_MESSAGES/ksysguard_face_org.kde.ksysguard.applicationstable.mo
+/usr/share/locale/el/LC_MESSAGES/ksysguard_face_org.kde.ksysguard.processtable.mo
+/usr/share/locale/el/LC_MESSAGES/plasma-systemmonitor.mo
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/ksysguard_face_org.kde.ksysguard.applicationstable.mo

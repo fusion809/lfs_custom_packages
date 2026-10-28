@@ -1,8 +1,8 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/plugins/wayland-shell-integration
 /usr/lib/plugins/wayland-shell-integration/liblayer-shell.so
-/usr/lib/libLayerShellQtInterface.so.6.8.1
+/usr/lib/libLayerShellQtInterface.so.6.8.2
 /usr/lib/qml/org/kde/layershell
 /usr/lib/qml/org/kde/layershell/kde-qmlmodule.version
 /usr/lib/qml/org/kde/layershell/LayerShellQtQml.qmltypes
@@ -21,7 +21,7 @@
 /usr/include/LayerShellQt/Shell
 /usr/include/LayerShellQt/Window
 /lib/plugins/wayland-shell-integration/liblayer-shell.so
-/lib/libLayerShellQtInterface.so.6.8.1
+/lib/libLayerShellQtInterface.so.6.8.2
 /lib/libLayerShellQtInterface.so.6
 /lib/libLayerShellQtInterface.so
 /lib/qml/org/kde/layershell/libLayerShellQtQml.so

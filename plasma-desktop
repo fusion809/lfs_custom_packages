@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/plugins/plasma/kcms/desktop
 /usr/lib/plugins/plasma/kcms/desktop/kcm_krunnersettings.so
@@ -49,7 +49,7 @@
 /usr/lib/plugins/kf6/kded/screenreader.so
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kaccess.service
-/usr/lib/libkglobalaccelmodel.so.6.8.1
+/usr/lib/libkglobalaccelmodel.so.6.8.2
 /usr/lib/libkglobalaccelmodel.so.6
 /usr/lib/qml/org/kde/plasma/activityswitcher
 /usr/lib/qml/org/kde/plasma/activityswitcher/kde-qmlmodule.version
@@ -2713,6 +2713,7 @@
 /usr/share/locale/el/LC_MESSAGES/kcm_device_automounter.mo
 /usr/share/locale/el/LC_MESSAGES/kcm_plasmasearch.mo
 /usr/share/locale/el/LC_MESSAGES/plasma_shell_org.kde.plasma.desktop.mo
+/usr/share/locale/el/LC_MESSAGES/plasma_runner_keys.mo
 /usr/share/locale/el/LC_MESSAGES/kcmkclock.mo
 /usr/share/locale/el/LC_MESSAGES/plasma_applet_org.kde.plasma.kickoff.mo
 /usr/share/locale/el/LC_MESSAGES/kcm_landingpage.mo
@@ -2738,6 +2739,7 @@
 /usr/share/locale/el/LC_MESSAGES/kcm_access.mo
 /usr/share/locale/el/LC_MESSAGES/plasma_applet_org.kde.plasma.showActivityManager.mo
 /usr/share/locale/el/LC_MESSAGES/kcm_touchscreen.mo
+/usr/share/locale/el/LC_MESSAGES/plasma_applet_org.kde.plasma.dwellclicker.mo
 /usr/share/locale/el/LC_MESSAGES/kcm_kded.mo
 /usr/share/locale/el/LC_MESSAGES/knetattach.mo
 /usr/share/locale/el/LC_MESSAGES/kcm_solid_actions.mo
@@ -3493,6 +3495,7 @@
 /usr/share/locale/ja/LC_MESSAGES/kcm_access.mo
 /usr/share/locale/ja/LC_MESSAGES/plasma_applet_org.kde.plasma.showActivityManager.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_touchscreen.mo
+/usr/share/locale/ja/LC_MESSAGES/plasma_applet_org.kde.plasma.dwellclicker.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_kded.mo
 /usr/share/locale/ja/LC_MESSAGES/knetattach.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_solid_actions.mo
@@ -4811,7 +4814,7 @@
 /lib/plugins/plasma/kcms/systemsettings_qwidgets/kcm_clock.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_splashscreen.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_landingpage.so
-/lib/libkglobalaccelmodel.so.6.8.1
+/lib/libkglobalaccelmodel.so.6.8.2
 /lib/libkglobalaccelmodel.so.6
 /lib/plugins/plasma/kcms/systemsettings/kcm_keys.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_smserver.so

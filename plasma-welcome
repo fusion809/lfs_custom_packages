@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/libplasma-welcome-publicplugin.a
 /usr/lib/plugins/kf6/kded
@@ -76,6 +76,9 @@
 /usr/share/locale/eo
 /usr/share/locale/eo/LC_MESSAGES
 /usr/share/locale/eo/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/el
+/usr/share/locale/el/LC_MESSAGES
+/usr/share/locale/el/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/plasma-welcome.mo

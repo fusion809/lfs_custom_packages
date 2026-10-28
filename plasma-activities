@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/libPlasmaActivities.so.7
 /usr/lib/pkgconfig
@@ -13,7 +13,7 @@
 /usr/lib/cmake/PlasmaActivities/PlasmaActivitiesConfigVersion.cmake
 /usr/lib/cmake/PlasmaActivities/PlasmaActivitiesConfig.cmake
 /usr/lib/cmake/PlasmaActivities/PlasmaActivitiesLibraryTargets.cmake
-/usr/lib/libPlasmaActivities.so.6.8.1
+/usr/lib/libPlasmaActivities.so.6.8.2
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/plasma-activities.categories
 /usr/share/qlogging-categories6/plasma-activities.renamecategories
@@ -36,7 +36,7 @@
 /usr/include/PlasmaActivities/PlasmaActivities/Controller
 /usr/include/PlasmaActivities/PlasmaActivities/Version
 /usr/include/PlasmaActivities/PlasmaActivities/ResourceInstance
-/lib/libPlasmaActivities.so.6.8.1
+/lib/libPlasmaActivities.so.6.8.2
 /lib/libPlasmaActivities.so.7
 /lib/libPlasmaActivities.so
 /lib/pkgconfig/PlasmaActivities.pc

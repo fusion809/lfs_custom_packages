@@ -1,6 +1,6 @@
-6.8.1
+6.8.2
 /usr/lib
-/usr/lib/libkwin.so.6.8.1
+/usr/lib/libkcmkwincommon.so.6.8.2
 /usr/lib/libkwin.so.6
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_kwinrules.so
@@ -55,7 +55,7 @@
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kwin_wayland.service
 /usr/lib/libkcmkwincommon.so.6
-/usr/lib/libkcmkwincommon.so.6.8.1
+/usr/lib/libkwin.so.6.8.2
 /usr/lib/kconf_update_bin
 /usr/lib/kconf_update_bin/kwin-6.0-remove-breeze-tabbox-default
 /usr/lib/kconf_update_bin/kwin-6.0-delete-desktop-switching-shortcuts
@@ -1966,8 +1966,8 @@
 /usr/include/kwin/workspace.h
 /usr/include/kwin/activities.h
 /usr/include/kwin/utils
-/usr/include/kwin/utils/vsyncmonitor.h
 /usr/include/kwin/utils/cursortheme.h
+/usr/include/kwin/utils/vsyncsource.h
 /usr/include/kwin/utils/kernel.h
 /usr/include/kwin/utils/udev.h
 /usr/include/kwin/utils/realtime.h
@@ -1980,7 +1980,6 @@
 /usr/include/kwin/utils/orientationsensor.h
 /usr/include/kwin/utils/version.h
 /usr/include/kwin/utils/common.h
-/usr/include/kwin/utils/softwarevsyncmonitor.h
 /usr/include/kwin/utils/filedescriptor.h
 /usr/include/kwin/utils/ramfile.h
 /usr/include/kwin/utils/gravity.h
@@ -2215,8 +2214,6 @@
 /usr/include/kwin/layershellv1integration.h
 /usr/include/kwin/waylandshellintegration.h
 /usr/include/kwin/onscreennotification.h
-/etc/xdg
-/etc/xdg/kwinrulesrc
 /lib/kconf_update_bin/kwin-6.0-delete-desktop-switching-shortcuts
 /lib/kconf_update_bin/kwin-6.0-reset-active-mouse-screen
 /lib/kconf_update_bin/kwin-6.0-remove-breeze-tabbox-default
@@ -2224,7 +2221,7 @@
 /lib/kconf_update_bin/kwin-6.5-showpaint-changes
 /bin/kwin_wayland_wrapper
 /bin/kwindowprop
-/lib/libkcmkwincommon.so.6.8.1
+/lib/libkcmkwincommon.so.6.8.2
 /lib/libkcmkwincommon.so.6
 /lib/plugins/kwin/effects/configs/kcm_kwin4_genericscripted.so
 /lib/plugins/plasma/kcms/systemsettings/kcm_animations.so
@@ -2281,7 +2278,7 @@
 /lib/plugins/kwin/plugins/krunnerintegration.so
 /lib/plugins/kwin/plugins/eis.so
 /lib/plugins/kwin/plugins/gamecontroller.so
-/lib/libkwin.so.6.8.1
+/lib/libkwin.so.6.8.2
 /lib/libkwin.so.6
 /lib/libkwin.so
 /bin/kwin_wayland

@@ -1,12 +1,12 @@
-6.8.1
+6.8.2
 /usr/lib
+/usr/lib/libplasma-volume.so.6.8.2
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_pulseaudio.so
 /usr/lib/plugins/plasma/applets
 /usr/lib/plugins/plasma/applets/org.kde.plasma.volume.so
 /usr/lib/plugins/kf6/kded
 /usr/lib/plugins/kf6/kded/audioshortcutsservice.so
-/usr/lib/libplasma-volume.so.6.8.1
 /usr/lib/qml/org/kde/plasma/private/volume
 /usr/lib/qml/org/kde/plasma/private/volume/libplasma-volume-declarative.so
 /usr/lib/qml/org/kde/plasma/private/volume/kde-qmlmodule.version
@@ -292,7 +292,7 @@
 /lib/qml/org/kde/plasma/private/volume/plasma-volume-declarative.qmltypes
 /lib/qml/org/kde/plasma/private/volume/PulseObjectFilterModel.qml
 /lib/qml/org/kde/plasma/private/volume/kde-qmlmodule.version
-/lib/libplasma-volume.so.6.8.1
+/lib/libplasma-volume.so.6.8.2
 /lib/libplasma-volume.so.6
 /lib/plugins/plasma/kcms/systemsettings/kcm_pulseaudio.so
 /lib/plugins/kf6/kded/audioshortcutsservice.so

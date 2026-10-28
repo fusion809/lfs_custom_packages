@@ -1,4 +1,4 @@
-6.8.1
+6.8.2
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_bluetooth.so
 /usr/lib/plugins/plasma/applets
@@ -229,7 +229,6 @@
 /usr/share/mime/image/svg+xml-compressed.xml
 /usr/share/mime/image/x-gzeps.xml
 /usr/share/mime/image/jxl.xml
-/usr/share/mime/image/x-paintnet.xml
 /usr/share/mime/image/vnd.zbrush.pcx.xml
 /usr/share/mime/image/x-kodak-k25.xml
 /usr/share/mime/image/x-kodak-kdc.xml
@@ -322,7 +321,6 @@
 /usr/share/mime/image/x-tim.xml
 /usr/share/mime/image/ktx.xml
 /usr/share/mime/image/qoi.xml
-/usr/share/mime/image/x-psb.xml
 /usr/share/mime/image/x-samsung-srw.xml
 /usr/share/mime/image/x-sigma-x3f.xml
 /usr/share/mime/image/x-cmu-raster.xml
@@ -586,7 +584,6 @@
 /usr/share/mime/application/mac-binhex40.xml
 /usr/share/mime/application/x-trash.xml
 /usr/share/mime/application/x-font-vfont.xml
-/usr/share/mime/application/x-soundcraft-session.xml
 /usr/share/mime/application/x-spectrum-d80.xml
 /usr/share/mime/application/epub+zip.xml
 /usr/share/mime/application/x-spectrum-pzx.xml
@@ -657,7 +654,6 @@
 /usr/share/mime/application/geo+json.xml
 /usr/share/mime/application/x-kpresenter.xml
 /usr/share/mime/application/x-pak.xml
-/usr/share/mime/application/x-deckcraft.xml
 /usr/share/mime/application/x-webarchive.xml
 /usr/share/mime/application/x-qw.xml
 /usr/share/mime/application/x-macbinary.xml
@@ -738,6 +734,7 @@
 /usr/share/mime/application/x-pkcs7-certificates.xml
 /usr/share/mime/application/x-kchart.xml
 /usr/share/mime/application/x-starwriter.xml
+/usr/share/mime/application/x-spss-sps.xml
 /usr/share/mime/application/x-kexiproject-sqlite2.xml
 /usr/share/mime/application/vnd.sun.xml.writer.xml
 /usr/share/mime/application/buildstream+yaml.xml
@@ -833,7 +830,6 @@
 /usr/share/mime/application/appxbundle.xml
 /usr/share/mime/application/x-asar.xml
 /usr/share/mime/application/vnd.mozilla.xul+xml.xml
-/usr/share/mime/application/vnd.adobe.indesign-idml-package.xml
 /usr/share/mime/application/msix.xml
 /usr/share/mime/application/x-apple-diskimage.xml
 /usr/share/mime/application/mathml+xml.xml
@@ -859,7 +855,6 @@
 /usr/share/mime/application/x-kpovmodeler.xml
 /usr/share/mime/application/x-nes-rom.xml
 /usr/share/mime/application/trig.xml
-/usr/share/mime/application/x-designcraft.xml
 /usr/share/mime/application/x-pkcs12.xml
 /usr/share/mime/application/vnd.ms-works.xml
 /usr/share/mime/application/x-msdownload.xml
@@ -962,7 +957,6 @@
 /usr/share/mime/application/fits.xml
 /usr/share/mime/application/vnd.oasis.opendocument.text.xml
 /usr/share/mime/application/vnd.sun.xml.impress.xml
-/usr/share/mime/application/x-figcraft.xml
 /usr/share/mime/application/x-dvi.xml
 /usr/share/mime/application/vnd.sun.xml.draw.xml
 /usr/share/mime/application/x-bcpio.xml
@@ -1021,7 +1015,6 @@
 /usr/share/mime/application/x-lzip.xml
 /usr/share/mime/application/x-nintendo-switch-xci.xml
 /usr/share/mime/application/x-bzip2.xml
-/usr/share/mime/application/x-photocraft.xml
 /usr/share/mime/application/x-rpm.xml
 /usr/share/mime/application/x-profile.xml
 /usr/share/mime/application/x-font-snf.xml
@@ -1072,6 +1065,7 @@
 /usr/share/mime/application/x-dia-diagram.xml
 /usr/share/mime/application/x-virtual-boy-rom.xml
 /usr/share/mime/application/x-spectrum-mdr.xml
+/usr/share/mime/application/x-spss-spv.xml
 /usr/share/mime/application/x-kourse.xml
 /usr/share/mime/application/vnd.tcpdump.pcap.xml
 /usr/share/mime/application/x-atari-2600-rom.xml
@@ -1139,7 +1133,6 @@
 /usr/share/mime/application/toml.xml
 /usr/share/mime/application/x-openvpn-profile.xml
 /usr/share/mime/application/illustrator.xml
-/usr/share/mime/application/x-filmcraft.xml
 /usr/share/mime/application/x-molsketch.xml
 /usr/share/mime/application/x-n64-rom.xml
 /usr/share/mime/application/x-ms-pdb.xml

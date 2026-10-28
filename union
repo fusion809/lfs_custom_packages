@@ -1,9 +1,6 @@
-6.8.1
+6.8.2
 /usr/lib
-/usr/lib/libUnionQuickStyle.so.6.8.1
-/usr/lib/libUnionQuickImpl.so.6.8.1
 /usr/lib/libUnionQuickStyle.so.6
-/usr/lib/libUnion.so.6.8.1
 /usr/lib/plugins/union
 /usr/lib/plugins/union/union-platform-plasma.so
 /usr/lib/plugins/union/union-colorprovider-kcolorscheme.so
@@ -13,6 +10,7 @@
 /usr/lib/plugins/styles
 /usr/lib/plugins/styles/UnionWidgetsStyle.so
 /usr/lib/libUnionQuickImpl.so.6
+/usr/lib/libUnion.so.6.8.2
 /usr/lib/qml/org/kde/union
 /usr/lib/qml/org/kde/union/Label.qml
 /usr/lib/qml/org/kde/union/Menu.qml
@@ -108,7 +106,9 @@
 /usr/lib/cmake/Union/UnionConfig.cmake
 /usr/lib/cmake/Union/UnionTargets.cmake
 /usr/lib/cmake/Union/UnionConfigVersion.cmake
+/usr/lib/libUnionQuickStyle.so.6.8.2
 /usr/lib/libUnion.so.6
+/usr/lib/libUnionQuickImpl.so.6.8.2
 /usr/share/kstyle/themes
 /usr/share/kstyle/themes/union.themerc
 /usr/share/union/css/defaults
@@ -191,13 +191,13 @@
 /usr/include/union/Union/union_export.h
 /usr/include/union/Union/PropertiesTypes.h
 /lib/plugins/union/union-input-css.so
-/lib/libUnionQuickImpl.so.6.8.1
+/lib/libUnionQuickImpl.so.6.8.2
 /lib/libUnionQuickImpl.so.6
 /lib/qml/org/kde/union/impl/libUnionQuickImplplugin.so
 /lib/qml/org/kde/union/impl/qmldir
 /lib/qml/org/kde/union/impl/UnionQuickImpl.qmltypes
 /lib/qml/org/kde/union/impl/kde-qmlmodule.version
-/lib/libUnionQuickStyle.so.6.8.1
+/lib/libUnionQuickStyle.so.6.8.2
 /lib/libUnionQuickStyle.so.6
 /lib/qml/org/kde/union/libUnionQuickStyleplugin.so
 /lib/qml/org/kde/union/qmldir
@@ -285,7 +285,7 @@
 /lib/qml/org/kde/kirigami/styles/org.kde.union/OverlayDrawer.qml
 /lib/plugins/union/union-colorprovider-kcolorscheme.so
 /lib/plugins/union/union-platform-plasma.so
-/lib/libUnion.so.6.8.1
+/lib/libUnion.so.6.8.2
 /lib/libUnion.so.6
 /lib/libUnion.so
 /bin/union-ruleinspector

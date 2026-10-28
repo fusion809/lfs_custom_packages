@@ -1,7 +1,7 @@
-6.8.1
+6.8.2
 /usr/lib
 /usr/lib/libKGlobalAccelD.so.0
-/usr/lib/libKGlobalAccelD.so.6.8.1
+/usr/lib/libKGlobalAccelD.so.6.8.2
 /usr/lib/cmake/KGlobalAccelD
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets.cmake
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets-release.cmake
@@ -13,7 +13,7 @@
 /usr/include/KGlobalAccelD/kglobalacceld_export.h
 /usr/include/KGlobalAccelD/shortcutkeystate.h
 /usr/include/KGlobalAccelD/kglobalacceld.h
-/lib/libKGlobalAccelD.so.6.8.1
+/lib/libKGlobalAccelD.so.6.8.2
 /lib/libKGlobalAccelD.so.0
 /lib/cmake/KGlobalAccelD/KGlobalAccelDConfig.cmake
 /lib/cmake/KGlobalAccelD/KGlobalAccelDConfigVersion.cmake
