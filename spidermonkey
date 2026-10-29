@@ -1,0 +1,11 @@
+140.17.0
+/usr/lib
+/usr/lib/pkgconfig/mozjs-140.pc
+/usr/lib/libmozjs-140.so
+/usr/bin
+/usr/bin/js140
+/usr/bin/js140-config
+/usr/include/mozjs-140
+/usr/include/mozjs-140/ProfilingCategoryList.h
+/usr/include/mozjs-140/js-config.h
+/usr/include/mozjs-140/js/ProfilingCategoryList.h
