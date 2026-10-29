@@ -2,4 +2,9 @@
 /usr/share/applications/io.github.jchempaint.JChemPaint.desktop
 /usr/share/pixmaps/io.github.jchempaint.JChemPaint.png
 /usr/bin/jchempaint
+/etc
+/etc/lfs-release
+/etc/lsb-release
+/etc/os-release
+/etc/blfs-release
 /opt/jchempaint/jchempaint.jar
