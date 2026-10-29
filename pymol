@@ -1,6 +1,4 @@
-patchingfilemodules/pmg_qt/pymol_qt_gui.py
-/usr/lib/python3.15/site-packages
-/usr/lib/python3.15/site-packages/pmg_qt
+3.1.0
 /usr/lib/python3.15/site-packages/pmg_qt/__pycache__
 /usr/lib/python3.15/site-packages/pmg_qt/__pycache__/advanced_settings_gui.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pmg_qt/__pycache__/volume.cpython-315.pyc
@@ -42,7 +40,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_qt/pymol_gl_widget.py
 /usr/lib/python3.15/site-packages/pmg_qt/volume.py
 /usr/lib/python3.15/site-packages/pmg_qt/mimic_tk.py
-/usr/lib/python3.15/site-packages/pmg_qt/forms
 /usr/lib/python3.15/site-packages/pmg_qt/forms/pluginitem.ui
 /usr/lib/python3.15/site-packages/pmg_qt/forms/pluginmanager.ui
 /usr/lib/python3.15/site-packages/pmg_qt/forms/__pycache__
@@ -68,7 +65,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_qt/forms/save_object.ui
 /usr/lib/python3.15/site-packages/pmg_qt/forms/load_traj.ui
 /usr/lib/python3.15/site-packages/pmg_qt/shortcut_menu_gui.py
-/usr/lib/python3.15/site-packages/pmg_qt/syntax
 /usr/lib/python3.15/site-packages/pmg_qt/syntax/__pycache__
 /usr/lib/python3.15/site-packages/pmg_qt/syntax/__pycache__/python.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pmg_qt/syntax/__pycache__/pml.cpython-315.opt-1.pyc
@@ -83,8 +79,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_qt/syntax/__init__.py
 /usr/lib/python3.15/site-packages/pmg_qt/syntax/pmlparser.py
 /usr/lib/python3.15/site-packages/pmg_qt/scene_bin_gui.py
-/usr/lib/python3.15/site-packages/web
-/usr/lib/python3.15/site-packages/web/examples
 /usr/lib/python3.15/site-packages/web/examples/__pycache__
 /usr/lib/python3.15/site-packages/web/examples/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/web/examples/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -92,7 +86,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/web/examples/__pycache__/justhttpd.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/web/examples/__init__.py
 /usr/lib/python3.15/site-packages/web/examples/justhttpd.py
-/usr/lib/python3.15/site-packages/pymol
 /usr/lib/python3.15/site-packages/pymol/vfont.py
 /usr/lib/python3.15/site-packages/pymol/xwin.py
 /usr/lib/python3.15/site-packages/pymol/morphing.py
@@ -239,7 +232,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/fitting.py
 /usr/lib/python3.15/site-packages/pymol/controlling.py
 /usr/lib/python3.15/site-packages/pymol/setting.py
-/usr/lib/python3.15/site-packages/pymol/plugins
 /usr/lib/python3.15/site-packages/pymol/plugins/__pycache__
 /usr/lib/python3.15/site-packages/pymol/plugins/__pycache__/legacysupport.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/plugins/__pycache__/legacysupport.cpython-315.pyc
@@ -275,7 +267,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/cgobuilder.py
 /usr/lib/python3.15/site-packages/pymol/colorramping.py
 /usr/lib/python3.15/site-packages/pymol/gui.py
-/usr/lib/python3.15/site-packages/pymol/Qt
 /usr/lib/python3.15/site-packages/pymol/Qt/__pycache__
 /usr/lib/python3.15/site-packages/pymol/Qt/__pycache__/utils.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol/Qt/__pycache__/__init__.cpython-315.pyc
@@ -287,7 +278,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/cmd.py
 /usr/lib/python3.15/site-packages/pymol/monitoring.py
 /usr/lib/python3.15/site-packages/pymol/constants.py
-/usr/lib/python3.15/site-packages/pymol/stereochemistry
 /usr/lib/python3.15/site-packages/pymol/stereochemistry/__pycache__
 /usr/lib/python3.15/site-packages/pymol/stereochemistry/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol/stereochemistry/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -304,9 +294,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/shortcut_manager.py
 /usr/lib/python3.15/site-packages/pymol/querying.py
 /usr/lib/python3.15/site-packages/pymol/completing.py
-/usr/lib/python3.15/site-packages/pymol/pymol_path
-/usr/lib/python3.15/site-packages/pymol/pymol_path/test
-/usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/embed04.p1m
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/1tii.pdb
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/names.pdb
@@ -330,32 +317,22 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/3al1.pdb
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/odd01.pdb
 /usr/lib/python3.15/site-packages/pymol/pymol_path/test/dat/helix_amber.pdb
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_qt
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_qt/styles
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_qt/styles/pymol.sty
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_qt/icons
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_qt/icons/refresh.svg
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/test
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/test/single-right.png
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/test/double.png
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/test/single.png
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/menu_splash.svg
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/actions.json
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/bindings_vive_controller.json
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/hints_vive_controller.svg
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/hints_vive_controller.png
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/openvr/menu_splash.png
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/hsv.ppm
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/cmyk.png
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/splash.png
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/matrices
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/matrices/BLOSUM62
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/icons
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pymol/icons/icon2.svg
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/connector.vs
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/compute_color_for_light.fs
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/ramp.fs
@@ -400,8 +377,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/trilines.vs
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/bezier.vs
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/shaders/oit.vs
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/main.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/__pycache__/main.cpython-315.pyc
@@ -409,7 +384,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/__pycache__/main.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/__pycache__/__init__.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/lightingsettings_gui/__init__.py
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/apbs_gui
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/apbs_gui/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/apbs_gui/__pycache__/qtwidgets.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/apbs_gui/__pycache__/electrostatics.cpython-315.pyc
@@ -426,12 +400,8 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/apbs_gui/creating.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/startup/README.txt
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/setting_help.csv
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/tut
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/tut/1hpv.pdb
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chem_comp_bond-top100.cif
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/cyc6.gif
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/cyc3.xbm
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/aro65.xbm
@@ -452,7 +422,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/aro67.xbm
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/aro66.gif
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/pmg_tk/bitmaps/builder/aro65.gif
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/__pycache__/cgo03.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/__pycache__/cgo03.cpython-315.pyc
@@ -462,8 +431,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/1hpv.r3d
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/pept.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/demo/il2.pdb
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains/sc_bb_ind.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains/__pycache__/generate1.cpython-315.pyc
@@ -481,7 +448,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains/generate2.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/sidechains/generate1.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/water.pdb
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/nt_thr.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/ala.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/asn.pkl
@@ -613,7 +579,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/gly.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/nt_lysn.pkl
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/fragments/nt_glu.pkl
-/usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker/__pycache__/make99_simple.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker/__pycache__/make99_simple.cpython-315.opt-1.pyc
@@ -633,8 +598,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker/make99_simple.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/data/chempy/tinker/Makefile.delsci
 /usr/lib/python3.15/site-packages/pymol/pymol_path/LICENSE
-/usr/lib/python3.15/site-packages/pymol/pymol_path/examples
-/usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/chempy_model03.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/particle02.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/cgo05.py
@@ -759,7 +722,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/cam2crd.pym
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/gl03.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/devel/xmlrpc02.py
-/usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/__pycache__/build_peptide.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/__pycache__/dali.cpython-315.pyc
@@ -782,7 +744,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/packsurf.pml
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/multiclip_ray.pml
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/cookbook/symsph.py
-/usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/__pycache__/launch_viewer2.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/__pycache__/launch_viewer1.cpython-315.pyc
@@ -794,7 +755,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/README
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/launch_demo.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/launching/launch_viewer2.py
-/usr/lib/python3.15/site-packages/pymol/pymol_path/examples/chempy
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/chempy/__pycache__
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/chempy/__pycache__/generate_amber.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/chempy/__pycache__/generate_amber.cpython-315.pyc
@@ -804,7 +764,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/pymol_path/examples/chempy/generate_amber.py
 /usr/lib/python3.15/site-packages/pymol/xray.py
 /usr/lib/python3.15/site-packages/pymol/util.py
-/usr/lib/python3.15/site-packages/pymol/wizard
 /usr/lib/python3.15/site-packages/pymol/wizard/__pycache__
 /usr/lib/python3.15/site-packages/pymol/wizard/__pycache__/renaming.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pymol/wizard/__pycache__/annotation.cpython-315.pyc
@@ -895,7 +854,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol/_cmd.cpython-315-x86_64-linux-gnu.so
 /usr/lib/python3.15/site-packages/pymol/__main__.py
 /usr/lib/python3.15/site-packages/pymol/editor.py
-/usr/lib/python3.15/site-packages/pymol2
 /usr/lib/python3.15/site-packages/pymol2/__pycache__
 /usr/lib/python3.15/site-packages/pymol2/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol2/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -903,7 +861,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pymol2/__pycache__/cmd2.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pymol2/cmd2.py
 /usr/lib/python3.15/site-packages/pymol2/__init__.py
-/usr/lib/python3.15/site-packages/pmg_tk
 /usr/lib/python3.15/site-packages/pmg_tk/__pycache__
 /usr/lib/python3.15/site-packages/pmg_tk/__pycache__/volume.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/__pycache__/ColorEditor.cpython-315.pyc
@@ -925,7 +882,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_tk/__pycache__/ColorEditor.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/TextEditor.py
 /usr/lib/python3.15/site-packages/pmg_tk/Setting.py
-/usr/lib/python3.15/site-packages/pmg_tk/startup
 /usr/lib/python3.15/site-packages/pmg_tk/startup/__pycache__
 /usr/lib/python3.15/site-packages/pmg_tk/startup/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/startup/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -937,11 +893,9 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_tk/PMGApp.py
 /usr/lib/python3.15/site-packages/pmg_tk/ColorEditor.py
 /usr/lib/python3.15/site-packages/pmg_tk/PyMOLMapLoad.py
-/usr/lib/python3.15/site-packages/pmg_tk/skins
 /usr/lib/python3.15/site-packages/pmg_tk/skins/__pycache__
 /usr/lib/python3.15/site-packages/pmg_tk/skins/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/skins/__pycache__/__init__.cpython-315.opt-1.pyc
-/usr/lib/python3.15/site-packages/pmg_tk/skins/normal
 /usr/lib/python3.15/site-packages/pmg_tk/skins/normal/__pycache__
 /usr/lib/python3.15/site-packages/pmg_tk/skins/normal/__pycache__/ModalWindow.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/skins/normal/__pycache__/ModalWindow.cpython-315.pyc
@@ -953,20 +907,16 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/pmg_tk/skins/normal/ModalWindow.py
 /usr/lib/python3.15/site-packages/pmg_tk/skins/normal/builder.py
 /usr/lib/python3.15/site-packages/pmg_tk/skins/__init__.py
-/usr/lib/python3.15/site-packages/pmg_tk/skins/demo
 /usr/lib/python3.15/site-packages/pmg_tk/skins/demo/__pycache__
 /usr/lib/python3.15/site-packages/pmg_tk/skins/demo/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/skins/demo/__pycache__/__init__.cpython-315.opt-1.pyc
 /usr/lib/python3.15/site-packages/pmg_tk/skins/demo/__init__.py
-/usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/WHEEL
-/usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/licenses
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/licenses/AUTHORS
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/licenses/LICENSE
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/RECORD
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/METADATA
 /usr/lib/python3.15/site-packages/pymol-3.1.0.dist-info/top_level.txt
-/usr/lib/python3.15/site-packages/chempy
 /usr/lib/python3.15/site-packages/chempy/io.py
 /usr/lib/python3.15/site-packages/chempy/__pycache__
 /usr/lib/python3.15/site-packages/chempy/__pycache__/dictdb.cpython-315.opt-1.pyc
@@ -1046,7 +996,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/cif.py
 /usr/lib/python3.15/site-packages/chempy/xyz.py
 /usr/lib/python3.15/site-packages/chempy/protein_amber99.py
-/usr/lib/python3.15/site-packages/chempy/champ
 /usr/lib/python3.15/site-packages/chempy/champ/__pycache__
 /usr/lib/python3.15/site-packages/chempy/champ/__pycache__/formal_charges.cpython-315.pyc
 /usr/lib/python3.15/site-packages/chempy/champ/__pycache__/assign.cpython-315.pyc
@@ -1066,7 +1015,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/bond_amber.py
 /usr/lib/python3.15/site-packages/chempy/bonds.py
 /usr/lib/python3.15/site-packages/chempy/water_residues.py
-/usr/lib/python3.15/site-packages/chempy/bmin
 /usr/lib/python3.15/site-packages/chempy/bmin/__pycache__
 /usr/lib/python3.15/site-packages/chempy/bmin/__pycache__/state.cpython-315.pyc
 /usr/lib/python3.15/site-packages/chempy/bmin/__pycache__/util.cpython-315.opt-1.pyc
@@ -1086,7 +1034,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/protein_amber.py
 /usr/lib/python3.15/site-packages/chempy/models.py
 /usr/lib/python3.15/site-packages/chempy/protein_residues.py
-/usr/lib/python3.15/site-packages/chempy/fragments
 /usr/lib/python3.15/site-packages/chempy/fragments/__pycache__
 /usr/lib/python3.15/site-packages/chempy/fragments/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/chempy/fragments/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -1102,7 +1049,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/map.py
 /usr/lib/python3.15/site-packages/chempy/protein.py
 /usr/lib/python3.15/site-packages/chempy/brick.py
-/usr/lib/python3.15/site-packages/chempy/tinker
 /usr/lib/python3.15/site-packages/chempy/tinker/amber.py
 /usr/lib/python3.15/site-packages/chempy/tinker/__pycache__
 /usr/lib/python3.15/site-packages/chempy/tinker/__pycache__/state.cpython-315.pyc
@@ -1124,7 +1070,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/neighbor.py
 /usr/lib/python3.15/site-packages/chempy/pkl.py
 /usr/lib/python3.15/site-packages/chempy/hetatm.py
-/usr/lib/python3.15/site-packages/chempy/fast
 /usr/lib/python3.15/site-packages/chempy/fast/__pycache__
 /usr/lib/python3.15/site-packages/chempy/fast/__pycache__/__init__.cpython-315.pyc
 /usr/lib/python3.15/site-packages/chempy/fast/__pycache__/__init__.cpython-315.opt-1.pyc
@@ -1133,7 +1078,6 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/cpv.py
 /usr/lib/python3.15/site-packages/chempy/mae.py
 /usr/lib/python3.15/site-packages/chempy/protein_mmff.py
-/usr/lib/python3.15/site-packages/chempy/mmtf
 /usr/lib/python3.15/site-packages/chempy/mmtf/io.py
 /usr/lib/python3.15/site-packages/chempy/mmtf/__pycache__
 /usr/lib/python3.15/site-packages/chempy/mmtf/__pycache__/io.cpython-315.opt-1.pyc
@@ -1146,8 +1090,8 @@ patchingfilemodules/pmg_qt/pymol_qt_gui.py
 /usr/lib/python3.15/site-packages/chempy/solvate.py
 /usr/lib/python3.15/site-packages/chempy/mass.py
 /usr/lib/python3.15/site-packages/chempy/lst.py
-/usr/share/applications
+/usr/share/applications/org.pymol.PyMOL.desktop
+/usr/share/pixmaps/pymol.png
 /usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/pymol.svg
-/usr/bin
 /usr/bin/pymol
