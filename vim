@@ -1,6 +1,6 @@
-9.2.1258
+9.2.1259
 /usr/share/doc
-/usr/share/doc/vim-9.2.1257
+/usr/share/doc/vim-9.2.1259
 /usr/share/man/ja/man1/vimdiff.1
 /usr/share/man/ja/man1/xxd.1
 /usr/share/man/ja/man1/vim.1
@@ -1260,7 +1260,6 @@
 /usr/share/vim/vim92/spell/en.ascii.spl
 /usr/share/vim/vim92/spell/en.latin1.spl
 /usr/share/vim/vim92/scripts.vim
-/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/indent/beancount.vim
 /usr/share/vim/vim92/indent/raml.vim
 /usr/share/vim/vim92/indent/fish.vim
