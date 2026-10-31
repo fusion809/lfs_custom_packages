@@ -1,0 +1,10 @@
+1.2.12
+/usr/lib
+/usr/lib/libSDL_image.so
+/usr/lib/libSDL_image.la
+/usr/lib/libSDL_image-1.2.so.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/SDL_image.pc
+/usr/lib/libSDL_image-1.2.so.0.8.4
+/usr/include/SDL
+/usr/include/SDL/SDL_image.h

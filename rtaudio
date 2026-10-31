@@ -1,0 +1,15 @@
+6.0.1
+/usr/lib
+/usr/lib/librtaudio.so.7
+/usr/lib/librtaudio.so.7.0.0
+/usr/lib/librtaudio.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/rtaudio.pc
+/usr/lib/librtaudio.a
+/usr/include
+/usr/include/rtaudio
+/usr/include/rtaudio/RtAudio.h
+/usr/include/rtaudio/rtaudio_c.h
+/lib/pkgconfig
+/lib/librtaudio.so.7
+/lib/librtaudio.so
