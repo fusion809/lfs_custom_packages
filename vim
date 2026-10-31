@@ -1,6 +1,6 @@
-9.2.1254
+9.2.1255
 /usr/share/doc
-/usr/share/doc/vim-9.2.1254
+/usr/share/doc/vim-9.2.1255
 /usr/share/man/ja/man1/vimdiff.1
 /usr/share/man/ja/man1/xxd.1
 /usr/share/man/ja/man1/vim.1
@@ -147,7 +147,6 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/vimrc_example.vim
 /usr/share/vim/vim92/mswin.vim
-/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/svg.vim
 /usr/share/vim/vim92/syntax/masm.vim
 /usr/share/vim/vim92/syntax/abel.vim
@@ -1261,7 +1260,6 @@
 /usr/share/vim/vim92/spell/en.ascii.spl
 /usr/share/vim/vim92/spell/en.latin1.spl
 /usr/share/vim/vim92/scripts.vim
-/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/indent/beancount.vim
 /usr/share/vim/vim92/indent/raml.vim
 /usr/share/vim/vim92/indent/fish.vim
@@ -1458,7 +1456,6 @@
 /usr/share/vim/vim92/bugreport.vim
 /usr/share/vim/vim92/filetype.vim
 /usr/share/vim/vim92/ftplugof.vim
-/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/svg.vim
 /usr/share/vim/vim92/ftplugin/masm.vim
 /usr/share/vim/vim92/ftplugin/xcompose.vim
