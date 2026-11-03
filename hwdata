@@ -1,9 +1,9 @@
-0.412
+0.413
+/usr/share/hwdata
+/usr/share/hwdata/oui.txt
+/usr/share/hwdata/usb.ids
+/usr/share/hwdata/pci.ids
+/usr/share/hwdata/iab.txt
+/usr/share/hwdata/pnp.ids
 /usr/share/pkgconfig
 /usr/share/pkgconfig/hwdata.pc
-/usr/share/hwdata
-/usr/share/hwdata/pci.ids
-/usr/share/hwdata/oui.txt
-/usr/share/hwdata/pnp.ids
-/usr/share/hwdata/iab.txt
-/usr/share/hwdata/usb.ids
