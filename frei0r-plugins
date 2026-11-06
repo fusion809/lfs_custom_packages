@@ -1,5 +1,4 @@
-3.6.0
-/usr/lib
+3.7.0
 /usr/lib/frei0r-1
 /usr/lib/frei0r-1/balanc0r.so
 /usr/lib/frei0r-1/rgbsplit0r.so
@@ -50,12 +49,14 @@
 /usr/lib/frei0r-1/brightness.so
 /usr/lib/frei0r-1/G.so
 /usr/lib/frei0r-1/pixels0rt.so
+/usr/lib/frei0r-1/whirlpinch0r.so
 /usr/lib/frei0r-1/sopsat.so
 /usr/lib/frei0r-1/sleid0r_wipe-up.so
 /usr/lib/frei0r-1/glow.so
 /usr/lib/frei0r-1/cluster.so
 /usr/lib/frei0r-1/hue.so
 /usr/lib/frei0r-1/heatmap0r.so
+/usr/lib/frei0r-1/harris0r.so
 /usr/lib/frei0r-1/sleid0r_slide-down.so
 /usr/lib/frei0r-1/alphain.so
 /usr/lib/frei0r-1/lightgraffiti.so
@@ -89,6 +90,7 @@
 /usr/lib/frei0r-1/grain_extract.so
 /usr/lib/frei0r-1/test_pat_G.so
 /usr/lib/frei0r-1/sleid0r_slide-left.so
+/usr/lib/frei0r-1/slitscan0r.so
 /usr/lib/frei0r-1/sleid0r_push-right.so
 /usr/lib/frei0r-1/addition_alpha.so
 /usr/lib/frei0r-1/kaleid0sc0pe.so
@@ -105,6 +107,7 @@
 /usr/lib/frei0r-1/uvmap.so
 /usr/lib/frei0r-1/vectorscope.so
 /usr/lib/frei0r-1/timeout.so
+/usr/lib/frei0r-1/motiondiff0r.so
 /usr/lib/frei0r-1/darken.so
 /usr/lib/frei0r-1/test_pat_B.so
 /usr/lib/frei0r-1/colordistance.so
@@ -144,6 +147,7 @@
 /usr/lib/frei0r-1/nosync0r.so
 /usr/lib/frei0r-1/invert0r.so
 /usr/lib/frei0r-1/luminance.so
+/usr/lib/frei0r-1/flarefx.so
 /usr/lib/frei0r-1/sleid0r_push-up.so
 /usr/lib/frei0r-1/plasma.so
 /usr/lib/frei0r-1/burn.so
@@ -174,6 +178,7 @@
 /usr/include/frei0r
 /usr/include/frei0r/colorspace.h
 /usr/include/frei0r/cfc.h
+/usr/include/frei0r/bundle.h
 /usr/include/frei0r/math.h
 /usr/include/frei0r/blur.h
 /usr/include/frei0r/cairo.h
@@ -224,11 +229,13 @@
 /lib/frei0r-1/emboss.so
 /lib/frei0r-1/equaliz0r.so
 /lib/frei0r-1/filmgrain.so
+/lib/frei0r-1/flarefx.so
 /lib/frei0r-1/flippo.so
 /lib/frei0r-1/gamma.so
 /lib/frei0r-1/gateweave.so
 /lib/frei0r-1/glow.so
 /lib/frei0r-1/glitch0r.so
+/lib/frei0r-1/harris0r.so
 /lib/frei0r-1/heatmap0r.so
 /lib/frei0r-1/hueshift0r.so
 /lib/frei0r-1/invert0r.so
@@ -243,6 +250,7 @@
 /lib/frei0r-1/medians.so
 /lib/frei0r-1/measure_pr0be.so
 /lib/frei0r-1/measure_pr0file.so
+/lib/frei0r-1/motiondiff0r.so
 /lib/frei0r-1/ndvi.so
 /lib/frei0r-1/nervous.so
 /lib/frei0r-1/normaliz0r.so
@@ -266,6 +274,7 @@
 /lib/frei0r-1/sharpness.so
 /lib/frei0r-1/shadert0y.so
 /lib/frei0r-1/sigmoidaltransfer.so
+/lib/frei0r-1/slitscan0r.so
 /lib/frei0r-1/sobel.so
 /lib/frei0r-1/softglow.so
 /lib/frei0r-1/sopsat.so
@@ -283,6 +292,7 @@
 /lib/frei0r-1/vertigo.so
 /lib/frei0r-1/vignette.so
 /lib/frei0r-1/water.so
+/lib/frei0r-1/whirlpinch0r.so
 /lib/frei0r-1/plasma.so
 /lib/frei0r-1/ising0r.so
 /lib/frei0r-1/lissajous0r.so
