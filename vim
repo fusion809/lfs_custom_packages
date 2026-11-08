@@ -1,6 +1,6 @@
-9.2.1308
+9.2.1309
 /usr/share/doc
-/usr/share/doc/vim-9.2.1308
+/usr/share/doc/vim-9.2.1309
 /usr/share/man/ja/man1/vimdiff.1
 /usr/share/man/ja/man1/xxd.1
 /usr/share/man/ja/man1/vim.1
@@ -107,6 +107,7 @@
 /usr/share/man/pl/man1/vimtutor.1
 /usr/share/applications
 /usr/share/applications/vim.desktop
+/usr/share/applications/intent.cache
 /usr/share/applications/gvim.desktop
 /usr/share/applications/mimeinfo.cache
 /usr/share/vim/vim92/macros
@@ -147,7 +148,6 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/vimrc_example.vim
 /usr/share/vim/vim92/mswin.vim
-/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/svg.vim
 /usr/share/vim/vim92/syntax/masm.vim
 /usr/share/vim/vim92/syntax/abel.vim
@@ -1262,7 +1262,6 @@
 /usr/share/vim/vim92/spell/en.ascii.spl
 /usr/share/vim/vim92/spell/en.latin1.spl
 /usr/share/vim/vim92/scripts.vim
-/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/indent/beancount.vim
 /usr/share/vim/vim92/indent/raml.vim
 /usr/share/vim/vim92/indent/fish.vim
@@ -1461,7 +1460,6 @@
 /usr/share/vim/vim92/bugreport.vim
 /usr/share/vim/vim92/filetype.vim
 /usr/share/vim/vim92/ftplugof.vim
-/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/svg.vim
 /usr/share/vim/vim92/ftplugin/masm.vim
 /usr/share/vim/vim92/ftplugin/xcompose.vim
