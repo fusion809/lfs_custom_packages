@@ -1,6 +1,6 @@
-9.2.1302
+9.2.1308
 /usr/share/doc
-/usr/share/doc/vim-9.2.1302
+/usr/share/doc/vim-9.2.1308
 /usr/share/man/ja/man1/vimdiff.1
 /usr/share/man/ja/man1/xxd.1
 /usr/share/man/ja/man1/vim.1
@@ -147,6 +147,7 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/vimrc_example.vim
 /usr/share/vim/vim92/mswin.vim
+/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/svg.vim
 /usr/share/vim/vim92/syntax/masm.vim
 /usr/share/vim/vim92/syntax/abel.vim
@@ -786,6 +787,7 @@
 /usr/share/vim/vim92/syntax/po.vim
 /usr/share/vim/vim92/syntax/trustees.vim
 /usr/share/vim/vim92/syntax/pq.vim
+/usr/share/vim/vim92/syntax/ascendc.vim
 /usr/share/vim/vim92/syntax/tcl.vim
 /usr/share/vim/vim92/syntax/rust.vim
 /usr/share/vim/vim92/syntax/htmldjango.vim
@@ -1260,6 +1262,7 @@
 /usr/share/vim/vim92/spell/en.ascii.spl
 /usr/share/vim/vim92/spell/en.latin1.spl
 /usr/share/vim/vim92/scripts.vim
+/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/indent/beancount.vim
 /usr/share/vim/vim92/indent/raml.vim
 /usr/share/vim/vim92/indent/fish.vim
@@ -1407,6 +1410,7 @@
 /usr/share/vim/vim92/indent/ant.vim
 /usr/share/vim/vim92/indent/vroom.vim
 /usr/share/vim/vim92/indent/teraterm.vim
+/usr/share/vim/vim92/indent/ascendc.vim
 /usr/share/vim/vim92/indent/tcl.vim
 /usr/share/vim/vim92/indent/rust.vim
 /usr/share/vim/vim92/indent/htmldjango.vim
@@ -1457,6 +1461,7 @@
 /usr/share/vim/vim92/bugreport.vim
 /usr/share/vim/vim92/filetype.vim
 /usr/share/vim/vim92/ftplugof.vim
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/svg.vim
 /usr/share/vim/vim92/ftplugin/masm.vim
 /usr/share/vim/vim92/ftplugin/xcompose.vim
@@ -1813,6 +1818,7 @@
 /usr/share/vim/vim92/ftplugin/javacc.vim
 /usr/share/vim/vim92/ftplugin/desktop.vim
 /usr/share/vim/vim92/ftplugin/pq.vim
+/usr/share/vim/vim92/ftplugin/ascendc.vim
 /usr/share/vim/vim92/ftplugin/tcl.vim
 /usr/share/vim/vim92/ftplugin/rust.vim
 /usr/share/vim/vim92/ftplugin/htmldjango.vim
