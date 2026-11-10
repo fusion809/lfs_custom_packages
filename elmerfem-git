@@ -1,4 +1,4 @@
-56b16bd49564d5b16fdc57862ccda024043b0f39
+16093051a4d21061692885eb9df9cb98688d2da2
 /usr/lib/ElmerGUI/ngcore
 /usr/lib/ElmerGUI/ngcore/libng.a
 /usr/lib/elmersolver
@@ -699,8 +699,6 @@
 /usr/bin/Mesh2D
 /usr/bin/ElmerSolver_mpi
 /usr/bin/ViewFactors
-/boot/grub
-/boot/grub/grub.cfg
 /lib/elmersolver/libmatc.so
 /bin/matc
 /lib/elmersolver/libumfpack.a
