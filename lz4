@@ -1,9 +1,9 @@
-1.11.0
+1.11.1
 /usr/lib
 /usr/lib/liblz4.so.1
 /usr/lib/liblz4.a
+/usr/lib/liblz4.so.1.11.1
 /usr/lib/liblz4.so
-/usr/lib/liblz4.so.1.11.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/liblz4.pc
 /usr/share/man/man1
