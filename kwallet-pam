@@ -1,8 +1,8 @@
-6.8.2
-/usr/lib/security
-/usr/lib/security/pam_kwallet5.so
+6.8.3
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kwallet-pam.service
+/usr/lib/security
+/usr/lib/security/pam_kwallet5.so
 /usr/libexec
 /usr/libexec/pam_kwallet_init
 /etc/xdg/autostart
