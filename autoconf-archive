@@ -1,4 +1,4 @@
-2024.10.16
+2026.11.11
 /usr/share/aclocal
 /usr/share/aclocal/ax_execinfo.m4
 /usr/share/aclocal/ax_check_girs_gjs.m4
@@ -586,7 +586,6 @@
 /usr/share/aclocal/ax_check_awk_compl.m4
 /usr/share/aclocal/ax_check_pcre2.m4
 /usr/share/aclocal/ax_check_mysqlr.m4
-/usr/share/doc
 /usr/share/doc/autoconf-archive
 /usr/share/doc/autoconf-archive/COPYING.EXCEPTION
 /usr/share/doc/autoconf-archive/COPYING
