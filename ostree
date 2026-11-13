@@ -1,4 +1,4 @@
-2026.6
+2026.7
 /usr/lib
 /usr/lib/tmpfiles.d
 /usr/lib/tmpfiles.d/ostree-tmpfiles.conf
@@ -27,10 +27,10 @@
 /usr/share/ostree/trusted.gpg.d
 /usr/share/ostree/trusted.gpg.d/README-gpg
 /usr/share/doc
-/usr/share/doc/libostree-2026.6
-/usr/share/doc/libostree-2026.6/COPYING
-/usr/share/doc/libostree-2026.6/TODO
-/usr/share/doc/libostree-2026.6/README.md
+/usr/share/doc/libostree-2026.7
+/usr/share/doc/libostree-2026.7/COPYING
+/usr/share/doc/libostree-2026.7/TODO
+/usr/share/doc/libostree-2026.7/README.md
 /usr/share/gir-1.0
 /usr/share/gir-1.0/OSTree-1.0.gir
 /usr/libexec/libostree
