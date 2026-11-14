@@ -1,4 +1,4 @@
-2.6.11
+2.6.13
 /usr/lib
 /usr/lib/libfl.la
 /usr/lib/libfl.so.2
@@ -63,12 +63,12 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/flex.mo
 /usr/share/doc
-/usr/share/doc/flex-2.6.11
-/usr/share/doc/flex-2.6.11/COPYING
-/usr/share/doc/flex-2.6.11/AUTHORS
-/usr/share/doc/flex-2.6.11/ONEWS
-/usr/share/doc/flex-2.6.11/README.md
-/usr/share/doc/flex-2.6.11/NEWS
+/usr/share/doc/flex-2.6.13
+/usr/share/doc/flex-2.6.13/COPYING
+/usr/share/doc/flex-2.6.13/AUTHORS
+/usr/share/doc/flex-2.6.13/ONEWS
+/usr/share/doc/flex-2.6.13/README.md
+/usr/share/doc/flex-2.6.13/NEWS
 /usr/share/man/man1
 /usr/share/man/man1/flex.1
 /usr/share/man/man1/lex.1
