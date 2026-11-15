@@ -1,7 +1,14 @@
-4b365dae1c8c2adb022bf34d6a8cf637225819bb
+4cad857b4484b32116097cf903052669a94a232f
 /usr/share/applications/woxi-studio.desktop
 /usr/share/pixmaps
 /usr/share/pixmaps/woxi.png
 /usr/bin
 /usr/bin/woxi-studio
 /usr/bin/woxi
+/etc
+/etc/lfs-release
+/etc/blfs-release
+/etc/os-release
+/etc/lsb-release
+/boot/grub
+/boot/grub/grub.cfg
