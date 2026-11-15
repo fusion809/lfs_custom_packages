@@ -1,13 +1,13 @@
-1.0.9
+1.1.0
 /usr/lib
 /usr/lib/libgbm.so
-/usr/lib/libgbm.so.1.0.9
+/usr/lib/libgbm.so.1.1.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/gbm.pc
 /usr/lib/libgbm.so.1
 /usr/share/doc
-/usr/share/doc/libgbm-1.0.9
-/usr/share/doc/libgbm-1.0.9/using.md
+/usr/share/doc/libgbm-1.1.0
+/usr/share/doc/libgbm-1.1.0/using.md
 /usr/share/man/man3
 /usr/share/man/man3/libgbm.3
 /usr/include
