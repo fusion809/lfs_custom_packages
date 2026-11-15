@@ -1,6 +1,6 @@
-0.10.26
+0.10.27
 /usr/bin
-/usr/bin/cargo-cinstall
 /usr/bin/cargo-cbuild
+/usr/bin/cargo-cinstall
 /usr/bin/cargo-ctest
 /usr/bin/cargo-capi
