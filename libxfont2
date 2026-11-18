@@ -1,12 +1,12 @@
-2.0.9
+2.0.10
 /usr/lib
-/usr/lib/pkgconfig
-/usr/lib/pkgconfig/xfont2.pc
+/usr/lib/libXfont2.so
 /usr/lib/libXfont2.so.2.0.0
+/usr/lib/libXfont2.a
 /usr/lib/libXfont2.la
 /usr/lib/libXfont2.so.2
-/usr/lib/libXfont2.a
-/usr/lib/libXfont2.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xfont2.pc
 /usr/include/X11/fonts
 /usr/include/X11/fonts/libxfont2.h
 /etc

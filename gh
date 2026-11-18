@@ -1,15 +1,17 @@
-2.104.0
+2.105.0
 /usr/share/bash-completion/completions
 /usr/share/bash-completion/completions/gh
 /usr/share/fish/vendor_completions.d
 /usr/share/fish/vendor_completions.d/gh.fish
 /usr/share/man/man1
+/usr/share/man/man1/gh-event-subscription-delete.1
 /usr/share/man/man1/gh-auth.1
 /usr/share/man/man1/gh-gpg-key.1
 /usr/share/man/man1/gh-search.1
 /usr/share/man/man1/gh-repo-archive.1
 /usr/share/man/man1/gh-config-set.1
 /usr/share/man/man1/gh-codespace-stop.1
+/usr/share/man/man1/gh-event-subscription.1
 /usr/share/man/man1/gh-repo-deploy-key.1
 /usr/share/man/man1/gh-discussion.1
 /usr/share/man/man1/gh-repo.1
@@ -24,6 +26,7 @@
 /usr/share/man/man1/gh-gist-create.1
 /usr/share/man/man1/gh-repo-deploy-key-list.1
 /usr/share/man/man1/gh-config-get.1
+/usr/share/man/man1/gh-event.1
 /usr/share/man/man1/gh-project-unlink.1
 /usr/share/man/man1/gh-pr-merge.1
 /usr/share/man/man1/gh-repo-create.1
@@ -109,6 +112,7 @@
 /usr/share/man/man1/gh-issue-unpin.1
 /usr/share/man/man1/gh-pr-comment.1
 /usr/share/man/man1/gh-codespace-cp.1
+/usr/share/man/man1/gh-event-subscription-view.1
 /usr/share/man/man1/gh-discussion-create.1
 /usr/share/man/man1/gh-repo-license-list.1
 /usr/share/man/man1/gh-label-list.1
@@ -122,7 +126,9 @@
 /usr/share/man/man1/gh-issue-artifact-list.1
 /usr/share/man/man1/gh-gpg-key-delete.1
 /usr/share/man/man1/gh-skill-publish.1
+/usr/share/man/man1/gh-event-subscription-list.1
 /usr/share/man/man1/gh-repo-autolink-view.1
+/usr/share/man/man1/gh-event-subscription-create.1
 /usr/share/man/man1/gh-extension-search.1
 /usr/share/man/man1/gh-repo-edit.1
 /usr/share/man/man1/gh-attestation-trusted-root.1
@@ -194,6 +200,7 @@
 /usr/share/man/man1/gh-cache.1
 /usr/share/man/man1/gh-repo-sync.1
 /usr/share/man/man1/gh-release-list.1
+/usr/share/man/man1/gh-event-listen.1
 /usr/share/man/man1/gh-project-list.1
 /usr/share/man/man1/gh-issue-status.1
 /usr/share/man/man1/gh-extension.1

@@ -1,12 +1,12 @@
-1.1.9
+1.1.10
 /usr/lib
+/usr/lib/libfontenc.a
 /usr/lib/libfontenc.so
+/usr/lib/libfontenc.so.1
+/usr/lib/libfontenc.so.1.0.0
+/usr/lib/libfontenc.la
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/fontenc.pc
-/usr/lib/libfontenc.so.1.0.0
-/usr/lib/libfontenc.so.1
-/usr/lib/libfontenc.la
-/usr/lib/libfontenc.a
 /usr/include/X11/fonts
 /usr/include/X11/fonts/fontenc.h
 /etc
