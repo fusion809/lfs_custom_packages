@@ -1,4 +1,4 @@
-23.1.5
+23.1.6
 /usr/lib
 /usr/lib/libclangTooling.a
 /usr/lib/libclangFrontend.a
@@ -12,7 +12,6 @@
 /usr/lib/libclangBasic.a
 /usr/lib/libclangInstallAPI.a
 /usr/lib/libLLVMAnalysis.a
-/usr/lib/libclang.so.23.1.5
 /usr/lib/libclangSupport.a
 /usr/lib/libclangRewrite.a
 /usr/lib/libLLVMCodeGen.a
@@ -106,6 +105,7 @@
 /usr/lib/libclangDriver.a
 /usr/lib/libLLVMX86AsmParser.a
 /usr/lib/libclangLex.a
+/usr/lib/libclang.so.23.1.6
 /usr/lib/libLLVMIRReader.a
 /usr/lib/libclangRewriteFrontend.a
 /usr/lib/libclangStaticAnalyzerFrontend.a
@@ -4891,7 +4891,7 @@
 /lib/libear/config.h.in
 /lib/libear/ear.c
 /bin/scan-view
-/lib/libclang.so.23.1.5
+/lib/libclang.so.23.1.6
 /lib/libclang.so.23.1
 /lib/libclang.so
 /bin/offload-arch
