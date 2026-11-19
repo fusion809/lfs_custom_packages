@@ -1,0 +1,12 @@
+4.33
+/usr/lib
+/usr/lib/libev.so
+/usr/lib/libev.la
+/usr/lib/libev.so.4
+/usr/lib/libev.so.4.0.0
+/usr/share/man/man3
+/usr/share/man/man3/ev.3
+/usr/include
+/usr/include/ev.h
+/usr/include/ev++.h
+/usr/include/event.h

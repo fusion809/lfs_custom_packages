@@ -1,4 +1,4 @@
-3.133
+3.134
 /usr/lib
 /usr/lib/libfreebl3.chk
 /usr/lib/libnsssysinit.so
@@ -18,6 +18,7 @@
 /usr/lib/libnssutil3.so
 /usr/lib/libfreeblpriv3.chk
 /usr/lib/libfreeblpriv3.so
+/usr/include/nss
 /usr/include/nss/pkix_pl_httpcertstore.h
 /usr/include/nss/base.h
 /usr/include/nss/devt.h
@@ -116,7 +117,6 @@
 /usr/include/nss/secasn1.h
 /usr/include/nss/verref.h
 /usr/include/nss/devtm.h
-/usr/include/nss/jar.h
 /usr/include/nss/pkix_pl_socket.h
 /usr/include/nss/pkcs11n.h
 /usr/include/nss/pkixt.h
@@ -211,8 +211,19 @@
 /usr/include/nss/pkcs11t.h
 /usr/include/nss/nssb64t.h
 /usr/include/nss/keyi.h
+/usr/include/nss/mozpkix
+/usr/include/nss/mozpkix/pkixc.h
+/usr/include/nss/mozpkix/Time.h
+/usr/include/nss/mozpkix/Result.h
+/usr/include/nss/mozpkix/pkixnss.h
+/usr/include/nss/mozpkix/Input.h
+/usr/include/nss/mozpkix/pkixtypes.h
+/usr/include/nss/mozpkix/pkix.h
+/usr/include/nss/mozpkix/pkixutil.h
+/usr/include/nss/mozpkix/nss_scoped_ptrs.h
+/usr/include/nss/mozpkix/pkixder.h
+/usr/include/nss/mozpkix/pkixcheck.h
 /usr/include/nss/ckfw.h
-/usr/include/nss/jar-ds.h
 /usr/include/nss/pkix_pl_mem.h
 /usr/include/nss/utilrename.h
 /usr/include/nss/pkix_trustanchor.h
@@ -258,7 +269,6 @@
 /usr/include/nss/pkix_pl_ocspresponse.h
 /usr/include/nss/devm.h
 /usr/include/nss/nssilckt.h
-/usr/include/nss/jarfile.h
 /usr/include/nss/blake2b.h
 /usr/include/nss/ecl-exp.h
 /usr/include/nss/secder.h
