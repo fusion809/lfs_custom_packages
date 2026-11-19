@@ -1,7 +1,7 @@
-1.9.0
+1.9.1
 /usr/lib
 /usr/lib/libksba.so
-/usr/lib/libksba.so.8.17.0
+/usr/lib/libksba.so.8.17.1
 /usr/lib/libksba.la
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/ksba.pc
