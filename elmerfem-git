@@ -1,4 +1,4 @@
-bf748d0fc7b3250960617d23f35aacd98a12c55e
+a23fae0fe4071cfe7829b7229ccf984fb44665f5
 /usr/lib/ElmerGUI/ngcore
 /usr/lib/ElmerGUI/ngcore/libng.a
 /usr/lib/elmersolver
@@ -515,7 +515,6 @@ bf748d0fc7b3250960617d23f35aacd98a12c55e
 /usr/share/elmersolver/include
 /usr/share/elmersolver/include/types.mod
 /usr/share/elmersolver/include/lumpingutils.mod
-/usr/share/elmersolver/include/cutfemutils.mod
 /usr/share/elmersolver/include/covarianceutils.mod
 /usr/share/elmersolver/include/meshtransform.mod
 /usr/share/elmersolver/include/statelecsolvevecfront.mod
@@ -535,6 +534,7 @@ bf748d0fc7b3250960617d23f35aacd98a12c55e
 /usr/share/elmersolver/include/loadmod.mod
 /usr/share/elmersolver/include/huti_sfe.mod
 /usr/share/elmersolver/include/diffuseconvectivegeneral.mod
+/usr/share/elmersolver/include/splitfemutils.mod
 /usr/share/elmersolver/include/hashtable.mod
 /usr/share/elmersolver/include/huti_interfaces.mod
 /usr/share/elmersolver/include/matrixscaling.mod
@@ -717,7 +717,6 @@ bf748d0fc7b3250960617d23f35aacd98a12c55e
 /usr/share/elmersolver/include/.
 /usr/share/elmersolver/include/./types.mod
 /usr/share/elmersolver/include/./lumpingutils.mod
-/usr/share/elmersolver/include/./cutfemutils.mod
 /usr/share/elmersolver/include/./covarianceutils.mod
 /usr/share/elmersolver/include/./meshtransform.mod
 /usr/share/elmersolver/include/./statelecsolvevecfront.mod
@@ -737,6 +736,7 @@ bf748d0fc7b3250960617d23f35aacd98a12c55e
 /usr/share/elmersolver/include/./loadmod.mod
 /usr/share/elmersolver/include/./huti_sfe.mod
 /usr/share/elmersolver/include/./diffuseconvectivegeneral.mod
+/usr/share/elmersolver/include/./splitfemutils.mod
 /usr/share/elmersolver/include/./hashtable.mod
 /usr/share/elmersolver/include/./huti_interfaces.mod
 /usr/share/elmersolver/include/./matrixscaling.mod
