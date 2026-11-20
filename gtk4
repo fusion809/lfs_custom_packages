@@ -1,6 +1,6 @@
-4.25.0
+4.25.1
 /usr/lib
-/usr/lib/libgtk-4.so.1.2500.0
+/usr/lib/libgtk-4.so.1.2501.0
 /usr/lib/libgtk-4.so
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/Gtk-4.0.typelib
@@ -1532,6 +1532,7 @@
 /usr/include/gtk-4.0/gtk/gtkfilterlistmodel.h
 /usr/include/gtk-4.0/gtk/gtklistview.h
 /usr/include/gtk-4.0/gtk/gtknumericsorter.h
+/usr/include/gtk-4.0/gtk/gtkallocationdetails.h
 /usr/include/gtk-4.0/gtk/gtktexttagtable.h
 /usr/include/gtk-4.0/gtk/gtkcalendar.h
 /usr/include/gtk-4.0/gtk/gtkdroptargetasync.h
