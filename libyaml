@@ -1,10 +1,10 @@
-0.2.5
+0.2.6
 /usr/lib
-/usr/lib/libyaml-0.so.2
+/usr/lib/libyaml-0.so.1
+/usr/lib/libyaml.la
+/usr/lib/libyaml-0.so.1.1.10
 /usr/lib/libyaml.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/yaml-0.1.pc
-/usr/lib/libyaml.la
-/usr/lib/libyaml-0.so.2.0.9
 /usr/include
 /usr/include/yaml.h
