@@ -1,6 +1,6 @@
-9.2.1376
+9.2.1378
 /usr/share/doc
-/usr/share/doc/vim-9.2.1376
+/usr/share/doc/vim-9.2.1377
 /usr/share/man/ja/man1/vimdiff.1
 /usr/share/man/ja/man1/xxd.1
 /usr/share/man/ja/man1/vim.1
