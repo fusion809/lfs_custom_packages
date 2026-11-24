@@ -1,13 +1,13 @@
-9.4.0
+9.5.0
 /usr/lib
 /usr/lib/cmake/simdutf
 /usr/lib/cmake/simdutf/simdutf-config-version.cmake
 /usr/lib/cmake/simdutf/simdutfTargets.cmake
 /usr/lib/cmake/simdutf/simdutf-config.cmake
 /usr/lib/cmake/simdutf/simdutfTargets-release.cmake
-/usr/lib/libsimdutf.so.38.0.0
+/usr/lib/libsimdutf.so.39
 /usr/lib/libsimdutf.so
-/usr/lib/libsimdutf.so.38
+/usr/lib/libsimdutf.so.39.0.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/simdutf.pc
 /usr/share/man/man1
@@ -80,8 +80,8 @@
 /usr/bin/fastbase64.coreutils
 /bin/sutf
 /bin/fastbase64
-/lib/libsimdutf.so.38.0.0
-/lib/libsimdutf.so.38
+/lib/libsimdutf.so.39.0.0
+/lib/libsimdutf.so.39
 /lib/libsimdutf.so
 /lib/cmake/simdutf/simdutf-config.cmake
 /lib/cmake/simdutf/simdutf-config-version.cmake
